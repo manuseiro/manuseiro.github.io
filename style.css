@@ -92,6 +92,7 @@ img{
 .who-are-you {
   background-color: rgba(48, 48, 48,1);
   height: 100vh;
+  text-align: center;
 }
 .who-are-you .caricatura-img{
   position: relative;
@@ -109,6 +110,7 @@ img{
 @media (min-width:1024px){
   .who-are-you {
     background: linear-gradient(63.13deg, rgba(40, 40, 40,1) 51.04%, #303030 51.05%);
+    text-align: left;
   }
 }
 /*MEDIA SCREEN - DESKTOP*/
