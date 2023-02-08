@@ -13,7 +13,11 @@ body {
 img{
     width: 100%;
 }
-/*BTN*/
+/*BORDER*/
+.border-primary {
+  border-color: rgba(0, 175, 239,1)!important;
+}
+/*BOTOES*/
 .btn{
     line-height: 1;
     transition: background-color 0.35s ease 0s;
