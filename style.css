@@ -33,10 +33,19 @@ img{
 	border-color: #e34c43;
 }
 .btn-primary {
+	background-color: rgba(0, 175, 239,1)!important;
+	border-color: rgba(0, 175, 239,1)!important;
+}
+.btn-primary:hover {
+  color: #282828;
+	background-color: #16c1ff!important;
+	border-color: #16c1ff!important;
+}
+.bg-primary {
 	background-color: rgba(0, 175, 239,1);
 	border-color: rgba(0, 175, 239,1);
 }
-.btn-primary:hover {
+.bg-primary:hover {
   color: #282828;
 	background-color: #16c1ff;
 	border-color: #16c1ff;
