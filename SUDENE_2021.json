@@ -1,0 +1,10372 @@
+[
+ {
+  "CD_MUN": 2100055,
+  "NM_MUN": "Açailândia",
+  "cod_Mun_Sudene": 2100055
+ },
+ {
+  "CD_MUN": 2100105,
+  "NM_MUN": "Afonso Cunha",
+  "cod_Mun_Sudene": 2100105
+ },
+ {
+  "CD_MUN": 2100154,
+  "NM_MUN": "Água Doce do Maranhão",
+  "cod_Mun_Sudene": 2100154
+ },
+ {
+  "CD_MUN": 2100204,
+  "NM_MUN": "Alcântara",
+  "cod_Mun_Sudene": 2100204
+ },
+ {
+  "CD_MUN": 2100303,
+  "NM_MUN": "Aldeias Altas",
+  "cod_Mun_Sudene": 2100303
+ },
+ {
+  "CD_MUN": 2100402,
+  "NM_MUN": "Altamira do Maranhão",
+  "cod_Mun_Sudene": 2100402
+ },
+ {
+  "CD_MUN": 2100436,
+  "NM_MUN": "Alto Alegre do Maranhão",
+  "cod_Mun_Sudene": 2100436
+ },
+ {
+  "CD_MUN": 2100477,
+  "NM_MUN": "Alto Alegre do Pindaré",
+  "cod_Mun_Sudene": 2100477
+ },
+ {
+  "CD_MUN": 2100501,
+  "NM_MUN": "Alto Parnaíba",
+  "cod_Mun_Sudene": 2100501
+ },
+ {
+  "CD_MUN": 2100550,
+  "NM_MUN": "Amapá do Maranhão",
+  "cod_Mun_Sudene": 2100550
+ },
+ {
+  "CD_MUN": 2100600,
+  "NM_MUN": "Amarante do Maranhão",
+  "cod_Mun_Sudene": 2100600
+ },
+ {
+  "CD_MUN": 2100709,
+  "NM_MUN": "Anajatuba",
+  "cod_Mun_Sudene": 2100709
+ },
+ {
+  "CD_MUN": 2100808,
+  "NM_MUN": "Anapurus",
+  "cod_Mun_Sudene": 2100808
+ },
+ {
+  "CD_MUN": 2100832,
+  "NM_MUN": "Apicum-Açu",
+  "cod_Mun_Sudene": 2100832
+ },
+ {
+  "CD_MUN": 2100873,
+  "NM_MUN": "Araguanã",
+  "cod_Mun_Sudene": 2100873
+ },
+ {
+  "CD_MUN": 2100907,
+  "NM_MUN": "Araioses",
+  "cod_Mun_Sudene": 2100907
+ },
+ {
+  "CD_MUN": 2100956,
+  "NM_MUN": "Arame",
+  "cod_Mun_Sudene": 2100956
+ },
+ {
+  "CD_MUN": 2101004,
+  "NM_MUN": "Arari",
+  "cod_Mun_Sudene": 2101004
+ },
+ {
+  "CD_MUN": 2101103,
+  "NM_MUN": "Axixá",
+  "cod_Mun_Sudene": 2101103
+ },
+ {
+  "CD_MUN": 2101202,
+  "NM_MUN": "Bacabal",
+  "cod_Mun_Sudene": 2101202
+ },
+ {
+  "CD_MUN": 2101251,
+  "NM_MUN": "Bacabeira",
+  "cod_Mun_Sudene": 2101251
+ },
+ {
+  "CD_MUN": 2101301,
+  "NM_MUN": "Bacuri",
+  "cod_Mun_Sudene": 2101301
+ },
+ {
+  "CD_MUN": 2101350,
+  "NM_MUN": "Bacurituba",
+  "cod_Mun_Sudene": 2101350
+ },
+ {
+  "CD_MUN": 2101400,
+  "NM_MUN": "Balsas",
+  "cod_Mun_Sudene": 2101400
+ },
+ {
+  "CD_MUN": 2101509,
+  "NM_MUN": "Barão de Grajaú",
+  "cod_Mun_Sudene": 2101509
+ },
+ {
+  "CD_MUN": 2101608,
+  "NM_MUN": "Barra do Corda",
+  "cod_Mun_Sudene": 2101608
+ },
+ {
+  "CD_MUN": 2101707,
+  "NM_MUN": "Barreirinhas",
+  "cod_Mun_Sudene": 2101707
+ },
+ {
+  "CD_MUN": 2101731,
+  "NM_MUN": "Belágua",
+  "cod_Mun_Sudene": 2101731
+ },
+ {
+  "CD_MUN": 2101772,
+  "NM_MUN": "Bela Vista do Maranhão",
+  "cod_Mun_Sudene": 2101772
+ },
+ {
+  "CD_MUN": 2101806,
+  "NM_MUN": "Benedito Leite",
+  "cod_Mun_Sudene": 2101806
+ },
+ {
+  "CD_MUN": 2101905,
+  "NM_MUN": "Bequimão",
+  "cod_Mun_Sudene": 2101905
+ },
+ {
+  "CD_MUN": 2101939,
+  "NM_MUN": "Bernardo do Mearim",
+  "cod_Mun_Sudene": 2101939
+ },
+ {
+  "CD_MUN": 2101970,
+  "NM_MUN": "Boa Vista do Gurupi",
+  "cod_Mun_Sudene": 2101970
+ },
+ {
+  "CD_MUN": 2102002,
+  "NM_MUN": "Bom Jardim",
+  "cod_Mun_Sudene": 2102002
+ },
+ {
+  "CD_MUN": 2102036,
+  "NM_MUN": "Bom Jesus das Selvas",
+  "cod_Mun_Sudene": 2102036
+ },
+ {
+  "CD_MUN": 2102077,
+  "NM_MUN": "Bom Lugar",
+  "cod_Mun_Sudene": 2102077
+ },
+ {
+  "CD_MUN": 2102101,
+  "NM_MUN": "Brejo",
+  "cod_Mun_Sudene": 2102101
+ },
+ {
+  "CD_MUN": 2102150,
+  "NM_MUN": "Brejo de Areia",
+  "cod_Mun_Sudene": 2102150
+ },
+ {
+  "CD_MUN": 2102200,
+  "NM_MUN": "Buriti",
+  "cod_Mun_Sudene": 2102200
+ },
+ {
+  "CD_MUN": 2102309,
+  "NM_MUN": "Buriti Bravo",
+  "cod_Mun_Sudene": 2102309
+ },
+ {
+  "CD_MUN": 2102325,
+  "NM_MUN": "Buriticupu",
+  "cod_Mun_Sudene": 2102325
+ },
+ {
+  "CD_MUN": 2102358,
+  "NM_MUN": "Buritirana",
+  "cod_Mun_Sudene": 2102358
+ },
+ {
+  "CD_MUN": 2102374,
+  "NM_MUN": "Cachoeira Grande",
+  "cod_Mun_Sudene": 2102374
+ },
+ {
+  "CD_MUN": 2102408,
+  "NM_MUN": "Cajapió",
+  "cod_Mun_Sudene": 2102408
+ },
+ {
+  "CD_MUN": 2102507,
+  "NM_MUN": "Cajari",
+  "cod_Mun_Sudene": 2102507
+ },
+ {
+  "CD_MUN": 2102556,
+  "NM_MUN": "Campestre do Maranhão",
+  "cod_Mun_Sudene": 2102556
+ },
+ {
+  "CD_MUN": 2102606,
+  "NM_MUN": "Cândido Mendes",
+  "cod_Mun_Sudene": 2102606
+ },
+ {
+  "CD_MUN": 2102705,
+  "NM_MUN": "Cantanhede",
+  "cod_Mun_Sudene": 2102705
+ },
+ {
+  "CD_MUN": 2102754,
+  "NM_MUN": "Capinzal do Norte",
+  "cod_Mun_Sudene": 2102754
+ },
+ {
+  "CD_MUN": 2102804,
+  "NM_MUN": "Carolina",
+  "cod_Mun_Sudene": 2102804
+ },
+ {
+  "CD_MUN": 2102903,
+  "NM_MUN": "Carutapera",
+  "cod_Mun_Sudene": 2102903
+ },
+ {
+  "CD_MUN": 2103000,
+  "NM_MUN": "Caxias",
+  "cod_Mun_Sudene": 2103000
+ },
+ {
+  "CD_MUN": 2103109,
+  "NM_MUN": "Cedral",
+  "cod_Mun_Sudene": 2103109
+ },
+ {
+  "CD_MUN": 2103125,
+  "NM_MUN": "Central do Maranhão",
+  "cod_Mun_Sudene": 2103125
+ },
+ {
+  "CD_MUN": 2103158,
+  "NM_MUN": "Centro do Guilherme",
+  "cod_Mun_Sudene": 2103158
+ },
+ {
+  "CD_MUN": 2103174,
+  "NM_MUN": "Centro Novo do Maranhão",
+  "cod_Mun_Sudene": 2103174
+ },
+ {
+  "CD_MUN": 2103208,
+  "NM_MUN": "Chapadinha",
+  "cod_Mun_Sudene": 2103208
+ },
+ {
+  "CD_MUN": 2103257,
+  "NM_MUN": "Cidelândia",
+  "cod_Mun_Sudene": 2103257
+ },
+ {
+  "CD_MUN": 2103307,
+  "NM_MUN": "Codó",
+  "cod_Mun_Sudene": 2103307
+ },
+ {
+  "CD_MUN": 2103406,
+  "NM_MUN": "Coelho Neto",
+  "cod_Mun_Sudene": 2103406
+ },
+ {
+  "CD_MUN": 2103505,
+  "NM_MUN": "Colinas",
+  "cod_Mun_Sudene": 2103505
+ },
+ {
+  "CD_MUN": 2103554,
+  "NM_MUN": "Conceição do Lago-Açu",
+  "cod_Mun_Sudene": 2103554
+ },
+ {
+  "CD_MUN": 2103604,
+  "NM_MUN": "Coroatá",
+  "cod_Mun_Sudene": 2103604
+ },
+ {
+  "CD_MUN": 2103703,
+  "NM_MUN": "Cururupu",
+  "cod_Mun_Sudene": 2103703
+ },
+ {
+  "CD_MUN": 2103752,
+  "NM_MUN": "Davinópolis",
+  "cod_Mun_Sudene": 2103752
+ },
+ {
+  "CD_MUN": 2103802,
+  "NM_MUN": "Dom Pedro",
+  "cod_Mun_Sudene": 2103802
+ },
+ {
+  "CD_MUN": 2103901,
+  "NM_MUN": "Duque Bacelar",
+  "cod_Mun_Sudene": 2103901
+ },
+ {
+  "CD_MUN": 2104008,
+  "NM_MUN": "Esperantinópolis",
+  "cod_Mun_Sudene": 2104008
+ },
+ {
+  "CD_MUN": 2104057,
+  "NM_MUN": "Estreito",
+  "cod_Mun_Sudene": 2104057
+ },
+ {
+  "CD_MUN": 2104073,
+  "NM_MUN": "Feira Nova do Maranhão",
+  "cod_Mun_Sudene": 2104073
+ },
+ {
+  "CD_MUN": 2104081,
+  "NM_MUN": "Fernando Falcão",
+  "cod_Mun_Sudene": 2104081
+ },
+ {
+  "CD_MUN": 2104099,
+  "NM_MUN": "Formosa da Serra Negra",
+  "cod_Mun_Sudene": 2104099
+ },
+ {
+  "CD_MUN": 2104107,
+  "NM_MUN": "Fortaleza dos Nogueiras",
+  "cod_Mun_Sudene": 2104107
+ },
+ {
+  "CD_MUN": 2104206,
+  "NM_MUN": "Fortuna",
+  "cod_Mun_Sudene": 2104206
+ },
+ {
+  "CD_MUN": 2104305,
+  "NM_MUN": "Godofredo Viana",
+  "cod_Mun_Sudene": 2104305
+ },
+ {
+  "CD_MUN": 2104404,
+  "NM_MUN": "Gonçalves Dias",
+  "cod_Mun_Sudene": 2104404
+ },
+ {
+  "CD_MUN": 2104503,
+  "NM_MUN": "Governador Archer",
+  "cod_Mun_Sudene": 2104503
+ },
+ {
+  "CD_MUN": 2104552,
+  "NM_MUN": "Governador Edison Lobão",
+  "cod_Mun_Sudene": 2104552
+ },
+ {
+  "CD_MUN": 2104602,
+  "NM_MUN": "Governador Eugênio Barros",
+  "cod_Mun_Sudene": 2104602
+ },
+ {
+  "CD_MUN": 2104628,
+  "NM_MUN": "Governador Luiz Rocha",
+  "cod_Mun_Sudene": 2104628
+ },
+ {
+  "CD_MUN": 2104651,
+  "NM_MUN": "Governador Newton Bello",
+  "cod_Mun_Sudene": 2104651
+ },
+ {
+  "CD_MUN": 2104677,
+  "NM_MUN": "Governador Nunes Freire",
+  "cod_Mun_Sudene": 2104677
+ },
+ {
+  "CD_MUN": 2104701,
+  "NM_MUN": "Graça Aranha",
+  "cod_Mun_Sudene": 2104701
+ },
+ {
+  "CD_MUN": 2104800,
+  "NM_MUN": "Grajaú",
+  "cod_Mun_Sudene": 2104800
+ },
+ {
+  "CD_MUN": 2104909,
+  "NM_MUN": "Guimarães",
+  "cod_Mun_Sudene": 2104909
+ },
+ {
+  "CD_MUN": 2105005,
+  "NM_MUN": "Humberto de Campos",
+  "cod_Mun_Sudene": 2105005
+ },
+ {
+  "CD_MUN": 2105104,
+  "NM_MUN": "Icatu",
+  "cod_Mun_Sudene": 2105104
+ },
+ {
+  "CD_MUN": 2105153,
+  "NM_MUN": "Igarapé do Meio",
+  "cod_Mun_Sudene": 2105153
+ },
+ {
+  "CD_MUN": 2105203,
+  "NM_MUN": "Igarapé Grande",
+  "cod_Mun_Sudene": 2105203
+ },
+ {
+  "CD_MUN": 2105302,
+  "NM_MUN": "Imperatriz",
+  "cod_Mun_Sudene": 2105302
+ },
+ {
+  "CD_MUN": 2105351,
+  "NM_MUN": "Itaipava do Grajaú",
+  "cod_Mun_Sudene": 2105351
+ },
+ {
+  "CD_MUN": 2105401,
+  "NM_MUN": "Itapecuru Mirim",
+  "cod_Mun_Sudene": 2105401
+ },
+ {
+  "CD_MUN": 2105427,
+  "NM_MUN": "Itinga do Maranhão",
+  "cod_Mun_Sudene": 2105427
+ },
+ {
+  "CD_MUN": 2105450,
+  "NM_MUN": "Jatobá",
+  "cod_Mun_Sudene": 2105450
+ },
+ {
+  "CD_MUN": 2105476,
+  "NM_MUN": "Jenipapo dos Vieiras",
+  "cod_Mun_Sudene": 2105476
+ },
+ {
+  "CD_MUN": 2105500,
+  "NM_MUN": "João Lisboa",
+  "cod_Mun_Sudene": 2105500
+ },
+ {
+  "CD_MUN": 2105609,
+  "NM_MUN": "Joselândia",
+  "cod_Mun_Sudene": 2105609
+ },
+ {
+  "CD_MUN": 2105658,
+  "NM_MUN": "Junco do Maranhão",
+  "cod_Mun_Sudene": 2105658
+ },
+ {
+  "CD_MUN": 2105708,
+  "NM_MUN": "Lago da Pedra",
+  "cod_Mun_Sudene": 2105708
+ },
+ {
+  "CD_MUN": 2105807,
+  "NM_MUN": "Lago do Junco",
+  "cod_Mun_Sudene": 2105807
+ },
+ {
+  "CD_MUN": 2105906,
+  "NM_MUN": "Lago Verde",
+  "cod_Mun_Sudene": 2105906
+ },
+ {
+  "CD_MUN": 2105922,
+  "NM_MUN": "Lagoa do Mato",
+  "cod_Mun_Sudene": 2105922
+ },
+ {
+  "CD_MUN": 2105948,
+  "NM_MUN": "Lago dos Rodrigues",
+  "cod_Mun_Sudene": 2105948
+ },
+ {
+  "CD_MUN": 2105963,
+  "NM_MUN": "Lagoa Grande do Maranhão",
+  "cod_Mun_Sudene": 2105963
+ },
+ {
+  "CD_MUN": 2105989,
+  "NM_MUN": "Lajeado Novo",
+  "cod_Mun_Sudene": 2105989
+ },
+ {
+  "CD_MUN": 2106003,
+  "NM_MUN": "Lima Campos",
+  "cod_Mun_Sudene": 2106003
+ },
+ {
+  "CD_MUN": 2106102,
+  "NM_MUN": "Loreto",
+  "cod_Mun_Sudene": 2106102
+ },
+ {
+  "CD_MUN": 2106201,
+  "NM_MUN": "Luís Domingues",
+  "cod_Mun_Sudene": 2106201
+ },
+ {
+  "CD_MUN": 2106300,
+  "NM_MUN": "Magalhães de Almeida",
+  "cod_Mun_Sudene": 2106300
+ },
+ {
+  "CD_MUN": 2106326,
+  "NM_MUN": "Maracaçumé",
+  "cod_Mun_Sudene": 2106326
+ },
+ {
+  "CD_MUN": 2106359,
+  "NM_MUN": "Marajá do Sena",
+  "cod_Mun_Sudene": 2106359
+ },
+ {
+  "CD_MUN": 2106375,
+  "NM_MUN": "Maranhãozinho",
+  "cod_Mun_Sudene": 2106375
+ },
+ {
+  "CD_MUN": 2106409,
+  "NM_MUN": "Mata Roma",
+  "cod_Mun_Sudene": 2106409
+ },
+ {
+  "CD_MUN": 2106508,
+  "NM_MUN": "Matinha",
+  "cod_Mun_Sudene": 2106508
+ },
+ {
+  "CD_MUN": 2106607,
+  "NM_MUN": "Matões",
+  "cod_Mun_Sudene": 2106607
+ },
+ {
+  "CD_MUN": 2106631,
+  "NM_MUN": "Matões do Norte",
+  "cod_Mun_Sudene": 2106631
+ },
+ {
+  "CD_MUN": 2106672,
+  "NM_MUN": "Milagres do Maranhão",
+  "cod_Mun_Sudene": 2106672
+ },
+ {
+  "CD_MUN": 2106706,
+  "NM_MUN": "Mirador",
+  "cod_Mun_Sudene": 2106706
+ },
+ {
+  "CD_MUN": 2106755,
+  "NM_MUN": "Miranda do Norte",
+  "cod_Mun_Sudene": 2106755
+ },
+ {
+  "CD_MUN": 2106805,
+  "NM_MUN": "Mirinzal",
+  "cod_Mun_Sudene": 2106805
+ },
+ {
+  "CD_MUN": 2106904,
+  "NM_MUN": "Monção",
+  "cod_Mun_Sudene": 2106904
+ },
+ {
+  "CD_MUN": 2107001,
+  "NM_MUN": "Montes Altos",
+  "cod_Mun_Sudene": 2107001
+ },
+ {
+  "CD_MUN": 2107100,
+  "NM_MUN": "Morros",
+  "cod_Mun_Sudene": 2107100
+ },
+ {
+  "CD_MUN": 2107209,
+  "NM_MUN": "Nina Rodrigues",
+  "cod_Mun_Sudene": 2107209
+ },
+ {
+  "CD_MUN": 2107258,
+  "NM_MUN": "Nova Colinas",
+  "cod_Mun_Sudene": 2107258
+ },
+ {
+  "CD_MUN": 2107308,
+  "NM_MUN": "Nova Iorque",
+  "cod_Mun_Sudene": 2107308
+ },
+ {
+  "CD_MUN": 2107357,
+  "NM_MUN": "Nova Olinda do Maranhão",
+  "cod_Mun_Sudene": 2107357
+ },
+ {
+  "CD_MUN": 2107407,
+  "NM_MUN": "Olho d'Água das Cunhãs",
+  "cod_Mun_Sudene": 2107407
+ },
+ {
+  "CD_MUN": 2107456,
+  "NM_MUN": "Olinda Nova do Maranhão",
+  "cod_Mun_Sudene": 2107456
+ },
+ {
+  "CD_MUN": 2107506,
+  "NM_MUN": "Paço do Lumiar",
+  "cod_Mun_Sudene": 2107506
+ },
+ {
+  "CD_MUN": 2107605,
+  "NM_MUN": "Palmeirândia",
+  "cod_Mun_Sudene": 2107605
+ },
+ {
+  "CD_MUN": 2107704,
+  "NM_MUN": "Paraibano",
+  "cod_Mun_Sudene": 2107704
+ },
+ {
+  "CD_MUN": 2107803,
+  "NM_MUN": "Parnarama",
+  "cod_Mun_Sudene": 2107803
+ },
+ {
+  "CD_MUN": 2107902,
+  "NM_MUN": "Passagem Franca",
+  "cod_Mun_Sudene": 2107902
+ },
+ {
+  "CD_MUN": 2108009,
+  "NM_MUN": "Pastos Bons",
+  "cod_Mun_Sudene": 2108009
+ },
+ {
+  "CD_MUN": 2108058,
+  "NM_MUN": "Paulino Neves",
+  "cod_Mun_Sudene": 2108058
+ },
+ {
+  "CD_MUN": 2108108,
+  "NM_MUN": "Paulo Ramos",
+  "cod_Mun_Sudene": 2108108
+ },
+ {
+  "CD_MUN": 2108207,
+  "NM_MUN": "Pedreiras",
+  "cod_Mun_Sudene": 2108207
+ },
+ {
+  "CD_MUN": 2108256,
+  "NM_MUN": "Pedro do Rosário",
+  "cod_Mun_Sudene": 2108256
+ },
+ {
+  "CD_MUN": 2108306,
+  "NM_MUN": "Penalva",
+  "cod_Mun_Sudene": 2108306
+ },
+ {
+  "CD_MUN": 2108405,
+  "NM_MUN": "Peri Mirim",
+  "cod_Mun_Sudene": 2108405
+ },
+ {
+  "CD_MUN": 2108454,
+  "NM_MUN": "Peritoró",
+  "cod_Mun_Sudene": 2108454
+ },
+ {
+  "CD_MUN": 2108504,
+  "NM_MUN": "Pindaré-Mirim",
+  "cod_Mun_Sudene": 2108504
+ },
+ {
+  "CD_MUN": 2108603,
+  "NM_MUN": "Pinheiro",
+  "cod_Mun_Sudene": 2108603
+ },
+ {
+  "CD_MUN": 2108702,
+  "NM_MUN": "Pio XII",
+  "cod_Mun_Sudene": 2108702
+ },
+ {
+  "CD_MUN": 2108801,
+  "NM_MUN": "Pirapemas",
+  "cod_Mun_Sudene": 2108801
+ },
+ {
+  "CD_MUN": 2108900,
+  "NM_MUN": "Poção de Pedras",
+  "cod_Mun_Sudene": 2108900
+ },
+ {
+  "CD_MUN": 2109007,
+  "NM_MUN": "Porto Franco",
+  "cod_Mun_Sudene": 2109007
+ },
+ {
+  "CD_MUN": 2109056,
+  "NM_MUN": "Porto Rico do Maranhão",
+  "cod_Mun_Sudene": 2109056
+ },
+ {
+  "CD_MUN": 2109106,
+  "NM_MUN": "Presidente Dutra",
+  "cod_Mun_Sudene": 2109106
+ },
+ {
+  "CD_MUN": 2109205,
+  "NM_MUN": "Presidente Juscelino",
+  "cod_Mun_Sudene": 2109205
+ },
+ {
+  "CD_MUN": 2109239,
+  "NM_MUN": "Presidente Médici",
+  "cod_Mun_Sudene": 2109239
+ },
+ {
+  "CD_MUN": 2109270,
+  "NM_MUN": "Presidente Sarney",
+  "cod_Mun_Sudene": 2109270
+ },
+ {
+  "CD_MUN": 2109304,
+  "NM_MUN": "Presidente Vargas",
+  "cod_Mun_Sudene": 2109304
+ },
+ {
+  "CD_MUN": 2109403,
+  "NM_MUN": "Primeira Cruz",
+  "cod_Mun_Sudene": 2109403
+ },
+ {
+  "CD_MUN": 2109452,
+  "NM_MUN": "Raposa",
+  "cod_Mun_Sudene": 2109452
+ },
+ {
+  "CD_MUN": 2109502,
+  "NM_MUN": "Riachão",
+  "cod_Mun_Sudene": 2109502
+ },
+ {
+  "CD_MUN": 2109551,
+  "NM_MUN": "Ribamar Fiquene",
+  "cod_Mun_Sudene": 2109551
+ },
+ {
+  "CD_MUN": 2109601,
+  "NM_MUN": "Rosário",
+  "cod_Mun_Sudene": 2109601
+ },
+ {
+  "CD_MUN": 2109700,
+  "NM_MUN": "Sambaíba",
+  "cod_Mun_Sudene": 2109700
+ },
+ {
+  "CD_MUN": 2109759,
+  "NM_MUN": "Santa Filomena do Maranhão",
+  "cod_Mun_Sudene": 2109759
+ },
+ {
+  "CD_MUN": 2109809,
+  "NM_MUN": "Santa Helena",
+  "cod_Mun_Sudene": 2109809
+ },
+ {
+  "CD_MUN": 2109908,
+  "NM_MUN": "Santa Inês",
+  "cod_Mun_Sudene": 2109908
+ },
+ {
+  "CD_MUN": 2110005,
+  "NM_MUN": "Santa Luzia",
+  "cod_Mun_Sudene": 2110005
+ },
+ {
+  "CD_MUN": 2110039,
+  "NM_MUN": "Santa Luzia do Paruá",
+  "cod_Mun_Sudene": 2110039
+ },
+ {
+  "CD_MUN": 2110104,
+  "NM_MUN": "Santa Quitéria do Maranhão",
+  "cod_Mun_Sudene": 2110104
+ },
+ {
+  "CD_MUN": 2110203,
+  "NM_MUN": "Santa Rita",
+  "cod_Mun_Sudene": 2110203
+ },
+ {
+  "CD_MUN": 2110237,
+  "NM_MUN": "Santana do Maranhão",
+  "cod_Mun_Sudene": 2110237
+ },
+ {
+  "CD_MUN": 2110278,
+  "NM_MUN": "Santo Amaro do Maranhão",
+  "cod_Mun_Sudene": 2110278
+ },
+ {
+  "CD_MUN": 2110302,
+  "NM_MUN": "Santo Antônio dos Lopes",
+  "cod_Mun_Sudene": 2110302
+ },
+ {
+  "CD_MUN": 2110401,
+  "NM_MUN": "São Benedito do Rio Preto",
+  "cod_Mun_Sudene": 2110401
+ },
+ {
+  "CD_MUN": 2110500,
+  "NM_MUN": "São Bento",
+  "cod_Mun_Sudene": 2110500
+ },
+ {
+  "CD_MUN": 2110609,
+  "NM_MUN": "São Bernardo",
+  "cod_Mun_Sudene": 2110609
+ },
+ {
+  "CD_MUN": 2110658,
+  "NM_MUN": "São Domingos do Azeitão",
+  "cod_Mun_Sudene": 2110658
+ },
+ {
+  "CD_MUN": 2110708,
+  "NM_MUN": "São Domingos do Maranhão",
+  "cod_Mun_Sudene": 2110708
+ },
+ {
+  "CD_MUN": 2110807,
+  "NM_MUN": "São Félix de Balsas",
+  "cod_Mun_Sudene": 2110807
+ },
+ {
+  "CD_MUN": 2110856,
+  "NM_MUN": "São Francisco do Brejão",
+  "cod_Mun_Sudene": 2110856
+ },
+ {
+  "CD_MUN": 2110906,
+  "NM_MUN": "São Francisco do Maranhão",
+  "cod_Mun_Sudene": 2110906
+ },
+ {
+  "CD_MUN": 2111003,
+  "NM_MUN": "São João Batista",
+  "cod_Mun_Sudene": 2111003
+ },
+ {
+  "CD_MUN": 2111029,
+  "NM_MUN": "São João do Carú",
+  "cod_Mun_Sudene": 2111029
+ },
+ {
+  "CD_MUN": 2111052,
+  "NM_MUN": "São João do Paraíso",
+  "cod_Mun_Sudene": 2111052
+ },
+ {
+  "CD_MUN": 2111078,
+  "NM_MUN": "São João do Soter",
+  "cod_Mun_Sudene": 2111078
+ },
+ {
+  "CD_MUN": 2111102,
+  "NM_MUN": "São João dos Patos",
+  "cod_Mun_Sudene": 2111102
+ },
+ {
+  "CD_MUN": 2111201,
+  "NM_MUN": "São José de Ribamar",
+  "cod_Mun_Sudene": 2111201
+ },
+ {
+  "CD_MUN": 2111250,
+  "NM_MUN": "São José dos Basílios",
+  "cod_Mun_Sudene": 2111250
+ },
+ {
+  "CD_MUN": 2111300,
+  "NM_MUN": "São Luís",
+  "cod_Mun_Sudene": 2111300
+ },
+ {
+  "CD_MUN": 2111409,
+  "NM_MUN": "São Luís Gonzaga do Maranhão",
+  "cod_Mun_Sudene": 2111409
+ },
+ {
+  "CD_MUN": 2111508,
+  "NM_MUN": "São Mateus do Maranhão",
+  "cod_Mun_Sudene": 2111508
+ },
+ {
+  "CD_MUN": 2111532,
+  "NM_MUN": "São Pedro da Água Branca",
+  "cod_Mun_Sudene": 2111532
+ },
+ {
+  "CD_MUN": 2111573,
+  "NM_MUN": "São Pedro dos Crentes",
+  "cod_Mun_Sudene": 2111573
+ },
+ {
+  "CD_MUN": 2111607,
+  "NM_MUN": "São Raimundo das Mangabeiras",
+  "cod_Mun_Sudene": 2111607
+ },
+ {
+  "CD_MUN": 2111631,
+  "NM_MUN": "São Raimundo do Doca Bezerra",
+  "cod_Mun_Sudene": 2111631
+ },
+ {
+  "CD_MUN": 2111672,
+  "NM_MUN": "São Roberto",
+  "cod_Mun_Sudene": 2111672
+ },
+ {
+  "CD_MUN": 2111706,
+  "NM_MUN": "São Vicente Ferrer",
+  "cod_Mun_Sudene": 2111706
+ },
+ {
+  "CD_MUN": 2111722,
+  "NM_MUN": "Satubinha",
+  "cod_Mun_Sudene": 2111722
+ },
+ {
+  "CD_MUN": 2111748,
+  "NM_MUN": "Senador Alexandre Costa",
+  "cod_Mun_Sudene": 2111748
+ },
+ {
+  "CD_MUN": 2111763,
+  "NM_MUN": "Senador La Rocque",
+  "cod_Mun_Sudene": 2111763
+ },
+ {
+  "CD_MUN": 2111789,
+  "NM_MUN": "Serrano do Maranhão",
+  "cod_Mun_Sudene": 2111789
+ },
+ {
+  "CD_MUN": 2111805,
+  "NM_MUN": "Sítio Novo",
+  "cod_Mun_Sudene": 2111805
+ },
+ {
+  "CD_MUN": 2111904,
+  "NM_MUN": "Sucupira do Norte",
+  "cod_Mun_Sudene": 2111904
+ },
+ {
+  "CD_MUN": 2111953,
+  "NM_MUN": "Sucupira do Riachão",
+  "cod_Mun_Sudene": 2111953
+ },
+ {
+  "CD_MUN": 2112001,
+  "NM_MUN": "Tasso Fragoso",
+  "cod_Mun_Sudene": 2112001
+ },
+ {
+  "CD_MUN": 2112100,
+  "NM_MUN": "Timbiras",
+  "cod_Mun_Sudene": 2112100
+ },
+ {
+  "CD_MUN": 2112209,
+  "NM_MUN": "Timon",
+  "cod_Mun_Sudene": 2112209
+ },
+ {
+  "CD_MUN": 2112233,
+  "NM_MUN": "Trizidela do Vale",
+  "cod_Mun_Sudene": 2112233
+ },
+ {
+  "CD_MUN": 2112274,
+  "NM_MUN": "Tufilândia",
+  "cod_Mun_Sudene": 2112274
+ },
+ {
+  "CD_MUN": 2112308,
+  "NM_MUN": "Tuntum",
+  "cod_Mun_Sudene": 2112308
+ },
+ {
+  "CD_MUN": 2112407,
+  "NM_MUN": "Turiaçu",
+  "cod_Mun_Sudene": 2112407
+ },
+ {
+  "CD_MUN": 2112456,
+  "NM_MUN": "Turilândia",
+  "cod_Mun_Sudene": 2112456
+ },
+ {
+  "CD_MUN": 2112506,
+  "NM_MUN": "Tutóia",
+  "cod_Mun_Sudene": 2112506
+ },
+ {
+  "CD_MUN": 2112605,
+  "NM_MUN": "Urbano Santos",
+  "cod_Mun_Sudene": 2112605
+ },
+ {
+  "CD_MUN": 2112704,
+  "NM_MUN": "Vargem Grande",
+  "cod_Mun_Sudene": 2112704
+ },
+ {
+  "CD_MUN": 2112803,
+  "NM_MUN": "Viana",
+  "cod_Mun_Sudene": 2112803
+ },
+ {
+  "CD_MUN": 2112852,
+  "NM_MUN": "Vila Nova dos Martírios",
+  "cod_Mun_Sudene": 2112852
+ },
+ {
+  "CD_MUN": 2112902,
+  "NM_MUN": "Vitória do Mearim",
+  "cod_Mun_Sudene": 2112902
+ },
+ {
+  "CD_MUN": 2113009,
+  "NM_MUN": "Vitorino Freire",
+  "cod_Mun_Sudene": 2113009
+ },
+ {
+  "CD_MUN": 2114007,
+  "NM_MUN": "Zé Doca",
+  "cod_Mun_Sudene": 2114007
+ },
+ {
+  "CD_MUN": 2200053,
+  "NM_MUN": "Acauã",
+  "cod_Mun_Sudene": 2200053
+ },
+ {
+  "CD_MUN": 2200103,
+  "NM_MUN": "Agricolândia",
+  "cod_Mun_Sudene": 2200103
+ },
+ {
+  "CD_MUN": 2200202,
+  "NM_MUN": "Água Branca",
+  "cod_Mun_Sudene": 2200202
+ },
+ {
+  "CD_MUN": 2200251,
+  "NM_MUN": "Alagoinha do Piauí",
+  "cod_Mun_Sudene": 2200251
+ },
+ {
+  "CD_MUN": 2200277,
+  "NM_MUN": "Alegrete do Piauí",
+  "cod_Mun_Sudene": 2200277
+ },
+ {
+  "CD_MUN": 2200301,
+  "NM_MUN": "Alto Longá",
+  "cod_Mun_Sudene": 2200301
+ },
+ {
+  "CD_MUN": 2200400,
+  "NM_MUN": "Altos",
+  "cod_Mun_Sudene": 2200400
+ },
+ {
+  "CD_MUN": 2200459,
+  "NM_MUN": "Alvorada do Gurguéia",
+  "cod_Mun_Sudene": 2200459
+ },
+ {
+  "CD_MUN": 2200509,
+  "NM_MUN": "Amarante",
+  "cod_Mun_Sudene": 2200509
+ },
+ {
+  "CD_MUN": 2200608,
+  "NM_MUN": "Angical do Piauí",
+  "cod_Mun_Sudene": 2200608
+ },
+ {
+  "CD_MUN": 2200707,
+  "NM_MUN": "Anísio de Abreu",
+  "cod_Mun_Sudene": 2200707
+ },
+ {
+  "CD_MUN": 2200806,
+  "NM_MUN": "Antônio Almeida",
+  "cod_Mun_Sudene": 2200806
+ },
+ {
+  "CD_MUN": 2200905,
+  "NM_MUN": "Aroazes",
+  "cod_Mun_Sudene": 2200905
+ },
+ {
+  "CD_MUN": 2200954,
+  "NM_MUN": "Aroeiras do Itaim",
+  "cod_Mun_Sudene": 2200954
+ },
+ {
+  "CD_MUN": 2201002,
+  "NM_MUN": "Arraial",
+  "cod_Mun_Sudene": 2201002
+ },
+ {
+  "CD_MUN": 2201051,
+  "NM_MUN": "Assunção do Piauí",
+  "cod_Mun_Sudene": 2201051
+ },
+ {
+  "CD_MUN": 2201101,
+  "NM_MUN": "Avelino Lopes",
+  "cod_Mun_Sudene": 2201101
+ },
+ {
+  "CD_MUN": 2201150,
+  "NM_MUN": "Baixa Grande do Ribeiro",
+  "cod_Mun_Sudene": 2201150
+ },
+ {
+  "CD_MUN": 2201176,
+  "NM_MUN": "Barra D'Alcântara",
+  "cod_Mun_Sudene": 2201176
+ },
+ {
+  "CD_MUN": 2201200,
+  "NM_MUN": "Barras",
+  "cod_Mun_Sudene": 2201200
+ },
+ {
+  "CD_MUN": 2201309,
+  "NM_MUN": "Barreiras do Piauí",
+  "cod_Mun_Sudene": 2201309
+ },
+ {
+  "CD_MUN": 2201408,
+  "NM_MUN": "Barro Duro",
+  "cod_Mun_Sudene": 2201408
+ },
+ {
+  "CD_MUN": 2201507,
+  "NM_MUN": "Batalha",
+  "cod_Mun_Sudene": 2201507
+ },
+ {
+  "CD_MUN": 2201556,
+  "NM_MUN": "Bela Vista do Piauí",
+  "cod_Mun_Sudene": 2201556
+ },
+ {
+  "CD_MUN": 2201572,
+  "NM_MUN": "Belém do Piauí",
+  "cod_Mun_Sudene": 2201572
+ },
+ {
+  "CD_MUN": 2201606,
+  "NM_MUN": "Beneditinos",
+  "cod_Mun_Sudene": 2201606
+ },
+ {
+  "CD_MUN": 2201705,
+  "NM_MUN": "Bertolínia",
+  "cod_Mun_Sudene": 2201705
+ },
+ {
+  "CD_MUN": 2201739,
+  "NM_MUN": "Betânia do Piauí",
+  "cod_Mun_Sudene": 2201739
+ },
+ {
+  "CD_MUN": 2201770,
+  "NM_MUN": "Boa Hora",
+  "cod_Mun_Sudene": 2201770
+ },
+ {
+  "CD_MUN": 2201804,
+  "NM_MUN": "Bocaina",
+  "cod_Mun_Sudene": 2201804
+ },
+ {
+  "CD_MUN": 2201903,
+  "NM_MUN": "Bom Jesus",
+  "cod_Mun_Sudene": 2201903
+ },
+ {
+  "CD_MUN": 2201919,
+  "NM_MUN": "Bom Princípio do Piauí",
+  "cod_Mun_Sudene": 2201919
+ },
+ {
+  "CD_MUN": 2201929,
+  "NM_MUN": "Bonfim do Piauí",
+  "cod_Mun_Sudene": 2201929
+ },
+ {
+  "CD_MUN": 2201945,
+  "NM_MUN": "Boqueirão do Piauí",
+  "cod_Mun_Sudene": 2201945
+ },
+ {
+  "CD_MUN": 2201960,
+  "NM_MUN": "Brasileira",
+  "cod_Mun_Sudene": 2201960
+ },
+ {
+  "CD_MUN": 2201988,
+  "NM_MUN": "Brejo do Piauí",
+  "cod_Mun_Sudene": 2201988
+ },
+ {
+  "CD_MUN": 2202000,
+  "NM_MUN": "Buriti dos Lopes",
+  "cod_Mun_Sudene": 2202000
+ },
+ {
+  "CD_MUN": 2202026,
+  "NM_MUN": "Buriti dos Montes",
+  "cod_Mun_Sudene": 2202026
+ },
+ {
+  "CD_MUN": 2202059,
+  "NM_MUN": "Cabeceiras do Piauí",
+  "cod_Mun_Sudene": 2202059
+ },
+ {
+  "CD_MUN": 2202075,
+  "NM_MUN": "Cajazeiras do Piauí",
+  "cod_Mun_Sudene": 2202075
+ },
+ {
+  "CD_MUN": 2202083,
+  "NM_MUN": "Cajueiro da Praia",
+  "cod_Mun_Sudene": 2202083
+ },
+ {
+  "CD_MUN": 2202091,
+  "NM_MUN": "Caldeirão Grande do Piauí",
+  "cod_Mun_Sudene": 2202091
+ },
+ {
+  "CD_MUN": 2202109,
+  "NM_MUN": "Campinas do Piauí",
+  "cod_Mun_Sudene": 2202109
+ },
+ {
+  "CD_MUN": 2202117,
+  "NM_MUN": "Campo Alegre do Fidalgo",
+  "cod_Mun_Sudene": 2202117
+ },
+ {
+  "CD_MUN": 2202133,
+  "NM_MUN": "Campo Grande do Piauí",
+  "cod_Mun_Sudene": 2202133
+ },
+ {
+  "CD_MUN": 2202174,
+  "NM_MUN": "Campo Largo do Piauí",
+  "cod_Mun_Sudene": 2202174
+ },
+ {
+  "CD_MUN": 2202208,
+  "NM_MUN": "Campo Maior",
+  "cod_Mun_Sudene": 2202208
+ },
+ {
+  "CD_MUN": 2202251,
+  "NM_MUN": "Canavieira",
+  "cod_Mun_Sudene": 2202251
+ },
+ {
+  "CD_MUN": 2202307,
+  "NM_MUN": "Canto do Buriti",
+  "cod_Mun_Sudene": 2202307
+ },
+ {
+  "CD_MUN": 2202406,
+  "NM_MUN": "Capitão de Campos",
+  "cod_Mun_Sudene": 2202406
+ },
+ {
+  "CD_MUN": 2202455,
+  "NM_MUN": "Capitão Gervásio Oliveira",
+  "cod_Mun_Sudene": 2202455
+ },
+ {
+  "CD_MUN": 2202505,
+  "NM_MUN": "Caracol",
+  "cod_Mun_Sudene": 2202505
+ },
+ {
+  "CD_MUN": 2202539,
+  "NM_MUN": "Caraúbas do Piauí",
+  "cod_Mun_Sudene": 2202539
+ },
+ {
+  "CD_MUN": 2202554,
+  "NM_MUN": "Caridade do Piauí",
+  "cod_Mun_Sudene": 2202554
+ },
+ {
+  "CD_MUN": 2202604,
+  "NM_MUN": "Castelo do Piauí",
+  "cod_Mun_Sudene": 2202604
+ },
+ {
+  "CD_MUN": 2202653,
+  "NM_MUN": "Caxingó",
+  "cod_Mun_Sudene": 2202653
+ },
+ {
+  "CD_MUN": 2202703,
+  "NM_MUN": "Cocal",
+  "cod_Mun_Sudene": 2202703
+ },
+ {
+  "CD_MUN": 2202711,
+  "NM_MUN": "Cocal de Telha",
+  "cod_Mun_Sudene": 2202711
+ },
+ {
+  "CD_MUN": 2202729,
+  "NM_MUN": "Cocal dos Alves",
+  "cod_Mun_Sudene": 2202729
+ },
+ {
+  "CD_MUN": 2202737,
+  "NM_MUN": "Coivaras",
+  "cod_Mun_Sudene": 2202737
+ },
+ {
+  "CD_MUN": 2202752,
+  "NM_MUN": "Colônia do Gurguéia",
+  "cod_Mun_Sudene": 2202752
+ },
+ {
+  "CD_MUN": 2202778,
+  "NM_MUN": "Colônia do Piauí",
+  "cod_Mun_Sudene": 2202778
+ },
+ {
+  "CD_MUN": 2202802,
+  "NM_MUN": "Conceição do Canindé",
+  "cod_Mun_Sudene": 2202802
+ },
+ {
+  "CD_MUN": 2202851,
+  "NM_MUN": "Coronel José Dias",
+  "cod_Mun_Sudene": 2202851
+ },
+ {
+  "CD_MUN": 2202901,
+  "NM_MUN": "Corrente",
+  "cod_Mun_Sudene": 2202901
+ },
+ {
+  "CD_MUN": 2203008,
+  "NM_MUN": "Cristalândia do Piauí",
+  "cod_Mun_Sudene": 2203008
+ },
+ {
+  "CD_MUN": 2203107,
+  "NM_MUN": "Cristino Castro",
+  "cod_Mun_Sudene": 2203107
+ },
+ {
+  "CD_MUN": 2203206,
+  "NM_MUN": "Curimatá",
+  "cod_Mun_Sudene": 2203206
+ },
+ {
+  "CD_MUN": 2203230,
+  "NM_MUN": "Currais",
+  "cod_Mun_Sudene": 2203230
+ },
+ {
+  "CD_MUN": 2203255,
+  "NM_MUN": "Curralinhos",
+  "cod_Mun_Sudene": 2203255
+ },
+ {
+  "CD_MUN": 2203271,
+  "NM_MUN": "Curral Novo do Piauí",
+  "cod_Mun_Sudene": 2203271
+ },
+ {
+  "CD_MUN": 2203305,
+  "NM_MUN": "Demerval Lobão",
+  "cod_Mun_Sudene": 2203305
+ },
+ {
+  "CD_MUN": 2203354,
+  "NM_MUN": "Dirceu Arcoverde",
+  "cod_Mun_Sudene": 2203354
+ },
+ {
+  "CD_MUN": 2203404,
+  "NM_MUN": "Dom Expedito Lopes",
+  "cod_Mun_Sudene": 2203404
+ },
+ {
+  "CD_MUN": 2203420,
+  "NM_MUN": "Domingos Mourão",
+  "cod_Mun_Sudene": 2203420
+ },
+ {
+  "CD_MUN": 2203453,
+  "NM_MUN": "Dom Inocêncio",
+  "cod_Mun_Sudene": 2203453
+ },
+ {
+  "CD_MUN": 2203503,
+  "NM_MUN": "Elesbão Veloso",
+  "cod_Mun_Sudene": 2203503
+ },
+ {
+  "CD_MUN": 2203602,
+  "NM_MUN": "Eliseu Martins",
+  "cod_Mun_Sudene": 2203602
+ },
+ {
+  "CD_MUN": 2203701,
+  "NM_MUN": "Esperantina",
+  "cod_Mun_Sudene": 2203701
+ },
+ {
+  "CD_MUN": 2203750,
+  "NM_MUN": "Fartura do Piauí",
+  "cod_Mun_Sudene": 2203750
+ },
+ {
+  "CD_MUN": 2203800,
+  "NM_MUN": "Flores do Piauí",
+  "cod_Mun_Sudene": 2203800
+ },
+ {
+  "CD_MUN": 2203859,
+  "NM_MUN": "Floresta do Piauí",
+  "cod_Mun_Sudene": 2203859
+ },
+ {
+  "CD_MUN": 2203909,
+  "NM_MUN": "Floriano",
+  "cod_Mun_Sudene": 2203909
+ },
+ {
+  "CD_MUN": 2204006,
+  "NM_MUN": "Francinópolis",
+  "cod_Mun_Sudene": 2204006
+ },
+ {
+  "CD_MUN": 2204105,
+  "NM_MUN": "Francisco Ayres",
+  "cod_Mun_Sudene": 2204105
+ },
+ {
+  "CD_MUN": 2204154,
+  "NM_MUN": "Francisco Macedo",
+  "cod_Mun_Sudene": 2204154
+ },
+ {
+  "CD_MUN": 2204204,
+  "NM_MUN": "Francisco Santos",
+  "cod_Mun_Sudene": 2204204
+ },
+ {
+  "CD_MUN": 2204303,
+  "NM_MUN": "Fronteiras",
+  "cod_Mun_Sudene": 2204303
+ },
+ {
+  "CD_MUN": 2204352,
+  "NM_MUN": "Geminiano",
+  "cod_Mun_Sudene": 2204352
+ },
+ {
+  "CD_MUN": 2204402,
+  "NM_MUN": "Gilbués",
+  "cod_Mun_Sudene": 2204402
+ },
+ {
+  "CD_MUN": 2204501,
+  "NM_MUN": "Guadalupe",
+  "cod_Mun_Sudene": 2204501
+ },
+ {
+  "CD_MUN": 2204550,
+  "NM_MUN": "Guaribas",
+  "cod_Mun_Sudene": 2204550
+ },
+ {
+  "CD_MUN": 2204600,
+  "NM_MUN": "Hugo Napoleão",
+  "cod_Mun_Sudene": 2204600
+ },
+ {
+  "CD_MUN": 2204659,
+  "NM_MUN": "Ilha Grande",
+  "cod_Mun_Sudene": 2204659
+ },
+ {
+  "CD_MUN": 2204709,
+  "NM_MUN": "Inhuma",
+  "cod_Mun_Sudene": 2204709
+ },
+ {
+  "CD_MUN": 2204808,
+  "NM_MUN": "Ipiranga do Piauí",
+  "cod_Mun_Sudene": 2204808
+ },
+ {
+  "CD_MUN": 2204907,
+  "NM_MUN": "Isaías Coelho",
+  "cod_Mun_Sudene": 2204907
+ },
+ {
+  "CD_MUN": 2205003,
+  "NM_MUN": "Itainópolis",
+  "cod_Mun_Sudene": 2205003
+ },
+ {
+  "CD_MUN": 2205102,
+  "NM_MUN": "Itaueira",
+  "cod_Mun_Sudene": 2205102
+ },
+ {
+  "CD_MUN": 2205151,
+  "NM_MUN": "Jacobina do Piauí",
+  "cod_Mun_Sudene": 2205151
+ },
+ {
+  "CD_MUN": 2205201,
+  "NM_MUN": "Jaicós",
+  "cod_Mun_Sudene": 2205201
+ },
+ {
+  "CD_MUN": 2205250,
+  "NM_MUN": "Jardim do Mulato",
+  "cod_Mun_Sudene": 2205250
+ },
+ {
+  "CD_MUN": 2205276,
+  "NM_MUN": "Jatobá do Piauí",
+  "cod_Mun_Sudene": 2205276
+ },
+ {
+  "CD_MUN": 2205300,
+  "NM_MUN": "Jerumenha",
+  "cod_Mun_Sudene": 2205300
+ },
+ {
+  "CD_MUN": 2205359,
+  "NM_MUN": "João Costa",
+  "cod_Mun_Sudene": 2205359
+ },
+ {
+  "CD_MUN": 2205409,
+  "NM_MUN": "Joaquim Pires",
+  "cod_Mun_Sudene": 2205409
+ },
+ {
+  "CD_MUN": 2205458,
+  "NM_MUN": "Joca Marques",
+  "cod_Mun_Sudene": 2205458
+ },
+ {
+  "CD_MUN": 2205508,
+  "NM_MUN": "José de Freitas",
+  "cod_Mun_Sudene": 2205508
+ },
+ {
+  "CD_MUN": 2205516,
+  "NM_MUN": "Juazeiro do Piauí",
+  "cod_Mun_Sudene": 2205516
+ },
+ {
+  "CD_MUN": 2205524,
+  "NM_MUN": "Júlio Borges",
+  "cod_Mun_Sudene": 2205524
+ },
+ {
+  "CD_MUN": 2205532,
+  "NM_MUN": "Jurema",
+  "cod_Mun_Sudene": 2205532
+ },
+ {
+  "CD_MUN": 2205540,
+  "NM_MUN": "Lagoinha do Piauí",
+  "cod_Mun_Sudene": 2205540
+ },
+ {
+  "CD_MUN": 2205557,
+  "NM_MUN": "Lagoa Alegre",
+  "cod_Mun_Sudene": 2205557
+ },
+ {
+  "CD_MUN": 2205565,
+  "NM_MUN": "Lagoa do Barro do Piauí",
+  "cod_Mun_Sudene": 2205565
+ },
+ {
+  "CD_MUN": 2205573,
+  "NM_MUN": "Lagoa de São Francisco",
+  "cod_Mun_Sudene": 2205573
+ },
+ {
+  "CD_MUN": 2205581,
+  "NM_MUN": "Lagoa do Piauí",
+  "cod_Mun_Sudene": 2205581
+ },
+ {
+  "CD_MUN": 2205599,
+  "NM_MUN": "Lagoa do Sítio",
+  "cod_Mun_Sudene": 2205599
+ },
+ {
+  "CD_MUN": 2205607,
+  "NM_MUN": "Landri Sales",
+  "cod_Mun_Sudene": 2205607
+ },
+ {
+  "CD_MUN": 2205706,
+  "NM_MUN": "Luís Correia",
+  "cod_Mun_Sudene": 2205706
+ },
+ {
+  "CD_MUN": 2205805,
+  "NM_MUN": "Luzilândia",
+  "cod_Mun_Sudene": 2205805
+ },
+ {
+  "CD_MUN": 2205854,
+  "NM_MUN": "Madeiro",
+  "cod_Mun_Sudene": 2205854
+ },
+ {
+  "CD_MUN": 2205904,
+  "NM_MUN": "Manoel Emídio",
+  "cod_Mun_Sudene": 2205904
+ },
+ {
+  "CD_MUN": 2205953,
+  "NM_MUN": "Marcolândia",
+  "cod_Mun_Sudene": 2205953
+ },
+ {
+  "CD_MUN": 2206001,
+  "NM_MUN": "Marcos Parente",
+  "cod_Mun_Sudene": 2206001
+ },
+ {
+  "CD_MUN": 2206050,
+  "NM_MUN": "Massapê do Piauí",
+  "cod_Mun_Sudene": 2206050
+ },
+ {
+  "CD_MUN": 2206100,
+  "NM_MUN": "Matias Olímpio",
+  "cod_Mun_Sudene": 2206100
+ },
+ {
+  "CD_MUN": 2206209,
+  "NM_MUN": "Miguel Alves",
+  "cod_Mun_Sudene": 2206209
+ },
+ {
+  "CD_MUN": 2206308,
+  "NM_MUN": "Miguel Leão",
+  "cod_Mun_Sudene": 2206308
+ },
+ {
+  "CD_MUN": 2206357,
+  "NM_MUN": "Milton Brandão",
+  "cod_Mun_Sudene": 2206357
+ },
+ {
+  "CD_MUN": 2206407,
+  "NM_MUN": "Monsenhor Gil",
+  "cod_Mun_Sudene": 2206407
+ },
+ {
+  "CD_MUN": 2206506,
+  "NM_MUN": "Monsenhor Hipólito",
+  "cod_Mun_Sudene": 2206506
+ },
+ {
+  "CD_MUN": 2206605,
+  "NM_MUN": "Monte Alegre do Piauí",
+  "cod_Mun_Sudene": 2206605
+ },
+ {
+  "CD_MUN": 2206654,
+  "NM_MUN": "Morro Cabeça no Tempo",
+  "cod_Mun_Sudene": 2206654
+ },
+ {
+  "CD_MUN": 2206670,
+  "NM_MUN": "Morro do Chapéu do Piauí",
+  "cod_Mun_Sudene": 2206670
+ },
+ {
+  "CD_MUN": 2206696,
+  "NM_MUN": "Murici dos Portelas",
+  "cod_Mun_Sudene": 2206696
+ },
+ {
+  "CD_MUN": 2206704,
+  "NM_MUN": "Nazaré do Piauí",
+  "cod_Mun_Sudene": 2206704
+ },
+ {
+  "CD_MUN": 2206720,
+  "NM_MUN": "Nazária",
+  "cod_Mun_Sudene": 2206720
+ },
+ {
+  "CD_MUN": 2206753,
+  "NM_MUN": "Nossa Senhora de Nazaré",
+  "cod_Mun_Sudene": 2206753
+ },
+ {
+  "CD_MUN": 2206803,
+  "NM_MUN": "Nossa Senhora dos Remédios",
+  "cod_Mun_Sudene": 2206803
+ },
+ {
+  "CD_MUN": 2206902,
+  "NM_MUN": "Novo Oriente do Piauí",
+  "cod_Mun_Sudene": 2206902
+ },
+ {
+  "CD_MUN": 2206951,
+  "NM_MUN": "Novo Santo Antônio",
+  "cod_Mun_Sudene": 2206951
+ },
+ {
+  "CD_MUN": 2207009,
+  "NM_MUN": "Oeiras",
+  "cod_Mun_Sudene": 2207009
+ },
+ {
+  "CD_MUN": 2207108,
+  "NM_MUN": "Olho D'Água do Piauí",
+  "cod_Mun_Sudene": 2207108
+ },
+ {
+  "CD_MUN": 2207207,
+  "NM_MUN": "Padre Marcos",
+  "cod_Mun_Sudene": 2207207
+ },
+ {
+  "CD_MUN": 2207306,
+  "NM_MUN": "Paes Landim",
+  "cod_Mun_Sudene": 2207306
+ },
+ {
+  "CD_MUN": 2207355,
+  "NM_MUN": "Pajeú do Piauí",
+  "cod_Mun_Sudene": 2207355
+ },
+ {
+  "CD_MUN": 2207405,
+  "NM_MUN": "Palmeira do Piauí",
+  "cod_Mun_Sudene": 2207405
+ },
+ {
+  "CD_MUN": 2207504,
+  "NM_MUN": "Palmeirais",
+  "cod_Mun_Sudene": 2207504
+ },
+ {
+  "CD_MUN": 2207553,
+  "NM_MUN": "Paquetá",
+  "cod_Mun_Sudene": 2207553
+ },
+ {
+  "CD_MUN": 2207603,
+  "NM_MUN": "Parnaguá",
+  "cod_Mun_Sudene": 2207603
+ },
+ {
+  "CD_MUN": 2207702,
+  "NM_MUN": "Parnaíba",
+  "cod_Mun_Sudene": 2207702
+ },
+ {
+  "CD_MUN": 2207751,
+  "NM_MUN": "Passagem Franca do Piauí",
+  "cod_Mun_Sudene": 2207751
+ },
+ {
+  "CD_MUN": 2207777,
+  "NM_MUN": "Patos do Piauí",
+  "cod_Mun_Sudene": 2207777
+ },
+ {
+  "CD_MUN": 2207793,
+  "NM_MUN": "Pau D'Arco do Piauí",
+  "cod_Mun_Sudene": 2207793
+ },
+ {
+  "CD_MUN": 2207801,
+  "NM_MUN": "Paulistana",
+  "cod_Mun_Sudene": 2207801
+ },
+ {
+  "CD_MUN": 2207850,
+  "NM_MUN": "Pavussu",
+  "cod_Mun_Sudene": 2207850
+ },
+ {
+  "CD_MUN": 2207900,
+  "NM_MUN": "Pedro II",
+  "cod_Mun_Sudene": 2207900
+ },
+ {
+  "CD_MUN": 2207934,
+  "NM_MUN": "Pedro Laurentino",
+  "cod_Mun_Sudene": 2207934
+ },
+ {
+  "CD_MUN": 2207959,
+  "NM_MUN": "Nova Santa Rita",
+  "cod_Mun_Sudene": 2207959
+ },
+ {
+  "CD_MUN": 2208007,
+  "NM_MUN": "Picos",
+  "cod_Mun_Sudene": 2208007
+ },
+ {
+  "CD_MUN": 2208106,
+  "NM_MUN": "Pimenteiras",
+  "cod_Mun_Sudene": 2208106
+ },
+ {
+  "CD_MUN": 2208205,
+  "NM_MUN": "Pio IX",
+  "cod_Mun_Sudene": 2208205
+ },
+ {
+  "CD_MUN": 2208304,
+  "NM_MUN": "Piracuruca",
+  "cod_Mun_Sudene": 2208304
+ },
+ {
+  "CD_MUN": 2208403,
+  "NM_MUN": "Piripiri",
+  "cod_Mun_Sudene": 2208403
+ },
+ {
+  "CD_MUN": 2208502,
+  "NM_MUN": "Porto",
+  "cod_Mun_Sudene": 2208502
+ },
+ {
+  "CD_MUN": 2208551,
+  "NM_MUN": "Porto Alegre do Piauí",
+  "cod_Mun_Sudene": 2208551
+ },
+ {
+  "CD_MUN": 2208601,
+  "NM_MUN": "Prata do Piauí",
+  "cod_Mun_Sudene": 2208601
+ },
+ {
+  "CD_MUN": 2208650,
+  "NM_MUN": "Queimada Nova",
+  "cod_Mun_Sudene": 2208650
+ },
+ {
+  "CD_MUN": 2208700,
+  "NM_MUN": "Redenção do Gurguéia",
+  "cod_Mun_Sudene": 2208700
+ },
+ {
+  "CD_MUN": 2208809,
+  "NM_MUN": "Regeneração",
+  "cod_Mun_Sudene": 2208809
+ },
+ {
+  "CD_MUN": 2208858,
+  "NM_MUN": "Riacho Frio",
+  "cod_Mun_Sudene": 2208858
+ },
+ {
+  "CD_MUN": 2208874,
+  "NM_MUN": "Ribeira do Piauí",
+  "cod_Mun_Sudene": 2208874
+ },
+ {
+  "CD_MUN": 2208908,
+  "NM_MUN": "Ribeiro Gonçalves",
+  "cod_Mun_Sudene": 2208908
+ },
+ {
+  "CD_MUN": 2209005,
+  "NM_MUN": "Rio Grande do Piauí",
+  "cod_Mun_Sudene": 2209005
+ },
+ {
+  "CD_MUN": 2209104,
+  "NM_MUN": "Santa Cruz do Piauí",
+  "cod_Mun_Sudene": 2209104
+ },
+ {
+  "CD_MUN": 2209153,
+  "NM_MUN": "Santa Cruz dos Milagres",
+  "cod_Mun_Sudene": 2209153
+ },
+ {
+  "CD_MUN": 2209203,
+  "NM_MUN": "Santa Filomena",
+  "cod_Mun_Sudene": 2209203
+ },
+ {
+  "CD_MUN": 2209302,
+  "NM_MUN": "Santa Luz",
+  "cod_Mun_Sudene": 2209302
+ },
+ {
+  "CD_MUN": 2209351,
+  "NM_MUN": "Santana do Piauí",
+  "cod_Mun_Sudene": 2209351
+ },
+ {
+  "CD_MUN": 2209377,
+  "NM_MUN": "Santa Rosa do Piauí",
+  "cod_Mun_Sudene": 2209377
+ },
+ {
+  "CD_MUN": 2209401,
+  "NM_MUN": "Santo Antônio de Lisboa",
+  "cod_Mun_Sudene": 2209401
+ },
+ {
+  "CD_MUN": 2209450,
+  "NM_MUN": "Santo Antônio dos Milagres",
+  "cod_Mun_Sudene": 2209450
+ },
+ {
+  "CD_MUN": 2209500,
+  "NM_MUN": "Santo Inácio do Piauí",
+  "cod_Mun_Sudene": 2209500
+ },
+ {
+  "CD_MUN": 2209559,
+  "NM_MUN": "São Braz do Piauí",
+  "cod_Mun_Sudene": 2209559
+ },
+ {
+  "CD_MUN": 2209609,
+  "NM_MUN": "São Félix do Piauí",
+  "cod_Mun_Sudene": 2209609
+ },
+ {
+  "CD_MUN": 2209658,
+  "NM_MUN": "São Francisco de Assis do Piauí",
+  "cod_Mun_Sudene": 2209658
+ },
+ {
+  "CD_MUN": 2209708,
+  "NM_MUN": "São Francisco do Piauí",
+  "cod_Mun_Sudene": 2209708
+ },
+ {
+  "CD_MUN": 2209757,
+  "NM_MUN": "São Gonçalo do Gurguéia",
+  "cod_Mun_Sudene": 2209757
+ },
+ {
+  "CD_MUN": 2209807,
+  "NM_MUN": "São Gonçalo do Piauí",
+  "cod_Mun_Sudene": 2209807
+ },
+ {
+  "CD_MUN": 2209856,
+  "NM_MUN": "São João da Canabrava",
+  "cod_Mun_Sudene": 2209856
+ },
+ {
+  "CD_MUN": 2209872,
+  "NM_MUN": "São João da Fronteira",
+  "cod_Mun_Sudene": 2209872
+ },
+ {
+  "CD_MUN": 2209906,
+  "NM_MUN": "São João da Serra",
+  "cod_Mun_Sudene": 2209906
+ },
+ {
+  "CD_MUN": 2209955,
+  "NM_MUN": "São João da Varjota",
+  "cod_Mun_Sudene": 2209955
+ },
+ {
+  "CD_MUN": 2209971,
+  "NM_MUN": "São João do Arraial",
+  "cod_Mun_Sudene": 2209971
+ },
+ {
+  "CD_MUN": 2210003,
+  "NM_MUN": "São João do Piauí",
+  "cod_Mun_Sudene": 2210003
+ },
+ {
+  "CD_MUN": 2210052,
+  "NM_MUN": "São José do Divino",
+  "cod_Mun_Sudene": 2210052
+ },
+ {
+  "CD_MUN": 2210102,
+  "NM_MUN": "São José do Peixe",
+  "cod_Mun_Sudene": 2210102
+ },
+ {
+  "CD_MUN": 2210201,
+  "NM_MUN": "São José do Piauí",
+  "cod_Mun_Sudene": 2210201
+ },
+ {
+  "CD_MUN": 2210300,
+  "NM_MUN": "São Julião",
+  "cod_Mun_Sudene": 2210300
+ },
+ {
+  "CD_MUN": 2210359,
+  "NM_MUN": "São Lourenço do Piauí",
+  "cod_Mun_Sudene": 2210359
+ },
+ {
+  "CD_MUN": 2210375,
+  "NM_MUN": "São Luis do Piauí",
+  "cod_Mun_Sudene": 2210375
+ },
+ {
+  "CD_MUN": 2210383,
+  "NM_MUN": "São Miguel da Baixa Grande",
+  "cod_Mun_Sudene": 2210383
+ },
+ {
+  "CD_MUN": 2210391,
+  "NM_MUN": "São Miguel do Fidalgo",
+  "cod_Mun_Sudene": 2210391
+ },
+ {
+  "CD_MUN": 2210409,
+  "NM_MUN": "São Miguel do Tapuio",
+  "cod_Mun_Sudene": 2210409
+ },
+ {
+  "CD_MUN": 2210508,
+  "NM_MUN": "São Pedro do Piauí",
+  "cod_Mun_Sudene": 2210508
+ },
+ {
+  "CD_MUN": 2210607,
+  "NM_MUN": "São Raimundo Nonato",
+  "cod_Mun_Sudene": 2210607
+ },
+ {
+  "CD_MUN": 2210623,
+  "NM_MUN": "Sebastião Barros",
+  "cod_Mun_Sudene": 2210623
+ },
+ {
+  "CD_MUN": 2210631,
+  "NM_MUN": "Sebastião Leal",
+  "cod_Mun_Sudene": 2210631
+ },
+ {
+  "CD_MUN": 2210656,
+  "NM_MUN": "Sigefredo Pacheco",
+  "cod_Mun_Sudene": 2210656
+ },
+ {
+  "CD_MUN": 2210706,
+  "NM_MUN": "Simões",
+  "cod_Mun_Sudene": 2210706
+ },
+ {
+  "CD_MUN": 2210805,
+  "NM_MUN": "Simplício Mendes",
+  "cod_Mun_Sudene": 2210805
+ },
+ {
+  "CD_MUN": 2210904,
+  "NM_MUN": "Socorro do Piauí",
+  "cod_Mun_Sudene": 2210904
+ },
+ {
+  "CD_MUN": 2210938,
+  "NM_MUN": "Sussuapara",
+  "cod_Mun_Sudene": 2210938
+ },
+ {
+  "CD_MUN": 2210953,
+  "NM_MUN": "Tamboril do Piauí",
+  "cod_Mun_Sudene": 2210953
+ },
+ {
+  "CD_MUN": 2210979,
+  "NM_MUN": "Tanque do Piauí",
+  "cod_Mun_Sudene": 2210979
+ },
+ {
+  "CD_MUN": 2211001,
+  "NM_MUN": "Teresina",
+  "cod_Mun_Sudene": 2211001
+ },
+ {
+  "CD_MUN": 2211100,
+  "NM_MUN": "União",
+  "cod_Mun_Sudene": 2211100
+ },
+ {
+  "CD_MUN": 2211209,
+  "NM_MUN": "Uruçuí",
+  "cod_Mun_Sudene": 2211209
+ },
+ {
+  "CD_MUN": 2211308,
+  "NM_MUN": "Valença do Piauí",
+  "cod_Mun_Sudene": 2211308
+ },
+ {
+  "CD_MUN": 2211357,
+  "NM_MUN": "Várzea Branca",
+  "cod_Mun_Sudene": 2211357
+ },
+ {
+  "CD_MUN": 2211407,
+  "NM_MUN": "Várzea Grande",
+  "cod_Mun_Sudene": 2211407
+ },
+ {
+  "CD_MUN": 2211506,
+  "NM_MUN": "Vera Mendes",
+  "cod_Mun_Sudene": 2211506
+ },
+ {
+  "CD_MUN": 2211605,
+  "NM_MUN": "Vila Nova do Piauí",
+  "cod_Mun_Sudene": 2211605
+ },
+ {
+  "CD_MUN": 2211704,
+  "NM_MUN": "Wall Ferraz",
+  "cod_Mun_Sudene": 2211704
+ },
+ {
+  "CD_MUN": 2300101,
+  "NM_MUN": "Abaiara",
+  "cod_Mun_Sudene": 2300101
+ },
+ {
+  "CD_MUN": 2300150,
+  "NM_MUN": "Acarape",
+  "cod_Mun_Sudene": 2300150
+ },
+ {
+  "CD_MUN": 2300200,
+  "NM_MUN": "Acaraú",
+  "cod_Mun_Sudene": 2300200
+ },
+ {
+  "CD_MUN": 2300309,
+  "NM_MUN": "Acopiara",
+  "cod_Mun_Sudene": 2300309
+ },
+ {
+  "CD_MUN": 2300408,
+  "NM_MUN": "Aiuaba",
+  "cod_Mun_Sudene": 2300408
+ },
+ {
+  "CD_MUN": 2300507,
+  "NM_MUN": "Alcântaras",
+  "cod_Mun_Sudene": 2300507
+ },
+ {
+  "CD_MUN": 2300606,
+  "NM_MUN": "Altaneira",
+  "cod_Mun_Sudene": 2300606
+ },
+ {
+  "CD_MUN": 2300705,
+  "NM_MUN": "Alto Santo",
+  "cod_Mun_Sudene": 2300705
+ },
+ {
+  "CD_MUN": 2300754,
+  "NM_MUN": "Amontada",
+  "cod_Mun_Sudene": 2300754
+ },
+ {
+  "CD_MUN": 2300804,
+  "NM_MUN": "Antonina do Norte",
+  "cod_Mun_Sudene": 2300804
+ },
+ {
+  "CD_MUN": 2300903,
+  "NM_MUN": "Apuiarés",
+  "cod_Mun_Sudene": 2300903
+ },
+ {
+  "CD_MUN": 2301000,
+  "NM_MUN": "Aquiraz",
+  "cod_Mun_Sudene": 2301000
+ },
+ {
+  "CD_MUN": 2301109,
+  "NM_MUN": "Aracati",
+  "cod_Mun_Sudene": 2301109
+ },
+ {
+  "CD_MUN": 2301208,
+  "NM_MUN": "Aracoiaba",
+  "cod_Mun_Sudene": 2301208
+ },
+ {
+  "CD_MUN": 2301257,
+  "NM_MUN": "Ararendá",
+  "cod_Mun_Sudene": 2301257
+ },
+ {
+  "CD_MUN": 2301307,
+  "NM_MUN": "Araripe",
+  "cod_Mun_Sudene": 2301307
+ },
+ {
+  "CD_MUN": 2301406,
+  "NM_MUN": "Aratuba",
+  "cod_Mun_Sudene": 2301406
+ },
+ {
+  "CD_MUN": 2301505,
+  "NM_MUN": "Arneiroz",
+  "cod_Mun_Sudene": 2301505
+ },
+ {
+  "CD_MUN": 2301604,
+  "NM_MUN": "Assaré",
+  "cod_Mun_Sudene": 2301604
+ },
+ {
+  "CD_MUN": 2301703,
+  "NM_MUN": "Aurora",
+  "cod_Mun_Sudene": 2301703
+ },
+ {
+  "CD_MUN": 2301802,
+  "NM_MUN": "Baixio",
+  "cod_Mun_Sudene": 2301802
+ },
+ {
+  "CD_MUN": 2301851,
+  "NM_MUN": "Banabuiú",
+  "cod_Mun_Sudene": 2301851
+ },
+ {
+  "CD_MUN": 2301901,
+  "NM_MUN": "Barbalha",
+  "cod_Mun_Sudene": 2301901
+ },
+ {
+  "CD_MUN": 2301950,
+  "NM_MUN": "Barreira",
+  "cod_Mun_Sudene": 2301950
+ },
+ {
+  "CD_MUN": 2302008,
+  "NM_MUN": "Barro",
+  "cod_Mun_Sudene": 2302008
+ },
+ {
+  "CD_MUN": 2302057,
+  "NM_MUN": "Barroquinha",
+  "cod_Mun_Sudene": 2302057
+ },
+ {
+  "CD_MUN": 2302107,
+  "NM_MUN": "Baturité",
+  "cod_Mun_Sudene": 2302107
+ },
+ {
+  "CD_MUN": 2302206,
+  "NM_MUN": "Beberibe",
+  "cod_Mun_Sudene": 2302206
+ },
+ {
+  "CD_MUN": 2302305,
+  "NM_MUN": "Bela Cruz",
+  "cod_Mun_Sudene": 2302305
+ },
+ {
+  "CD_MUN": 2302404,
+  "NM_MUN": "Boa Viagem",
+  "cod_Mun_Sudene": 2302404
+ },
+ {
+  "CD_MUN": 2302503,
+  "NM_MUN": "Brejo Santo",
+  "cod_Mun_Sudene": 2302503
+ },
+ {
+  "CD_MUN": 2302602,
+  "NM_MUN": "Camocim",
+  "cod_Mun_Sudene": 2302602
+ },
+ {
+  "CD_MUN": 2302701,
+  "NM_MUN": "Campos Sales",
+  "cod_Mun_Sudene": 2302701
+ },
+ {
+  "CD_MUN": 2302800,
+  "NM_MUN": "Canindé",
+  "cod_Mun_Sudene": 2302800
+ },
+ {
+  "CD_MUN": 2302909,
+  "NM_MUN": "Capistrano",
+  "cod_Mun_Sudene": 2302909
+ },
+ {
+  "CD_MUN": 2303006,
+  "NM_MUN": "Caridade",
+  "cod_Mun_Sudene": 2303006
+ },
+ {
+  "CD_MUN": 2303105,
+  "NM_MUN": "Cariré",
+  "cod_Mun_Sudene": 2303105
+ },
+ {
+  "CD_MUN": 2303204,
+  "NM_MUN": "Caririaçu",
+  "cod_Mun_Sudene": 2303204
+ },
+ {
+  "CD_MUN": 2303303,
+  "NM_MUN": "Cariús",
+  "cod_Mun_Sudene": 2303303
+ },
+ {
+  "CD_MUN": 2303402,
+  "NM_MUN": "Carnaubal",
+  "cod_Mun_Sudene": 2303402
+ },
+ {
+  "CD_MUN": 2303501,
+  "NM_MUN": "Cascavel",
+  "cod_Mun_Sudene": 2303501
+ },
+ {
+  "CD_MUN": 2303600,
+  "NM_MUN": "Catarina",
+  "cod_Mun_Sudene": 2303600
+ },
+ {
+  "CD_MUN": 2303659,
+  "NM_MUN": "Catunda",
+  "cod_Mun_Sudene": 2303659
+ },
+ {
+  "CD_MUN": 2303709,
+  "NM_MUN": "Caucaia",
+  "cod_Mun_Sudene": 2303709
+ },
+ {
+  "CD_MUN": 2303808,
+  "NM_MUN": "Cedro",
+  "cod_Mun_Sudene": 2303808
+ },
+ {
+  "CD_MUN": 2303907,
+  "NM_MUN": "Chaval",
+  "cod_Mun_Sudene": 2303907
+ },
+ {
+  "CD_MUN": 2303931,
+  "NM_MUN": "Choró",
+  "cod_Mun_Sudene": 2303931
+ },
+ {
+  "CD_MUN": 2303956,
+  "NM_MUN": "Chorozinho",
+  "cod_Mun_Sudene": 2303956
+ },
+ {
+  "CD_MUN": 2304004,
+  "NM_MUN": "Coreaú",
+  "cod_Mun_Sudene": 2304004
+ },
+ {
+  "CD_MUN": 2304103,
+  "NM_MUN": "Crateús",
+  "cod_Mun_Sudene": 2304103
+ },
+ {
+  "CD_MUN": 2304202,
+  "NM_MUN": "Crato",
+  "cod_Mun_Sudene": 2304202
+ },
+ {
+  "CD_MUN": 2304236,
+  "NM_MUN": "Croatá",
+  "cod_Mun_Sudene": 2304236
+ },
+ {
+  "CD_MUN": 2304251,
+  "NM_MUN": "Cruz",
+  "cod_Mun_Sudene": 2304251
+ },
+ {
+  "CD_MUN": 2304269,
+  "NM_MUN": "Deputado Irapuan Pinheiro",
+  "cod_Mun_Sudene": 2304269
+ },
+ {
+  "CD_MUN": 2304277,
+  "NM_MUN": "Ereré",
+  "cod_Mun_Sudene": 2304277
+ },
+ {
+  "CD_MUN": 2304285,
+  "NM_MUN": "Eusébio",
+  "cod_Mun_Sudene": 2304285
+ },
+ {
+  "CD_MUN": 2304301,
+  "NM_MUN": "Farias Brito",
+  "cod_Mun_Sudene": 2304301
+ },
+ {
+  "CD_MUN": 2304350,
+  "NM_MUN": "Forquilha",
+  "cod_Mun_Sudene": 2304350
+ },
+ {
+  "CD_MUN": 2304400,
+  "NM_MUN": "Fortaleza",
+  "cod_Mun_Sudene": 2304400
+ },
+ {
+  "CD_MUN": 2304459,
+  "NM_MUN": "Fortim",
+  "cod_Mun_Sudene": 2304459
+ },
+ {
+  "CD_MUN": 2304509,
+  "NM_MUN": "Frecheirinha",
+  "cod_Mun_Sudene": 2304509
+ },
+ {
+  "CD_MUN": 2304608,
+  "NM_MUN": "General Sampaio",
+  "cod_Mun_Sudene": 2304608
+ },
+ {
+  "CD_MUN": 2304657,
+  "NM_MUN": "Graça",
+  "cod_Mun_Sudene": 2304657
+ },
+ {
+  "CD_MUN": 2304707,
+  "NM_MUN": "Granja",
+  "cod_Mun_Sudene": 2304707
+ },
+ {
+  "CD_MUN": 2304806,
+  "NM_MUN": "Granjeiro",
+  "cod_Mun_Sudene": 2304806
+ },
+ {
+  "CD_MUN": 2304905,
+  "NM_MUN": "Groaíras",
+  "cod_Mun_Sudene": 2304905
+ },
+ {
+  "CD_MUN": 2304954,
+  "NM_MUN": "Guaiúba",
+  "cod_Mun_Sudene": 2304954
+ },
+ {
+  "CD_MUN": 2305001,
+  "NM_MUN": "Guaraciaba do Norte",
+  "cod_Mun_Sudene": 2305001
+ },
+ {
+  "CD_MUN": 2305100,
+  "NM_MUN": "Guaramiranga",
+  "cod_Mun_Sudene": 2305100
+ },
+ {
+  "CD_MUN": 2305209,
+  "NM_MUN": "Hidrolândia",
+  "cod_Mun_Sudene": 2305209
+ },
+ {
+  "CD_MUN": 2305233,
+  "NM_MUN": "Horizonte",
+  "cod_Mun_Sudene": 2305233
+ },
+ {
+  "CD_MUN": 2305266,
+  "NM_MUN": "Ibaretama",
+  "cod_Mun_Sudene": 2305266
+ },
+ {
+  "CD_MUN": 2305308,
+  "NM_MUN": "Ibiapina",
+  "cod_Mun_Sudene": 2305308
+ },
+ {
+  "CD_MUN": 2305332,
+  "NM_MUN": "Ibicuitinga",
+  "cod_Mun_Sudene": 2305332
+ },
+ {
+  "CD_MUN": 2305357,
+  "NM_MUN": "Icapuí",
+  "cod_Mun_Sudene": 2305357
+ },
+ {
+  "CD_MUN": 2305407,
+  "NM_MUN": "Icó",
+  "cod_Mun_Sudene": 2305407
+ },
+ {
+  "CD_MUN": 2305506,
+  "NM_MUN": "Iguatu",
+  "cod_Mun_Sudene": 2305506
+ },
+ {
+  "CD_MUN": 2305605,
+  "NM_MUN": "Independência",
+  "cod_Mun_Sudene": 2305605
+ },
+ {
+  "CD_MUN": 2305654,
+  "NM_MUN": "Ipaporanga",
+  "cod_Mun_Sudene": 2305654
+ },
+ {
+  "CD_MUN": 2305704,
+  "NM_MUN": "Ipaumirim",
+  "cod_Mun_Sudene": 2305704
+ },
+ {
+  "CD_MUN": 2305803,
+  "NM_MUN": "Ipu",
+  "cod_Mun_Sudene": 2305803
+ },
+ {
+  "CD_MUN": 2305902,
+  "NM_MUN": "Ipueiras",
+  "cod_Mun_Sudene": 2305902
+ },
+ {
+  "CD_MUN": 2306009,
+  "NM_MUN": "Iracema",
+  "cod_Mun_Sudene": 2306009
+ },
+ {
+  "CD_MUN": 2306108,
+  "NM_MUN": "Irauçuba",
+  "cod_Mun_Sudene": 2306108
+ },
+ {
+  "CD_MUN": 2306207,
+  "NM_MUN": "Itaiçaba",
+  "cod_Mun_Sudene": 2306207
+ },
+ {
+  "CD_MUN": 2306256,
+  "NM_MUN": "Itaitinga",
+  "cod_Mun_Sudene": 2306256
+ },
+ {
+  "CD_MUN": 2306306,
+  "NM_MUN": "Itapajé",
+  "cod_Mun_Sudene": 2306306
+ },
+ {
+  "CD_MUN": 2306405,
+  "NM_MUN": "Itapipoca",
+  "cod_Mun_Sudene": 2306405
+ },
+ {
+  "CD_MUN": 2306504,
+  "NM_MUN": "Itapiúna",
+  "cod_Mun_Sudene": 2306504
+ },
+ {
+  "CD_MUN": 2306553,
+  "NM_MUN": "Itarema",
+  "cod_Mun_Sudene": 2306553
+ },
+ {
+  "CD_MUN": 2306603,
+  "NM_MUN": "Itatira",
+  "cod_Mun_Sudene": 2306603
+ },
+ {
+  "CD_MUN": 2306702,
+  "NM_MUN": "Jaguaretama",
+  "cod_Mun_Sudene": 2306702
+ },
+ {
+  "CD_MUN": 2306801,
+  "NM_MUN": "Jaguaribara",
+  "cod_Mun_Sudene": 2306801
+ },
+ {
+  "CD_MUN": 2306900,
+  "NM_MUN": "Jaguaribe",
+  "cod_Mun_Sudene": 2306900
+ },
+ {
+  "CD_MUN": 2307007,
+  "NM_MUN": "Jaguaruana",
+  "cod_Mun_Sudene": 2307007
+ },
+ {
+  "CD_MUN": 2307106,
+  "NM_MUN": "Jardim",
+  "cod_Mun_Sudene": 2307106
+ },
+ {
+  "CD_MUN": 2307205,
+  "NM_MUN": "Jati",
+  "cod_Mun_Sudene": 2307205
+ },
+ {
+  "CD_MUN": 2307254,
+  "NM_MUN": "Jijoca de Jericoacoara",
+  "cod_Mun_Sudene": 2307254
+ },
+ {
+  "CD_MUN": 2307304,
+  "NM_MUN": "Juazeiro do Norte",
+  "cod_Mun_Sudene": 2307304
+ },
+ {
+  "CD_MUN": 2307403,
+  "NM_MUN": "Jucás",
+  "cod_Mun_Sudene": 2307403
+ },
+ {
+  "CD_MUN": 2307502,
+  "NM_MUN": "Lavras da Mangabeira",
+  "cod_Mun_Sudene": 2307502
+ },
+ {
+  "CD_MUN": 2307601,
+  "NM_MUN": "Limoeiro do Norte",
+  "cod_Mun_Sudene": 2307601
+ },
+ {
+  "CD_MUN": 2307635,
+  "NM_MUN": "Madalena",
+  "cod_Mun_Sudene": 2307635
+ },
+ {
+  "CD_MUN": 2307650,
+  "NM_MUN": "Maracanaú",
+  "cod_Mun_Sudene": 2307650
+ },
+ {
+  "CD_MUN": 2307700,
+  "NM_MUN": "Maranguape",
+  "cod_Mun_Sudene": 2307700
+ },
+ {
+  "CD_MUN": 2307809,
+  "NM_MUN": "Marco",
+  "cod_Mun_Sudene": 2307809
+ },
+ {
+  "CD_MUN": 2307908,
+  "NM_MUN": "Martinópole",
+  "cod_Mun_Sudene": 2307908
+ },
+ {
+  "CD_MUN": 2308005,
+  "NM_MUN": "Massapê",
+  "cod_Mun_Sudene": 2308005
+ },
+ {
+  "CD_MUN": 2308104,
+  "NM_MUN": "Mauriti",
+  "cod_Mun_Sudene": 2308104
+ },
+ {
+  "CD_MUN": 2308203,
+  "NM_MUN": "Meruoca",
+  "cod_Mun_Sudene": 2308203
+ },
+ {
+  "CD_MUN": 2308302,
+  "NM_MUN": "Milagres",
+  "cod_Mun_Sudene": 2308302
+ },
+ {
+  "CD_MUN": 2308351,
+  "NM_MUN": "Milhã",
+  "cod_Mun_Sudene": 2308351
+ },
+ {
+  "CD_MUN": 2308377,
+  "NM_MUN": "Miraíma",
+  "cod_Mun_Sudene": 2308377
+ },
+ {
+  "CD_MUN": 2308401,
+  "NM_MUN": "Missão Velha",
+  "cod_Mun_Sudene": 2308401
+ },
+ {
+  "CD_MUN": 2308500,
+  "NM_MUN": "Mombaça",
+  "cod_Mun_Sudene": 2308500
+ },
+ {
+  "CD_MUN": 2308609,
+  "NM_MUN": "Monsenhor Tabosa",
+  "cod_Mun_Sudene": 2308609
+ },
+ {
+  "CD_MUN": 2308708,
+  "NM_MUN": "Morada Nova",
+  "cod_Mun_Sudene": 2308708
+ },
+ {
+  "CD_MUN": 2308807,
+  "NM_MUN": "Moraújo",
+  "cod_Mun_Sudene": 2308807
+ },
+ {
+  "CD_MUN": 2308906,
+  "NM_MUN": "Morrinhos",
+  "cod_Mun_Sudene": 2308906
+ },
+ {
+  "CD_MUN": 2309003,
+  "NM_MUN": "Mucambo",
+  "cod_Mun_Sudene": 2309003
+ },
+ {
+  "CD_MUN": 2309102,
+  "NM_MUN": "Mulungu",
+  "cod_Mun_Sudene": 2309102
+ },
+ {
+  "CD_MUN": 2309201,
+  "NM_MUN": "Nova Olinda",
+  "cod_Mun_Sudene": 2309201
+ },
+ {
+  "CD_MUN": 2309300,
+  "NM_MUN": "Nova Russas",
+  "cod_Mun_Sudene": 2309300
+ },
+ {
+  "CD_MUN": 2309409,
+  "NM_MUN": "Novo Oriente",
+  "cod_Mun_Sudene": 2309409
+ },
+ {
+  "CD_MUN": 2309458,
+  "NM_MUN": "Ocara",
+  "cod_Mun_Sudene": 2309458
+ },
+ {
+  "CD_MUN": 2309508,
+  "NM_MUN": "Orós",
+  "cod_Mun_Sudene": 2309508
+ },
+ {
+  "CD_MUN": 2309607,
+  "NM_MUN": "Pacajus",
+  "cod_Mun_Sudene": 2309607
+ },
+ {
+  "CD_MUN": 2309706,
+  "NM_MUN": "Pacatuba",
+  "cod_Mun_Sudene": 2309706
+ },
+ {
+  "CD_MUN": 2309805,
+  "NM_MUN": "Pacoti",
+  "cod_Mun_Sudene": 2309805
+ },
+ {
+  "CD_MUN": 2309904,
+  "NM_MUN": "Pacujá",
+  "cod_Mun_Sudene": 2309904
+ },
+ {
+  "CD_MUN": 2310001,
+  "NM_MUN": "Palhano",
+  "cod_Mun_Sudene": 2310001
+ },
+ {
+  "CD_MUN": 2310100,
+  "NM_MUN": "Palmácia",
+  "cod_Mun_Sudene": 2310100
+ },
+ {
+  "CD_MUN": 2310209,
+  "NM_MUN": "Paracuru",
+  "cod_Mun_Sudene": 2310209
+ },
+ {
+  "CD_MUN": 2310258,
+  "NM_MUN": "Paraipaba",
+  "cod_Mun_Sudene": 2310258
+ },
+ {
+  "CD_MUN": 2310308,
+  "NM_MUN": "Parambu",
+  "cod_Mun_Sudene": 2310308
+ },
+ {
+  "CD_MUN": 2310407,
+  "NM_MUN": "Paramoti",
+  "cod_Mun_Sudene": 2310407
+ },
+ {
+  "CD_MUN": 2310506,
+  "NM_MUN": "Pedra Branca",
+  "cod_Mun_Sudene": 2310506
+ },
+ {
+  "CD_MUN": 2310605,
+  "NM_MUN": "Penaforte",
+  "cod_Mun_Sudene": 2310605
+ },
+ {
+  "CD_MUN": 2310704,
+  "NM_MUN": "Pentecoste",
+  "cod_Mun_Sudene": 2310704
+ },
+ {
+  "CD_MUN": 2310803,
+  "NM_MUN": "Pereiro",
+  "cod_Mun_Sudene": 2310803
+ },
+ {
+  "CD_MUN": 2310852,
+  "NM_MUN": "Pindoretama",
+  "cod_Mun_Sudene": 2310852
+ },
+ {
+  "CD_MUN": 2310902,
+  "NM_MUN": "Piquet Carneiro",
+  "cod_Mun_Sudene": 2310902
+ },
+ {
+  "CD_MUN": 2310951,
+  "NM_MUN": "Pires Ferreira",
+  "cod_Mun_Sudene": 2310951
+ },
+ {
+  "CD_MUN": 2311009,
+  "NM_MUN": "Poranga",
+  "cod_Mun_Sudene": 2311009
+ },
+ {
+  "CD_MUN": 2311108,
+  "NM_MUN": "Porteiras",
+  "cod_Mun_Sudene": 2311108
+ },
+ {
+  "CD_MUN": 2311207,
+  "NM_MUN": "Potengi",
+  "cod_Mun_Sudene": 2311207
+ },
+ {
+  "CD_MUN": 2311231,
+  "NM_MUN": "Potiretama",
+  "cod_Mun_Sudene": 2311231
+ },
+ {
+  "CD_MUN": 2311264,
+  "NM_MUN": "Quiterianópolis",
+  "cod_Mun_Sudene": 2311264
+ },
+ {
+  "CD_MUN": 2311306,
+  "NM_MUN": "Quixadá",
+  "cod_Mun_Sudene": 2311306
+ },
+ {
+  "CD_MUN": 2311355,
+  "NM_MUN": "Quixelô",
+  "cod_Mun_Sudene": 2311355
+ },
+ {
+  "CD_MUN": 2311405,
+  "NM_MUN": "Quixeramobim",
+  "cod_Mun_Sudene": 2311405
+ },
+ {
+  "CD_MUN": 2311504,
+  "NM_MUN": "Quixeré",
+  "cod_Mun_Sudene": 2311504
+ },
+ {
+  "CD_MUN": 2311603,
+  "NM_MUN": "Redenção",
+  "cod_Mun_Sudene": 2311603
+ },
+ {
+  "CD_MUN": 2311702,
+  "NM_MUN": "Reriutaba",
+  "cod_Mun_Sudene": 2311702
+ },
+ {
+  "CD_MUN": 2311801,
+  "NM_MUN": "Russas",
+  "cod_Mun_Sudene": 2311801
+ },
+ {
+  "CD_MUN": 2311900,
+  "NM_MUN": "Saboeiro",
+  "cod_Mun_Sudene": 2311900
+ },
+ {
+  "CD_MUN": 2311959,
+  "NM_MUN": "Salitre",
+  "cod_Mun_Sudene": 2311959
+ },
+ {
+  "CD_MUN": 2312007,
+  "NM_MUN": "Santana do Acaraú",
+  "cod_Mun_Sudene": 2312007
+ },
+ {
+  "CD_MUN": 2312106,
+  "NM_MUN": "Santana do Cariri",
+  "cod_Mun_Sudene": 2312106
+ },
+ {
+  "CD_MUN": 2312205,
+  "NM_MUN": "Santa Quitéria",
+  "cod_Mun_Sudene": 2312205
+ },
+ {
+  "CD_MUN": 2312304,
+  "NM_MUN": "São Benedito",
+  "cod_Mun_Sudene": 2312304
+ },
+ {
+  "CD_MUN": 2312403,
+  "NM_MUN": "São Gonçalo do Amarante",
+  "cod_Mun_Sudene": 2312403
+ },
+ {
+  "CD_MUN": 2312502,
+  "NM_MUN": "São João do Jaguaribe",
+  "cod_Mun_Sudene": 2312502
+ },
+ {
+  "CD_MUN": 2312601,
+  "NM_MUN": "São Luís do Curu",
+  "cod_Mun_Sudene": 2312601
+ },
+ {
+  "CD_MUN": 2312700,
+  "NM_MUN": "Senador Pompeu",
+  "cod_Mun_Sudene": 2312700
+ },
+ {
+  "CD_MUN": 2312809,
+  "NM_MUN": "Senador Sá",
+  "cod_Mun_Sudene": 2312809
+ },
+ {
+  "CD_MUN": 2312908,
+  "NM_MUN": "Sobral",
+  "cod_Mun_Sudene": 2312908
+ },
+ {
+  "CD_MUN": 2313005,
+  "NM_MUN": "Solonópole",
+  "cod_Mun_Sudene": 2313005
+ },
+ {
+  "CD_MUN": 2313104,
+  "NM_MUN": "Tabuleiro do Norte",
+  "cod_Mun_Sudene": 2313104
+ },
+ {
+  "CD_MUN": 2313203,
+  "NM_MUN": "Tamboril",
+  "cod_Mun_Sudene": 2313203
+ },
+ {
+  "CD_MUN": 2313252,
+  "NM_MUN": "Tarrafas",
+  "cod_Mun_Sudene": 2313252
+ },
+ {
+  "CD_MUN": 2313302,
+  "NM_MUN": "Tauá",
+  "cod_Mun_Sudene": 2313302
+ },
+ {
+  "CD_MUN": 2313351,
+  "NM_MUN": "Tejuçuoca",
+  "cod_Mun_Sudene": 2313351
+ },
+ {
+  "CD_MUN": 2313401,
+  "NM_MUN": "Tianguá",
+  "cod_Mun_Sudene": 2313401
+ },
+ {
+  "CD_MUN": 2313500,
+  "NM_MUN": "Trairi",
+  "cod_Mun_Sudene": 2313500
+ },
+ {
+  "CD_MUN": 2313559,
+  "NM_MUN": "Tururu",
+  "cod_Mun_Sudene": 2313559
+ },
+ {
+  "CD_MUN": 2313609,
+  "NM_MUN": "Ubajara",
+  "cod_Mun_Sudene": 2313609
+ },
+ {
+  "CD_MUN": 2313708,
+  "NM_MUN": "Umari",
+  "cod_Mun_Sudene": 2313708
+ },
+ {
+  "CD_MUN": 2313757,
+  "NM_MUN": "Umirim",
+  "cod_Mun_Sudene": 2313757
+ },
+ {
+  "CD_MUN": 2313807,
+  "NM_MUN": "Uruburetama",
+  "cod_Mun_Sudene": 2313807
+ },
+ {
+  "CD_MUN": 2313906,
+  "NM_MUN": "Uruoca",
+  "cod_Mun_Sudene": 2313906
+ },
+ {
+  "CD_MUN": 2313955,
+  "NM_MUN": "Varjota",
+  "cod_Mun_Sudene": 2313955
+ },
+ {
+  "CD_MUN": 2314003,
+  "NM_MUN": "Várzea Alegre",
+  "cod_Mun_Sudene": 2314003
+ },
+ {
+  "CD_MUN": 2314102,
+  "NM_MUN": "Viçosa do Ceará",
+  "cod_Mun_Sudene": 2314102
+ },
+ {
+  "CD_MUN": 2400109,
+  "NM_MUN": "Acari",
+  "cod_Mun_Sudene": 2400109
+ },
+ {
+  "CD_MUN": 2400208,
+  "NM_MUN": "Açu",
+  "cod_Mun_Sudene": 2400208
+ },
+ {
+  "CD_MUN": 2400307,
+  "NM_MUN": "Afonso Bezerra",
+  "cod_Mun_Sudene": 2400307
+ },
+ {
+  "CD_MUN": 2400406,
+  "NM_MUN": "Água Nova",
+  "cod_Mun_Sudene": 2400406
+ },
+ {
+  "CD_MUN": 2400505,
+  "NM_MUN": "Alexandria",
+  "cod_Mun_Sudene": 2400505
+ },
+ {
+  "CD_MUN": 2400604,
+  "NM_MUN": "Almino Afonso",
+  "cod_Mun_Sudene": 2400604
+ },
+ {
+  "CD_MUN": 2400703,
+  "NM_MUN": "Alto do Rodrigues",
+  "cod_Mun_Sudene": 2400703
+ },
+ {
+  "CD_MUN": 2400802,
+  "NM_MUN": "Angicos",
+  "cod_Mun_Sudene": 2400802
+ },
+ {
+  "CD_MUN": 2400901,
+  "NM_MUN": "Antônio Martins",
+  "cod_Mun_Sudene": 2400901
+ },
+ {
+  "CD_MUN": 2401008,
+  "NM_MUN": "Apodi",
+  "cod_Mun_Sudene": 2401008
+ },
+ {
+  "CD_MUN": 2401107,
+  "NM_MUN": "Areia Branca",
+  "cod_Mun_Sudene": 2401107
+ },
+ {
+  "CD_MUN": 2401206,
+  "NM_MUN": "Arês",
+  "cod_Mun_Sudene": 2401206
+ },
+ {
+  "CD_MUN": 2401305,
+  "NM_MUN": "Campo Grande",
+  "cod_Mun_Sudene": 2401305
+ },
+ {
+  "CD_MUN": 2401404,
+  "NM_MUN": "Baía Formosa",
+  "cod_Mun_Sudene": 2401404
+ },
+ {
+  "CD_MUN": 2401453,
+  "NM_MUN": "Baraúna",
+  "cod_Mun_Sudene": 2401453
+ },
+ {
+  "CD_MUN": 2401503,
+  "NM_MUN": "Barcelona",
+  "cod_Mun_Sudene": 2401503
+ },
+ {
+  "CD_MUN": 2401602,
+  "NM_MUN": "Bento Fernandes",
+  "cod_Mun_Sudene": 2401602
+ },
+ {
+  "CD_MUN": 2401651,
+  "NM_MUN": "Bodó",
+  "cod_Mun_Sudene": 2401651
+ },
+ {
+  "CD_MUN": 2401701,
+  "NM_MUN": "Bom Jesus",
+  "cod_Mun_Sudene": 2401701
+ },
+ {
+  "CD_MUN": 2401800,
+  "NM_MUN": "Brejinho",
+  "cod_Mun_Sudene": 2401800
+ },
+ {
+  "CD_MUN": 2401859,
+  "NM_MUN": "Caiçara do Norte",
+  "cod_Mun_Sudene": 2401859
+ },
+ {
+  "CD_MUN": 2401909,
+  "NM_MUN": "Caiçara do Rio do Vento",
+  "cod_Mun_Sudene": 2401909
+ },
+ {
+  "CD_MUN": 2402006,
+  "NM_MUN": "Caicó",
+  "cod_Mun_Sudene": 2402006
+ },
+ {
+  "CD_MUN": 2402105,
+  "NM_MUN": "Campo Redondo",
+  "cod_Mun_Sudene": 2402105
+ },
+ {
+  "CD_MUN": 2402204,
+  "NM_MUN": "Canguaretama",
+  "cod_Mun_Sudene": 2402204
+ },
+ {
+  "CD_MUN": 2402303,
+  "NM_MUN": "Caraúbas",
+  "cod_Mun_Sudene": 2402303
+ },
+ {
+  "CD_MUN": 2402402,
+  "NM_MUN": "Carnaúba dos Dantas",
+  "cod_Mun_Sudene": 2402402
+ },
+ {
+  "CD_MUN": 2402501,
+  "NM_MUN": "Carnaubais",
+  "cod_Mun_Sudene": 2402501
+ },
+ {
+  "CD_MUN": 2402600,
+  "NM_MUN": "Ceará-Mirim",
+  "cod_Mun_Sudene": 2402600
+ },
+ {
+  "CD_MUN": 2402709,
+  "NM_MUN": "Cerro Corá",
+  "cod_Mun_Sudene": 2402709
+ },
+ {
+  "CD_MUN": 2402808,
+  "NM_MUN": "Coronel Ezequiel",
+  "cod_Mun_Sudene": 2402808
+ },
+ {
+  "CD_MUN": 2402907,
+  "NM_MUN": "Coronel João Pessoa",
+  "cod_Mun_Sudene": 2402907
+ },
+ {
+  "CD_MUN": 2403004,
+  "NM_MUN": "Cruzeta",
+  "cod_Mun_Sudene": 2403004
+ },
+ {
+  "CD_MUN": 2403103,
+  "NM_MUN": "Currais Novos",
+  "cod_Mun_Sudene": 2403103
+ },
+ {
+  "CD_MUN": 2403202,
+  "NM_MUN": "Doutor Severiano",
+  "cod_Mun_Sudene": 2403202
+ },
+ {
+  "CD_MUN": 2403251,
+  "NM_MUN": "Parnamirim",
+  "cod_Mun_Sudene": 2403251
+ },
+ {
+  "CD_MUN": 2403301,
+  "NM_MUN": "Encanto",
+  "cod_Mun_Sudene": 2403301
+ },
+ {
+  "CD_MUN": 2403400,
+  "NM_MUN": "Equador",
+  "cod_Mun_Sudene": 2403400
+ },
+ {
+  "CD_MUN": 2403509,
+  "NM_MUN": "Espírito Santo",
+  "cod_Mun_Sudene": 2403509
+ },
+ {
+  "CD_MUN": 2403608,
+  "NM_MUN": "Extremoz",
+  "cod_Mun_Sudene": 2403608
+ },
+ {
+  "CD_MUN": 2403707,
+  "NM_MUN": "Felipe Guerra",
+  "cod_Mun_Sudene": 2403707
+ },
+ {
+  "CD_MUN": 2403756,
+  "NM_MUN": "Fernando Pedroza",
+  "cod_Mun_Sudene": 2403756
+ },
+ {
+  "CD_MUN": 2403806,
+  "NM_MUN": "Florânia",
+  "cod_Mun_Sudene": 2403806
+ },
+ {
+  "CD_MUN": 2403905,
+  "NM_MUN": "Francisco Dantas",
+  "cod_Mun_Sudene": 2403905
+ },
+ {
+  "CD_MUN": 2404002,
+  "NM_MUN": "Frutuoso Gomes",
+  "cod_Mun_Sudene": 2404002
+ },
+ {
+  "CD_MUN": 2404101,
+  "NM_MUN": "Galinhos",
+  "cod_Mun_Sudene": 2404101
+ },
+ {
+  "CD_MUN": 2404200,
+  "NM_MUN": "Goianinha",
+  "cod_Mun_Sudene": 2404200
+ },
+ {
+  "CD_MUN": 2404309,
+  "NM_MUN": "Governador Dix-Sept Rosado",
+  "cod_Mun_Sudene": 2404309
+ },
+ {
+  "CD_MUN": 2404408,
+  "NM_MUN": "Grossos",
+  "cod_Mun_Sudene": 2404408
+ },
+ {
+  "CD_MUN": 2404507,
+  "NM_MUN": "Guamaré",
+  "cod_Mun_Sudene": 2404507
+ },
+ {
+  "CD_MUN": 2404606,
+  "NM_MUN": "Ielmo Marinho",
+  "cod_Mun_Sudene": 2404606
+ },
+ {
+  "CD_MUN": 2404705,
+  "NM_MUN": "Ipanguaçu",
+  "cod_Mun_Sudene": 2404705
+ },
+ {
+  "CD_MUN": 2404804,
+  "NM_MUN": "Ipueira",
+  "cod_Mun_Sudene": 2404804
+ },
+ {
+  "CD_MUN": 2404853,
+  "NM_MUN": "Itajá",
+  "cod_Mun_Sudene": 2404853
+ },
+ {
+  "CD_MUN": 2404903,
+  "NM_MUN": "Itaú",
+  "cod_Mun_Sudene": 2404903
+ },
+ {
+  "CD_MUN": 2405009,
+  "NM_MUN": "Jaçanã",
+  "cod_Mun_Sudene": 2405009
+ },
+ {
+  "CD_MUN": 2405108,
+  "NM_MUN": "Jandaíra",
+  "cod_Mun_Sudene": 2405108
+ },
+ {
+  "CD_MUN": 2405207,
+  "NM_MUN": "Janduís",
+  "cod_Mun_Sudene": 2405207
+ },
+ {
+  "CD_MUN": 2405306,
+  "NM_MUN": "Januário Cicco",
+  "cod_Mun_Sudene": 2405306
+ },
+ {
+  "CD_MUN": 2405405,
+  "NM_MUN": "Japi",
+  "cod_Mun_Sudene": 2405405
+ },
+ {
+  "CD_MUN": 2405504,
+  "NM_MUN": "Jardim de Angicos",
+  "cod_Mun_Sudene": 2405504
+ },
+ {
+  "CD_MUN": 2405603,
+  "NM_MUN": "Jardim de Piranhas",
+  "cod_Mun_Sudene": 2405603
+ },
+ {
+  "CD_MUN": 2405702,
+  "NM_MUN": "Jardim do Seridó",
+  "cod_Mun_Sudene": 2405702
+ },
+ {
+  "CD_MUN": 2405801,
+  "NM_MUN": "João Câmara",
+  "cod_Mun_Sudene": 2405801
+ },
+ {
+  "CD_MUN": 2405900,
+  "NM_MUN": "João Dias",
+  "cod_Mun_Sudene": 2405900
+ },
+ {
+  "CD_MUN": 2406007,
+  "NM_MUN": "José da Penha",
+  "cod_Mun_Sudene": 2406007
+ },
+ {
+  "CD_MUN": 2406106,
+  "NM_MUN": "Jucurutu",
+  "cod_Mun_Sudene": 2406106
+ },
+ {
+  "CD_MUN": 2406155,
+  "NM_MUN": "Jundiá",
+  "cod_Mun_Sudene": 2406155
+ },
+ {
+  "CD_MUN": 2406205,
+  "NM_MUN": "Lagoa d'Anta",
+  "cod_Mun_Sudene": 2406205
+ },
+ {
+  "CD_MUN": 2406304,
+  "NM_MUN": "Lagoa de Pedras",
+  "cod_Mun_Sudene": 2406304
+ },
+ {
+  "CD_MUN": 2406403,
+  "NM_MUN": "Lagoa de Velhos",
+  "cod_Mun_Sudene": 2406403
+ },
+ {
+  "CD_MUN": 2406502,
+  "NM_MUN": "Lagoa Nova",
+  "cod_Mun_Sudene": 2406502
+ },
+ {
+  "CD_MUN": 2406601,
+  "NM_MUN": "Lagoa Salgada",
+  "cod_Mun_Sudene": 2406601
+ },
+ {
+  "CD_MUN": 2406700,
+  "NM_MUN": "Lajes",
+  "cod_Mun_Sudene": 2406700
+ },
+ {
+  "CD_MUN": 2406809,
+  "NM_MUN": "Lajes Pintadas",
+  "cod_Mun_Sudene": 2406809
+ },
+ {
+  "CD_MUN": 2406908,
+  "NM_MUN": "Lucrécia",
+  "cod_Mun_Sudene": 2406908
+ },
+ {
+  "CD_MUN": 2407005,
+  "NM_MUN": "Luís Gomes",
+  "cod_Mun_Sudene": 2407005
+ },
+ {
+  "CD_MUN": 2407104,
+  "NM_MUN": "Macaíba",
+  "cod_Mun_Sudene": 2407104
+ },
+ {
+  "CD_MUN": 2407203,
+  "NM_MUN": "Macau",
+  "cod_Mun_Sudene": 2407203
+ },
+ {
+  "CD_MUN": 2407252,
+  "NM_MUN": "Major Sales",
+  "cod_Mun_Sudene": 2407252
+ },
+ {
+  "CD_MUN": 2407302,
+  "NM_MUN": "Marcelino Vieira",
+  "cod_Mun_Sudene": 2407302
+ },
+ {
+  "CD_MUN": 2407401,
+  "NM_MUN": "Martins",
+  "cod_Mun_Sudene": 2407401
+ },
+ {
+  "CD_MUN": 2407500,
+  "NM_MUN": "Maxaranguape",
+  "cod_Mun_Sudene": 2407500
+ },
+ {
+  "CD_MUN": 2407609,
+  "NM_MUN": "Messias Targino",
+  "cod_Mun_Sudene": 2407609
+ },
+ {
+  "CD_MUN": 2407708,
+  "NM_MUN": "Montanhas",
+  "cod_Mun_Sudene": 2407708
+ },
+ {
+  "CD_MUN": 2407807,
+  "NM_MUN": "Monte Alegre",
+  "cod_Mun_Sudene": 2407807
+ },
+ {
+  "CD_MUN": 2407906,
+  "NM_MUN": "Monte das Gameleiras",
+  "cod_Mun_Sudene": 2407906
+ },
+ {
+  "CD_MUN": 2408003,
+  "NM_MUN": "Mossoró",
+  "cod_Mun_Sudene": 2408003
+ },
+ {
+  "CD_MUN": 2408102,
+  "NM_MUN": "Natal",
+  "cod_Mun_Sudene": 2408102
+ },
+ {
+  "CD_MUN": 2408201,
+  "NM_MUN": "Nísia Floresta",
+  "cod_Mun_Sudene": 2408201
+ },
+ {
+  "CD_MUN": 2408300,
+  "NM_MUN": "Nova Cruz",
+  "cod_Mun_Sudene": 2408300
+ },
+ {
+  "CD_MUN": 2408409,
+  "NM_MUN": "Olho d'Água do Borges",
+  "cod_Mun_Sudene": 2408409
+ },
+ {
+  "CD_MUN": 2408508,
+  "NM_MUN": "Ouro Branco",
+  "cod_Mun_Sudene": 2408508
+ },
+ {
+  "CD_MUN": 2408607,
+  "NM_MUN": "Paraná",
+  "cod_Mun_Sudene": 2408607
+ },
+ {
+  "CD_MUN": 2408706,
+  "NM_MUN": "Paraú",
+  "cod_Mun_Sudene": 2408706
+ },
+ {
+  "CD_MUN": 2408805,
+  "NM_MUN": "Parazinho",
+  "cod_Mun_Sudene": 2408805
+ },
+ {
+  "CD_MUN": 2408904,
+  "NM_MUN": "Parelhas",
+  "cod_Mun_Sudene": 2408904
+ },
+ {
+  "CD_MUN": 2408953,
+  "NM_MUN": "Rio do Fogo",
+  "cod_Mun_Sudene": 2408953
+ },
+ {
+  "CD_MUN": 2409100,
+  "NM_MUN": "Passa e Fica",
+  "cod_Mun_Sudene": 2409100
+ },
+ {
+  "CD_MUN": 2409209,
+  "NM_MUN": "Passagem",
+  "cod_Mun_Sudene": 2409209
+ },
+ {
+  "CD_MUN": 2409308,
+  "NM_MUN": "Patu",
+  "cod_Mun_Sudene": 2409308
+ },
+ {
+  "CD_MUN": 2409332,
+  "NM_MUN": "Santa Maria",
+  "cod_Mun_Sudene": 2409332
+ },
+ {
+  "CD_MUN": 2409407,
+  "NM_MUN": "Pau dos Ferros",
+  "cod_Mun_Sudene": 2409407
+ },
+ {
+  "CD_MUN": 2409506,
+  "NM_MUN": "Pedra Grande",
+  "cod_Mun_Sudene": 2409506
+ },
+ {
+  "CD_MUN": 2409605,
+  "NM_MUN": "Pedra Preta",
+  "cod_Mun_Sudene": 2409605
+ },
+ {
+  "CD_MUN": 2409704,
+  "NM_MUN": "Pedro Avelino",
+  "cod_Mun_Sudene": 2409704
+ },
+ {
+  "CD_MUN": 2409803,
+  "NM_MUN": "Pedro Velho",
+  "cod_Mun_Sudene": 2409803
+ },
+ {
+  "CD_MUN": 2409902,
+  "NM_MUN": "Pendências",
+  "cod_Mun_Sudene": 2409902
+ },
+ {
+  "CD_MUN": 2410009,
+  "NM_MUN": "Pilões",
+  "cod_Mun_Sudene": 2410009
+ },
+ {
+  "CD_MUN": 2410108,
+  "NM_MUN": "Poço Branco",
+  "cod_Mun_Sudene": 2410108
+ },
+ {
+  "CD_MUN": 2410207,
+  "NM_MUN": "Portalegre",
+  "cod_Mun_Sudene": 2410207
+ },
+ {
+  "CD_MUN": 2410256,
+  "NM_MUN": "Porto do Mangue",
+  "cod_Mun_Sudene": 2410256
+ },
+ {
+  "CD_MUN": 2410306,
+  "NM_MUN": "Serra Caiada",
+  "cod_Mun_Sudene": 2410306
+ },
+ {
+  "CD_MUN": 2410405,
+  "NM_MUN": "Pureza",
+  "cod_Mun_Sudene": 2410405
+ },
+ {
+  "CD_MUN": 2410504,
+  "NM_MUN": "Rafael Fernandes",
+  "cod_Mun_Sudene": 2410504
+ },
+ {
+  "CD_MUN": 2410603,
+  "NM_MUN": "Rafael Godeiro",
+  "cod_Mun_Sudene": 2410603
+ },
+ {
+  "CD_MUN": 2410702,
+  "NM_MUN": "Riacho da Cruz",
+  "cod_Mun_Sudene": 2410702
+ },
+ {
+  "CD_MUN": 2410801,
+  "NM_MUN": "Riacho de Santana",
+  "cod_Mun_Sudene": 2410801
+ },
+ {
+  "CD_MUN": 2410900,
+  "NM_MUN": "Riachuelo",
+  "cod_Mun_Sudene": 2410900
+ },
+ {
+  "CD_MUN": 2411007,
+  "NM_MUN": "Rodolfo Fernandes",
+  "cod_Mun_Sudene": 2411007
+ },
+ {
+  "CD_MUN": 2411056,
+  "NM_MUN": "Tibau",
+  "cod_Mun_Sudene": 2411056
+ },
+ {
+  "CD_MUN": 2411106,
+  "NM_MUN": "Ruy Barbosa",
+  "cod_Mun_Sudene": 2411106
+ },
+ {
+  "CD_MUN": 2411205,
+  "NM_MUN": "Santa Cruz",
+  "cod_Mun_Sudene": 2411205
+ },
+ {
+  "CD_MUN": 2411403,
+  "NM_MUN": "Santana do Matos",
+  "cod_Mun_Sudene": 2411403
+ },
+ {
+  "CD_MUN": 2411429,
+  "NM_MUN": "Santana do Seridó",
+  "cod_Mun_Sudene": 2411429
+ },
+ {
+  "CD_MUN": 2411502,
+  "NM_MUN": "Santo Antônio",
+  "cod_Mun_Sudene": 2411502
+ },
+ {
+  "CD_MUN": 2411601,
+  "NM_MUN": "São Bento do Norte",
+  "cod_Mun_Sudene": 2411601
+ },
+ {
+  "CD_MUN": 2411700,
+  "NM_MUN": "São Bento do Trairí",
+  "cod_Mun_Sudene": 2411700
+ },
+ {
+  "CD_MUN": 2411809,
+  "NM_MUN": "São Fernando",
+  "cod_Mun_Sudene": 2411809
+ },
+ {
+  "CD_MUN": 2411908,
+  "NM_MUN": "São Francisco do Oeste",
+  "cod_Mun_Sudene": 2411908
+ },
+ {
+  "CD_MUN": 2412005,
+  "NM_MUN": "São Gonçalo do Amarante",
+  "cod_Mun_Sudene": 2412005
+ },
+ {
+  "CD_MUN": 2412104,
+  "NM_MUN": "São João do Sabugi",
+  "cod_Mun_Sudene": 2412104
+ },
+ {
+  "CD_MUN": 2412203,
+  "NM_MUN": "São José de Mipibu",
+  "cod_Mun_Sudene": 2412203
+ },
+ {
+  "CD_MUN": 2412302,
+  "NM_MUN": "São José do Campestre",
+  "cod_Mun_Sudene": 2412302
+ },
+ {
+  "CD_MUN": 2412401,
+  "NM_MUN": "São José do Seridó",
+  "cod_Mun_Sudene": 2412401
+ },
+ {
+  "CD_MUN": 2412500,
+  "NM_MUN": "São Miguel",
+  "cod_Mun_Sudene": 2412500
+ },
+ {
+  "CD_MUN": 2412559,
+  "NM_MUN": "São Miguel do Gostoso",
+  "cod_Mun_Sudene": 2412559
+ },
+ {
+  "CD_MUN": 2412609,
+  "NM_MUN": "São Paulo do Potengi",
+  "cod_Mun_Sudene": 2412609
+ },
+ {
+  "CD_MUN": 2412708,
+  "NM_MUN": "São Pedro",
+  "cod_Mun_Sudene": 2412708
+ },
+ {
+  "CD_MUN": 2412807,
+  "NM_MUN": "São Rafael",
+  "cod_Mun_Sudene": 2412807
+ },
+ {
+  "CD_MUN": 2412906,
+  "NM_MUN": "São Tomé",
+  "cod_Mun_Sudene": 2412906
+ },
+ {
+  "CD_MUN": 2413003,
+  "NM_MUN": "São Vicente",
+  "cod_Mun_Sudene": 2413003
+ },
+ {
+  "CD_MUN": 2413102,
+  "NM_MUN": "Senador Elói de Souza",
+  "cod_Mun_Sudene": 2413102
+ },
+ {
+  "CD_MUN": 2413201,
+  "NM_MUN": "Senador Georgino Avelino",
+  "cod_Mun_Sudene": 2413201
+ },
+ {
+  "CD_MUN": 2413300,
+  "NM_MUN": "Serra de São Bento",
+  "cod_Mun_Sudene": 2413300
+ },
+ {
+  "CD_MUN": 2413359,
+  "NM_MUN": "Serra do Mel",
+  "cod_Mun_Sudene": 2413359
+ },
+ {
+  "CD_MUN": 2413409,
+  "NM_MUN": "Serra Negra do Norte",
+  "cod_Mun_Sudene": 2413409
+ },
+ {
+  "CD_MUN": 2413508,
+  "NM_MUN": "Serrinha",
+  "cod_Mun_Sudene": 2413508
+ },
+ {
+  "CD_MUN": 2413557,
+  "NM_MUN": "Serrinha dos Pintos",
+  "cod_Mun_Sudene": 2413557
+ },
+ {
+  "CD_MUN": 2413607,
+  "NM_MUN": "Severiano Melo",
+  "cod_Mun_Sudene": 2413607
+ },
+ {
+  "CD_MUN": 2413706,
+  "NM_MUN": "Sítio Novo",
+  "cod_Mun_Sudene": 2413706
+ },
+ {
+  "CD_MUN": 2413805,
+  "NM_MUN": "Taboleiro Grande",
+  "cod_Mun_Sudene": 2413805
+ },
+ {
+  "CD_MUN": 2413904,
+  "NM_MUN": "Taipu",
+  "cod_Mun_Sudene": 2413904
+ },
+ {
+  "CD_MUN": 2414001,
+  "NM_MUN": "Tangará",
+  "cod_Mun_Sudene": 2414001
+ },
+ {
+  "CD_MUN": 2414100,
+  "NM_MUN": "Tenente Ananias",
+  "cod_Mun_Sudene": 2414100
+ },
+ {
+  "CD_MUN": 2414159,
+  "NM_MUN": "Tenente Laurentino Cruz",
+  "cod_Mun_Sudene": 2414159
+ },
+ {
+  "CD_MUN": 2414209,
+  "NM_MUN": "Tibau do Sul",
+  "cod_Mun_Sudene": 2414209
+ },
+ {
+  "CD_MUN": 2414308,
+  "NM_MUN": "Timbaúba dos Batistas",
+  "cod_Mun_Sudene": 2414308
+ },
+ {
+  "CD_MUN": 2414407,
+  "NM_MUN": "Touros",
+  "cod_Mun_Sudene": 2414407
+ },
+ {
+  "CD_MUN": 2414456,
+  "NM_MUN": "Triunfo Potiguar",
+  "cod_Mun_Sudene": 2414456
+ },
+ {
+  "CD_MUN": 2414506,
+  "NM_MUN": "Umarizal",
+  "cod_Mun_Sudene": 2414506
+ },
+ {
+  "CD_MUN": 2414605,
+  "NM_MUN": "Upanema",
+  "cod_Mun_Sudene": 2414605
+ },
+ {
+  "CD_MUN": 2414704,
+  "NM_MUN": "Várzea",
+  "cod_Mun_Sudene": 2414704
+ },
+ {
+  "CD_MUN": 2414753,
+  "NM_MUN": "Venha-Ver",
+  "cod_Mun_Sudene": 2414753
+ },
+ {
+  "CD_MUN": 2414803,
+  "NM_MUN": "Vera Cruz",
+  "cod_Mun_Sudene": 2414803
+ },
+ {
+  "CD_MUN": 2414902,
+  "NM_MUN": "Viçosa",
+  "cod_Mun_Sudene": 2414902
+ },
+ {
+  "CD_MUN": 2415008,
+  "NM_MUN": "Vila Flor",
+  "cod_Mun_Sudene": 2415008
+ },
+ {
+  "CD_MUN": 2500106,
+  "NM_MUN": "Água Branca",
+  "cod_Mun_Sudene": 2500106
+ },
+ {
+  "CD_MUN": 2500205,
+  "NM_MUN": "Aguiar",
+  "cod_Mun_Sudene": 2500205
+ },
+ {
+  "CD_MUN": 2500304,
+  "NM_MUN": "Alagoa Grande",
+  "cod_Mun_Sudene": 2500304
+ },
+ {
+  "CD_MUN": 2500403,
+  "NM_MUN": "Alagoa Nova",
+  "cod_Mun_Sudene": 2500403
+ },
+ {
+  "CD_MUN": 2500502,
+  "NM_MUN": "Alagoinha",
+  "cod_Mun_Sudene": 2500502
+ },
+ {
+  "CD_MUN": 2500536,
+  "NM_MUN": "Alcantil",
+  "cod_Mun_Sudene": 2500536
+ },
+ {
+  "CD_MUN": 2500577,
+  "NM_MUN": "Algodão de Jandaíra",
+  "cod_Mun_Sudene": 2500577
+ },
+ {
+  "CD_MUN": 2500601,
+  "NM_MUN": "Alhandra",
+  "cod_Mun_Sudene": 2500601
+ },
+ {
+  "CD_MUN": 2500700,
+  "NM_MUN": "São João do Rio do Peixe",
+  "cod_Mun_Sudene": 2500700
+ },
+ {
+  "CD_MUN": 2500734,
+  "NM_MUN": "Amparo",
+  "cod_Mun_Sudene": 2500734
+ },
+ {
+  "CD_MUN": 2500775,
+  "NM_MUN": "Aparecida",
+  "cod_Mun_Sudene": 2500775
+ },
+ {
+  "CD_MUN": 2500809,
+  "NM_MUN": "Araçagi",
+  "cod_Mun_Sudene": 2500809
+ },
+ {
+  "CD_MUN": 2500908,
+  "NM_MUN": "Arara",
+  "cod_Mun_Sudene": 2500908
+ },
+ {
+  "CD_MUN": 2501005,
+  "NM_MUN": "Araruna",
+  "cod_Mun_Sudene": 2501005
+ },
+ {
+  "CD_MUN": 2501104,
+  "NM_MUN": "Areia",
+  "cod_Mun_Sudene": 2501104
+ },
+ {
+  "CD_MUN": 2501153,
+  "NM_MUN": "Areia de Baraúnas",
+  "cod_Mun_Sudene": 2501153
+ },
+ {
+  "CD_MUN": 2501203,
+  "NM_MUN": "Areial",
+  "cod_Mun_Sudene": 2501203
+ },
+ {
+  "CD_MUN": 2501302,
+  "NM_MUN": "Aroeiras",
+  "cod_Mun_Sudene": 2501302
+ },
+ {
+  "CD_MUN": 2501351,
+  "NM_MUN": "Assunção",
+  "cod_Mun_Sudene": 2501351
+ },
+ {
+  "CD_MUN": 2501401,
+  "NM_MUN": "Baía da Traição",
+  "cod_Mun_Sudene": 2501401
+ },
+ {
+  "CD_MUN": 2501500,
+  "NM_MUN": "Bananeiras",
+  "cod_Mun_Sudene": 2501500
+ },
+ {
+  "CD_MUN": 2501534,
+  "NM_MUN": "Baraúna",
+  "cod_Mun_Sudene": 2501534
+ },
+ {
+  "CD_MUN": 2501575,
+  "NM_MUN": "Barra de Santana",
+  "cod_Mun_Sudene": 2501575
+ },
+ {
+  "CD_MUN": 2501609,
+  "NM_MUN": "Barra de Santa Rosa",
+  "cod_Mun_Sudene": 2501609
+ },
+ {
+  "CD_MUN": 2501708,
+  "NM_MUN": "Barra de São Miguel",
+  "cod_Mun_Sudene": 2501708
+ },
+ {
+  "CD_MUN": 2501807,
+  "NM_MUN": "Bayeux",
+  "cod_Mun_Sudene": 2501807
+ },
+ {
+  "CD_MUN": 2501906,
+  "NM_MUN": "Belém",
+  "cod_Mun_Sudene": 2501906
+ },
+ {
+  "CD_MUN": 2502003,
+  "NM_MUN": "Belém do Brejo do Cruz",
+  "cod_Mun_Sudene": 2502003
+ },
+ {
+  "CD_MUN": 2502052,
+  "NM_MUN": "Bernardino Batista",
+  "cod_Mun_Sudene": 2502052
+ },
+ {
+  "CD_MUN": 2502102,
+  "NM_MUN": "Boa Ventura",
+  "cod_Mun_Sudene": 2502102
+ },
+ {
+  "CD_MUN": 2502151,
+  "NM_MUN": "Boa Vista",
+  "cod_Mun_Sudene": 2502151
+ },
+ {
+  "CD_MUN": 2502201,
+  "NM_MUN": "Bom Jesus",
+  "cod_Mun_Sudene": 2502201
+ },
+ {
+  "CD_MUN": 2502300,
+  "NM_MUN": "Bom Sucesso",
+  "cod_Mun_Sudene": 2502300
+ },
+ {
+  "CD_MUN": 2502409,
+  "NM_MUN": "Bonito de Santa Fé",
+  "cod_Mun_Sudene": 2502409
+ },
+ {
+  "CD_MUN": 2502508,
+  "NM_MUN": "Boqueirão",
+  "cod_Mun_Sudene": 2502508
+ },
+ {
+  "CD_MUN": 2502607,
+  "NM_MUN": "Igaracy",
+  "cod_Mun_Sudene": 2502607
+ },
+ {
+  "CD_MUN": 2502706,
+  "NM_MUN": "Borborema",
+  "cod_Mun_Sudene": 2502706
+ },
+ {
+  "CD_MUN": 2502805,
+  "NM_MUN": "Brejo do Cruz",
+  "cod_Mun_Sudene": 2502805
+ },
+ {
+  "CD_MUN": 2502904,
+  "NM_MUN": "Brejo dos Santos",
+  "cod_Mun_Sudene": 2502904
+ },
+ {
+  "CD_MUN": 2503001,
+  "NM_MUN": "Caaporã",
+  "cod_Mun_Sudene": 2503001
+ },
+ {
+  "CD_MUN": 2503100,
+  "NM_MUN": "Cabaceiras",
+  "cod_Mun_Sudene": 2503100
+ },
+ {
+  "CD_MUN": 2503209,
+  "NM_MUN": "Cabedelo",
+  "cod_Mun_Sudene": 2503209
+ },
+ {
+  "CD_MUN": 2503308,
+  "NM_MUN": "Cachoeira dos Índios",
+  "cod_Mun_Sudene": 2503308
+ },
+ {
+  "CD_MUN": 2503407,
+  "NM_MUN": "Cacimba de Areia",
+  "cod_Mun_Sudene": 2503407
+ },
+ {
+  "CD_MUN": 2503506,
+  "NM_MUN": "Cacimba de Dentro",
+  "cod_Mun_Sudene": 2503506
+ },
+ {
+  "CD_MUN": 2503555,
+  "NM_MUN": "Cacimbas",
+  "cod_Mun_Sudene": 2503555
+ },
+ {
+  "CD_MUN": 2503605,
+  "NM_MUN": "Caiçara",
+  "cod_Mun_Sudene": 2503605
+ },
+ {
+  "CD_MUN": 2503704,
+  "NM_MUN": "Cajazeiras",
+  "cod_Mun_Sudene": 2503704
+ },
+ {
+  "CD_MUN": 2503753,
+  "NM_MUN": "Cajazeirinhas",
+  "cod_Mun_Sudene": 2503753
+ },
+ {
+  "CD_MUN": 2503803,
+  "NM_MUN": "Caldas Brandão",
+  "cod_Mun_Sudene": 2503803
+ },
+ {
+  "CD_MUN": 2503902,
+  "NM_MUN": "Camalaú",
+  "cod_Mun_Sudene": 2503902
+ },
+ {
+  "CD_MUN": 2504009,
+  "NM_MUN": "Campina Grande",
+  "cod_Mun_Sudene": 2504009
+ },
+ {
+  "CD_MUN": 2504033,
+  "NM_MUN": "Capim",
+  "cod_Mun_Sudene": 2504033
+ },
+ {
+  "CD_MUN": 2504074,
+  "NM_MUN": "Caraúbas",
+  "cod_Mun_Sudene": 2504074
+ },
+ {
+  "CD_MUN": 2504108,
+  "NM_MUN": "Carrapateira",
+  "cod_Mun_Sudene": 2504108
+ },
+ {
+  "CD_MUN": 2504157,
+  "NM_MUN": "Casserengue",
+  "cod_Mun_Sudene": 2504157
+ },
+ {
+  "CD_MUN": 2504207,
+  "NM_MUN": "Catingueira",
+  "cod_Mun_Sudene": 2504207
+ },
+ {
+  "CD_MUN": 2504306,
+  "NM_MUN": "Catolé do Rocha",
+  "cod_Mun_Sudene": 2504306
+ },
+ {
+  "CD_MUN": 2504355,
+  "NM_MUN": "Caturité",
+  "cod_Mun_Sudene": 2504355
+ },
+ {
+  "CD_MUN": 2504405,
+  "NM_MUN": "Conceição",
+  "cod_Mun_Sudene": 2504405
+ },
+ {
+  "CD_MUN": 2504504,
+  "NM_MUN": "Condado",
+  "cod_Mun_Sudene": 2504504
+ },
+ {
+  "CD_MUN": 2504603,
+  "NM_MUN": "Conde",
+  "cod_Mun_Sudene": 2504603
+ },
+ {
+  "CD_MUN": 2504702,
+  "NM_MUN": "Congo",
+  "cod_Mun_Sudene": 2504702
+ },
+ {
+  "CD_MUN": 2504801,
+  "NM_MUN": "Coremas",
+  "cod_Mun_Sudene": 2504801
+ },
+ {
+  "CD_MUN": 2504850,
+  "NM_MUN": "Coxixola",
+  "cod_Mun_Sudene": 2504850
+ },
+ {
+  "CD_MUN": 2504900,
+  "NM_MUN": "Cruz do Espírito Santo",
+  "cod_Mun_Sudene": 2504900
+ },
+ {
+  "CD_MUN": 2505006,
+  "NM_MUN": "Cubati",
+  "cod_Mun_Sudene": 2505006
+ },
+ {
+  "CD_MUN": 2505105,
+  "NM_MUN": "Cuité",
+  "cod_Mun_Sudene": 2505105
+ },
+ {
+  "CD_MUN": 2505204,
+  "NM_MUN": "Cuitegi",
+  "cod_Mun_Sudene": 2505204
+ },
+ {
+  "CD_MUN": 2505238,
+  "NM_MUN": "Cuité de Mamanguape",
+  "cod_Mun_Sudene": 2505238
+ },
+ {
+  "CD_MUN": 2505279,
+  "NM_MUN": "Curral de Cima",
+  "cod_Mun_Sudene": 2505279
+ },
+ {
+  "CD_MUN": 2505303,
+  "NM_MUN": "Curral Velho",
+  "cod_Mun_Sudene": 2505303
+ },
+ {
+  "CD_MUN": 2505352,
+  "NM_MUN": "Damião",
+  "cod_Mun_Sudene": 2505352
+ },
+ {
+  "CD_MUN": 2505402,
+  "NM_MUN": "Desterro",
+  "cod_Mun_Sudene": 2505402
+ },
+ {
+  "CD_MUN": 2505501,
+  "NM_MUN": "Vista Serrana",
+  "cod_Mun_Sudene": 2505501
+ },
+ {
+  "CD_MUN": 2505600,
+  "NM_MUN": "Diamante",
+  "cod_Mun_Sudene": 2505600
+ },
+ {
+  "CD_MUN": 2505709,
+  "NM_MUN": "Dona Inês",
+  "cod_Mun_Sudene": 2505709
+ },
+ {
+  "CD_MUN": 2505808,
+  "NM_MUN": "Duas Estradas",
+  "cod_Mun_Sudene": 2505808
+ },
+ {
+  "CD_MUN": 2505907,
+  "NM_MUN": "Emas",
+  "cod_Mun_Sudene": 2505907
+ },
+ {
+  "CD_MUN": 2506004,
+  "NM_MUN": "Esperança",
+  "cod_Mun_Sudene": 2506004
+ },
+ {
+  "CD_MUN": 2506103,
+  "NM_MUN": "Fagundes",
+  "cod_Mun_Sudene": 2506103
+ },
+ {
+  "CD_MUN": 2506202,
+  "NM_MUN": "Frei Martinho",
+  "cod_Mun_Sudene": 2506202
+ },
+ {
+  "CD_MUN": 2506251,
+  "NM_MUN": "Gado Bravo",
+  "cod_Mun_Sudene": 2506251
+ },
+ {
+  "CD_MUN": 2506301,
+  "NM_MUN": "Guarabira",
+  "cod_Mun_Sudene": 2506301
+ },
+ {
+  "CD_MUN": 2506400,
+  "NM_MUN": "Gurinhém",
+  "cod_Mun_Sudene": 2506400
+ },
+ {
+  "CD_MUN": 2506509,
+  "NM_MUN": "Gurjão",
+  "cod_Mun_Sudene": 2506509
+ },
+ {
+  "CD_MUN": 2506608,
+  "NM_MUN": "Ibiara",
+  "cod_Mun_Sudene": 2506608
+ },
+ {
+  "CD_MUN": 2506707,
+  "NM_MUN": "Imaculada",
+  "cod_Mun_Sudene": 2506707
+ },
+ {
+  "CD_MUN": 2506806,
+  "NM_MUN": "Ingá",
+  "cod_Mun_Sudene": 2506806
+ },
+ {
+  "CD_MUN": 2506905,
+  "NM_MUN": "Itabaiana",
+  "cod_Mun_Sudene": 2506905
+ },
+ {
+  "CD_MUN": 2507002,
+  "NM_MUN": "Itaporanga",
+  "cod_Mun_Sudene": 2507002
+ },
+ {
+  "CD_MUN": 2507101,
+  "NM_MUN": "Itapororoca",
+  "cod_Mun_Sudene": 2507101
+ },
+ {
+  "CD_MUN": 2507200,
+  "NM_MUN": "Itatuba",
+  "cod_Mun_Sudene": 2507200
+ },
+ {
+  "CD_MUN": 2507309,
+  "NM_MUN": "Jacaraú",
+  "cod_Mun_Sudene": 2507309
+ },
+ {
+  "CD_MUN": 2507408,
+  "NM_MUN": "Jericó",
+  "cod_Mun_Sudene": 2507408
+ },
+ {
+  "CD_MUN": 2507507,
+  "NM_MUN": "João Pessoa",
+  "cod_Mun_Sudene": 2507507
+ },
+ {
+  "CD_MUN": 2507606,
+  "NM_MUN": "Juarez Távora",
+  "cod_Mun_Sudene": 2507606
+ },
+ {
+  "CD_MUN": 2507705,
+  "NM_MUN": "Juazeirinho",
+  "cod_Mun_Sudene": 2507705
+ },
+ {
+  "CD_MUN": 2507804,
+  "NM_MUN": "Junco do Seridó",
+  "cod_Mun_Sudene": 2507804
+ },
+ {
+  "CD_MUN": 2507903,
+  "NM_MUN": "Juripiranga",
+  "cod_Mun_Sudene": 2507903
+ },
+ {
+  "CD_MUN": 2508000,
+  "NM_MUN": "Juru",
+  "cod_Mun_Sudene": 2508000
+ },
+ {
+  "CD_MUN": 2508109,
+  "NM_MUN": "Lagoa",
+  "cod_Mun_Sudene": 2508109
+ },
+ {
+  "CD_MUN": 2508208,
+  "NM_MUN": "Lagoa de Dentro",
+  "cod_Mun_Sudene": 2508208
+ },
+ {
+  "CD_MUN": 2508307,
+  "NM_MUN": "Lagoa Seca",
+  "cod_Mun_Sudene": 2508307
+ },
+ {
+  "CD_MUN": 2508406,
+  "NM_MUN": "Lastro",
+  "cod_Mun_Sudene": 2508406
+ },
+ {
+  "CD_MUN": 2508505,
+  "NM_MUN": "Livramento",
+  "cod_Mun_Sudene": 2508505
+ },
+ {
+  "CD_MUN": 2508554,
+  "NM_MUN": "Logradouro",
+  "cod_Mun_Sudene": 2508554
+ },
+ {
+  "CD_MUN": 2508604,
+  "NM_MUN": "Lucena",
+  "cod_Mun_Sudene": 2508604
+ },
+ {
+  "CD_MUN": 2508703,
+  "NM_MUN": "Mãe d'Água",
+  "cod_Mun_Sudene": 2508703
+ },
+ {
+  "CD_MUN": 2508802,
+  "NM_MUN": "Malta",
+  "cod_Mun_Sudene": 2508802
+ },
+ {
+  "CD_MUN": 2508901,
+  "NM_MUN": "Mamanguape",
+  "cod_Mun_Sudene": 2508901
+ },
+ {
+  "CD_MUN": 2509008,
+  "NM_MUN": "Manaíra",
+  "cod_Mun_Sudene": 2509008
+ },
+ {
+  "CD_MUN": 2509057,
+  "NM_MUN": "Marcação",
+  "cod_Mun_Sudene": 2509057
+ },
+ {
+  "CD_MUN": 2509107,
+  "NM_MUN": "Mari",
+  "cod_Mun_Sudene": 2509107
+ },
+ {
+  "CD_MUN": 2509156,
+  "NM_MUN": "Marizópolis",
+  "cod_Mun_Sudene": 2509156
+ },
+ {
+  "CD_MUN": 2509206,
+  "NM_MUN": "Massaranduba",
+  "cod_Mun_Sudene": 2509206
+ },
+ {
+  "CD_MUN": 2509305,
+  "NM_MUN": "Mataraca",
+  "cod_Mun_Sudene": 2509305
+ },
+ {
+  "CD_MUN": 2509339,
+  "NM_MUN": "Matinhas",
+  "cod_Mun_Sudene": 2509339
+ },
+ {
+  "CD_MUN": 2509370,
+  "NM_MUN": "Mato Grosso",
+  "cod_Mun_Sudene": 2509370
+ },
+ {
+  "CD_MUN": 2509396,
+  "NM_MUN": "Maturéia",
+  "cod_Mun_Sudene": 2509396
+ },
+ {
+  "CD_MUN": 2509404,
+  "NM_MUN": "Mogeiro",
+  "cod_Mun_Sudene": 2509404
+ },
+ {
+  "CD_MUN": 2509503,
+  "NM_MUN": "Montadas",
+  "cod_Mun_Sudene": 2509503
+ },
+ {
+  "CD_MUN": 2509602,
+  "NM_MUN": "Monte Horebe",
+  "cod_Mun_Sudene": 2509602
+ },
+ {
+  "CD_MUN": 2509701,
+  "NM_MUN": "Monteiro",
+  "cod_Mun_Sudene": 2509701
+ },
+ {
+  "CD_MUN": 2509800,
+  "NM_MUN": "Mulungu",
+  "cod_Mun_Sudene": 2509800
+ },
+ {
+  "CD_MUN": 2509909,
+  "NM_MUN": "Natuba",
+  "cod_Mun_Sudene": 2509909
+ },
+ {
+  "CD_MUN": 2510006,
+  "NM_MUN": "Nazarezinho",
+  "cod_Mun_Sudene": 2510006
+ },
+ {
+  "CD_MUN": 2510105,
+  "NM_MUN": "Nova Floresta",
+  "cod_Mun_Sudene": 2510105
+ },
+ {
+  "CD_MUN": 2510204,
+  "NM_MUN": "Nova Olinda",
+  "cod_Mun_Sudene": 2510204
+ },
+ {
+  "CD_MUN": 2510303,
+  "NM_MUN": "Nova Palmeira",
+  "cod_Mun_Sudene": 2510303
+ },
+ {
+  "CD_MUN": 2510402,
+  "NM_MUN": "Olho d'Água",
+  "cod_Mun_Sudene": 2510402
+ },
+ {
+  "CD_MUN": 2510501,
+  "NM_MUN": "Olivedos",
+  "cod_Mun_Sudene": 2510501
+ },
+ {
+  "CD_MUN": 2510600,
+  "NM_MUN": "Ouro Velho",
+  "cod_Mun_Sudene": 2510600
+ },
+ {
+  "CD_MUN": 2510659,
+  "NM_MUN": "Parari",
+  "cod_Mun_Sudene": 2510659
+ },
+ {
+  "CD_MUN": 2510709,
+  "NM_MUN": "Passagem",
+  "cod_Mun_Sudene": 2510709
+ },
+ {
+  "CD_MUN": 2510808,
+  "NM_MUN": "Patos",
+  "cod_Mun_Sudene": 2510808
+ },
+ {
+  "CD_MUN": 2510907,
+  "NM_MUN": "Paulista",
+  "cod_Mun_Sudene": 2510907
+ },
+ {
+  "CD_MUN": 2511004,
+  "NM_MUN": "Pedra Branca",
+  "cod_Mun_Sudene": 2511004
+ },
+ {
+  "CD_MUN": 2511103,
+  "NM_MUN": "Pedra Lavrada",
+  "cod_Mun_Sudene": 2511103
+ },
+ {
+  "CD_MUN": 2511202,
+  "NM_MUN": "Pedras de Fogo",
+  "cod_Mun_Sudene": 2511202
+ },
+ {
+  "CD_MUN": 2511301,
+  "NM_MUN": "Piancó",
+  "cod_Mun_Sudene": 2511301
+ },
+ {
+  "CD_MUN": 2511400,
+  "NM_MUN": "Picuí",
+  "cod_Mun_Sudene": 2511400
+ },
+ {
+  "CD_MUN": 2511509,
+  "NM_MUN": "Pilar",
+  "cod_Mun_Sudene": 2511509
+ },
+ {
+  "CD_MUN": 2511608,
+  "NM_MUN": "Pilões",
+  "cod_Mun_Sudene": 2511608
+ },
+ {
+  "CD_MUN": 2511707,
+  "NM_MUN": "Pilõezinhos",
+  "cod_Mun_Sudene": 2511707
+ },
+ {
+  "CD_MUN": 2511806,
+  "NM_MUN": "Pirpirituba",
+  "cod_Mun_Sudene": 2511806
+ },
+ {
+  "CD_MUN": 2511905,
+  "NM_MUN": "Pitimbu",
+  "cod_Mun_Sudene": 2511905
+ },
+ {
+  "CD_MUN": 2512002,
+  "NM_MUN": "Pocinhos",
+  "cod_Mun_Sudene": 2512002
+ },
+ {
+  "CD_MUN": 2512036,
+  "NM_MUN": "Poço Dantas",
+  "cod_Mun_Sudene": 2512036
+ },
+ {
+  "CD_MUN": 2512077,
+  "NM_MUN": "Poço de José de Moura",
+  "cod_Mun_Sudene": 2512077
+ },
+ {
+  "CD_MUN": 2512101,
+  "NM_MUN": "Pombal",
+  "cod_Mun_Sudene": 2512101
+ },
+ {
+  "CD_MUN": 2512200,
+  "NM_MUN": "Prata",
+  "cod_Mun_Sudene": 2512200
+ },
+ {
+  "CD_MUN": 2512309,
+  "NM_MUN": "Princesa Isabel",
+  "cod_Mun_Sudene": 2512309
+ },
+ {
+  "CD_MUN": 2512408,
+  "NM_MUN": "Puxinanã",
+  "cod_Mun_Sudene": 2512408
+ },
+ {
+  "CD_MUN": 2512507,
+  "NM_MUN": "Queimadas",
+  "cod_Mun_Sudene": 2512507
+ },
+ {
+  "CD_MUN": 2512606,
+  "NM_MUN": "Quixaba",
+  "cod_Mun_Sudene": 2512606
+ },
+ {
+  "CD_MUN": 2512705,
+  "NM_MUN": "Remígio",
+  "cod_Mun_Sudene": 2512705
+ },
+ {
+  "CD_MUN": 2512721,
+  "NM_MUN": "Pedro Régis",
+  "cod_Mun_Sudene": 2512721
+ },
+ {
+  "CD_MUN": 2512747,
+  "NM_MUN": "Riachão",
+  "cod_Mun_Sudene": 2512747
+ },
+ {
+  "CD_MUN": 2512754,
+  "NM_MUN": "Riachão do Bacamarte",
+  "cod_Mun_Sudene": 2512754
+ },
+ {
+  "CD_MUN": 2512762,
+  "NM_MUN": "Riachão do Poço",
+  "cod_Mun_Sudene": 2512762
+ },
+ {
+  "CD_MUN": 2512788,
+  "NM_MUN": "Riacho de Santo Antônio",
+  "cod_Mun_Sudene": 2512788
+ },
+ {
+  "CD_MUN": 2512804,
+  "NM_MUN": "Riacho dos Cavalos",
+  "cod_Mun_Sudene": 2512804
+ },
+ {
+  "CD_MUN": 2512903,
+  "NM_MUN": "Rio Tinto",
+  "cod_Mun_Sudene": 2512903
+ },
+ {
+  "CD_MUN": 2513000,
+  "NM_MUN": "Salgadinho",
+  "cod_Mun_Sudene": 2513000
+ },
+ {
+  "CD_MUN": 2513109,
+  "NM_MUN": "Salgado de São Félix",
+  "cod_Mun_Sudene": 2513109
+ },
+ {
+  "CD_MUN": 2513158,
+  "NM_MUN": "Santa Cecília",
+  "cod_Mun_Sudene": 2513158
+ },
+ {
+  "CD_MUN": 2513208,
+  "NM_MUN": "Santa Cruz",
+  "cod_Mun_Sudene": 2513208
+ },
+ {
+  "CD_MUN": 2513307,
+  "NM_MUN": "Santa Helena",
+  "cod_Mun_Sudene": 2513307
+ },
+ {
+  "CD_MUN": 2513356,
+  "NM_MUN": "Santa Inês",
+  "cod_Mun_Sudene": 2513356
+ },
+ {
+  "CD_MUN": 2513406,
+  "NM_MUN": "Santa Luzia",
+  "cod_Mun_Sudene": 2513406
+ },
+ {
+  "CD_MUN": 2513505,
+  "NM_MUN": "Santana de Mangueira",
+  "cod_Mun_Sudene": 2513505
+ },
+ {
+  "CD_MUN": 2513604,
+  "NM_MUN": "Santana dos Garrotes",
+  "cod_Mun_Sudene": 2513604
+ },
+ {
+  "CD_MUN": 2513653,
+  "NM_MUN": "Joca Claudino",
+  "cod_Mun_Sudene": 2513653
+ },
+ {
+  "CD_MUN": 2513703,
+  "NM_MUN": "Santa Rita",
+  "cod_Mun_Sudene": 2513703
+ },
+ {
+  "CD_MUN": 2513802,
+  "NM_MUN": "Santa Teresinha",
+  "cod_Mun_Sudene": 2513802
+ },
+ {
+  "CD_MUN": 2513851,
+  "NM_MUN": "Santo André",
+  "cod_Mun_Sudene": 2513851
+ },
+ {
+  "CD_MUN": 2513901,
+  "NM_MUN": "São Bento",
+  "cod_Mun_Sudene": 2513901
+ },
+ {
+  "CD_MUN": 2513927,
+  "NM_MUN": "São Bentinho",
+  "cod_Mun_Sudene": 2513927
+ },
+ {
+  "CD_MUN": 2513943,
+  "NM_MUN": "São Domingos do Cariri",
+  "cod_Mun_Sudene": 2513943
+ },
+ {
+  "CD_MUN": 2513968,
+  "NM_MUN": "São Domingos",
+  "cod_Mun_Sudene": 2513968
+ },
+ {
+  "CD_MUN": 2513984,
+  "NM_MUN": "São Francisco",
+  "cod_Mun_Sudene": 2513984
+ },
+ {
+  "CD_MUN": 2514008,
+  "NM_MUN": "São João do Cariri",
+  "cod_Mun_Sudene": 2514008
+ },
+ {
+  "CD_MUN": 2514107,
+  "NM_MUN": "São João do Tigre",
+  "cod_Mun_Sudene": 2514107
+ },
+ {
+  "CD_MUN": 2514206,
+  "NM_MUN": "São José da Lagoa Tapada",
+  "cod_Mun_Sudene": 2514206
+ },
+ {
+  "CD_MUN": 2514305,
+  "NM_MUN": "São José de Caiana",
+  "cod_Mun_Sudene": 2514305
+ },
+ {
+  "CD_MUN": 2514404,
+  "NM_MUN": "São José de Espinharas",
+  "cod_Mun_Sudene": 2514404
+ },
+ {
+  "CD_MUN": 2514453,
+  "NM_MUN": "São José dos Ramos",
+  "cod_Mun_Sudene": 2514453
+ },
+ {
+  "CD_MUN": 2514503,
+  "NM_MUN": "São José de Piranhas",
+  "cod_Mun_Sudene": 2514503
+ },
+ {
+  "CD_MUN": 2514552,
+  "NM_MUN": "São José de Princesa",
+  "cod_Mun_Sudene": 2514552
+ },
+ {
+  "CD_MUN": 2514602,
+  "NM_MUN": "São José do Bonfim",
+  "cod_Mun_Sudene": 2514602
+ },
+ {
+  "CD_MUN": 2514651,
+  "NM_MUN": "São José do Brejo do Cruz",
+  "cod_Mun_Sudene": 2514651
+ },
+ {
+  "CD_MUN": 2514701,
+  "NM_MUN": "São José do Sabugi",
+  "cod_Mun_Sudene": 2514701
+ },
+ {
+  "CD_MUN": 2514800,
+  "NM_MUN": "São José dos Cordeiros",
+  "cod_Mun_Sudene": 2514800
+ },
+ {
+  "CD_MUN": 2514909,
+  "NM_MUN": "São Mamede",
+  "cod_Mun_Sudene": 2514909
+ },
+ {
+  "CD_MUN": 2515005,
+  "NM_MUN": "São Miguel de Taipu",
+  "cod_Mun_Sudene": 2515005
+ },
+ {
+  "CD_MUN": 2515104,
+  "NM_MUN": "São Sebastião de Lagoa de Roça",
+  "cod_Mun_Sudene": 2515104
+ },
+ {
+  "CD_MUN": 2515203,
+  "NM_MUN": "São Sebastião do Umbuzeiro",
+  "cod_Mun_Sudene": 2515203
+ },
+ {
+  "CD_MUN": 2515302,
+  "NM_MUN": "Sapé",
+  "cod_Mun_Sudene": 2515302
+ },
+ {
+  "CD_MUN": 2515401,
+  "NM_MUN": "São Vicente do Seridó",
+  "cod_Mun_Sudene": 2515401
+ },
+ {
+  "CD_MUN": 2515500,
+  "NM_MUN": "Serra Branca",
+  "cod_Mun_Sudene": 2515500
+ },
+ {
+  "CD_MUN": 2515609,
+  "NM_MUN": "Serra da Raiz",
+  "cod_Mun_Sudene": 2515609
+ },
+ {
+  "CD_MUN": 2515708,
+  "NM_MUN": "Serra Grande",
+  "cod_Mun_Sudene": 2515708
+ },
+ {
+  "CD_MUN": 2515807,
+  "NM_MUN": "Serra Redonda",
+  "cod_Mun_Sudene": 2515807
+ },
+ {
+  "CD_MUN": 2515906,
+  "NM_MUN": "Serraria",
+  "cod_Mun_Sudene": 2515906
+ },
+ {
+  "CD_MUN": 2515930,
+  "NM_MUN": "Sertãozinho",
+  "cod_Mun_Sudene": 2515930
+ },
+ {
+  "CD_MUN": 2515971,
+  "NM_MUN": "Sobrado",
+  "cod_Mun_Sudene": 2515971
+ },
+ {
+  "CD_MUN": 2516003,
+  "NM_MUN": "Solânea",
+  "cod_Mun_Sudene": 2516003
+ },
+ {
+  "CD_MUN": 2516102,
+  "NM_MUN": "Soledade",
+  "cod_Mun_Sudene": 2516102
+ },
+ {
+  "CD_MUN": 2516151,
+  "NM_MUN": "Sossêgo",
+  "cod_Mun_Sudene": 2516151
+ },
+ {
+  "CD_MUN": 2516201,
+  "NM_MUN": "Sousa",
+  "cod_Mun_Sudene": 2516201
+ },
+ {
+  "CD_MUN": 2516300,
+  "NM_MUN": "Sumé",
+  "cod_Mun_Sudene": 2516300
+ },
+ {
+  "CD_MUN": 2516409,
+  "NM_MUN": "Tacima",
+  "cod_Mun_Sudene": 2516409
+ },
+ {
+  "CD_MUN": 2516508,
+  "NM_MUN": "Taperoá",
+  "cod_Mun_Sudene": 2516508
+ },
+ {
+  "CD_MUN": 2516607,
+  "NM_MUN": "Tavares",
+  "cod_Mun_Sudene": 2516607
+ },
+ {
+  "CD_MUN": 2516706,
+  "NM_MUN": "Teixeira",
+  "cod_Mun_Sudene": 2516706
+ },
+ {
+  "CD_MUN": 2516755,
+  "NM_MUN": "Tenório",
+  "cod_Mun_Sudene": 2516755
+ },
+ {
+  "CD_MUN": 2516805,
+  "NM_MUN": "Triunfo",
+  "cod_Mun_Sudene": 2516805
+ },
+ {
+  "CD_MUN": 2516904,
+  "NM_MUN": "Uiraúna",
+  "cod_Mun_Sudene": 2516904
+ },
+ {
+  "CD_MUN": 2517001,
+  "NM_MUN": "Umbuzeiro",
+  "cod_Mun_Sudene": 2517001
+ },
+ {
+  "CD_MUN": 2517100,
+  "NM_MUN": "Várzea",
+  "cod_Mun_Sudene": 2517100
+ },
+ {
+  "CD_MUN": 2517209,
+  "NM_MUN": "Vieirópolis",
+  "cod_Mun_Sudene": 2517209
+ },
+ {
+  "CD_MUN": 2517407,
+  "NM_MUN": "Zabelê",
+  "cod_Mun_Sudene": 2517407
+ },
+ {
+  "CD_MUN": 2600054,
+  "NM_MUN": "Abreu e Lima",
+  "cod_Mun_Sudene": 2600054
+ },
+ {
+  "CD_MUN": 2600104,
+  "NM_MUN": "Afogados da Ingazeira",
+  "cod_Mun_Sudene": 2600104
+ },
+ {
+  "CD_MUN": 2600203,
+  "NM_MUN": "Afrânio",
+  "cod_Mun_Sudene": 2600203
+ },
+ {
+  "CD_MUN": 2600302,
+  "NM_MUN": "Agrestina",
+  "cod_Mun_Sudene": 2600302
+ },
+ {
+  "CD_MUN": 2600401,
+  "NM_MUN": "Água Preta",
+  "cod_Mun_Sudene": 2600401
+ },
+ {
+  "CD_MUN": 2600500,
+  "NM_MUN": "Águas Belas",
+  "cod_Mun_Sudene": 2600500
+ },
+ {
+  "CD_MUN": 2600609,
+  "NM_MUN": "Alagoinha",
+  "cod_Mun_Sudene": 2600609
+ },
+ {
+  "CD_MUN": 2600708,
+  "NM_MUN": "Aliança",
+  "cod_Mun_Sudene": 2600708
+ },
+ {
+  "CD_MUN": 2600807,
+  "NM_MUN": "Altinho",
+  "cod_Mun_Sudene": 2600807
+ },
+ {
+  "CD_MUN": 2600906,
+  "NM_MUN": "Amaraji",
+  "cod_Mun_Sudene": 2600906
+ },
+ {
+  "CD_MUN": 2601003,
+  "NM_MUN": "Angelim",
+  "cod_Mun_Sudene": 2601003
+ },
+ {
+  "CD_MUN": 2601052,
+  "NM_MUN": "Araçoiaba",
+  "cod_Mun_Sudene": 2601052
+ },
+ {
+  "CD_MUN": 2601102,
+  "NM_MUN": "Araripina",
+  "cod_Mun_Sudene": 2601102
+ },
+ {
+  "CD_MUN": 2601201,
+  "NM_MUN": "Arcoverde",
+  "cod_Mun_Sudene": 2601201
+ },
+ {
+  "CD_MUN": 2601300,
+  "NM_MUN": "Barra de Guabiraba",
+  "cod_Mun_Sudene": 2601300
+ },
+ {
+  "CD_MUN": 2601409,
+  "NM_MUN": "Barreiros",
+  "cod_Mun_Sudene": 2601409
+ },
+ {
+  "CD_MUN": 2601508,
+  "NM_MUN": "Belém de Maria",
+  "cod_Mun_Sudene": 2601508
+ },
+ {
+  "CD_MUN": 2601607,
+  "NM_MUN": "Belém do São Francisco",
+  "cod_Mun_Sudene": 2601607
+ },
+ {
+  "CD_MUN": 2601706,
+  "NM_MUN": "Belo Jardim",
+  "cod_Mun_Sudene": 2601706
+ },
+ {
+  "CD_MUN": 2601805,
+  "NM_MUN": "Betânia",
+  "cod_Mun_Sudene": 2601805
+ },
+ {
+  "CD_MUN": 2601904,
+  "NM_MUN": "Bezerros",
+  "cod_Mun_Sudene": 2601904
+ },
+ {
+  "CD_MUN": 2602001,
+  "NM_MUN": "Bodocó",
+  "cod_Mun_Sudene": 2602001
+ },
+ {
+  "CD_MUN": 2602100,
+  "NM_MUN": "Bom Conselho",
+  "cod_Mun_Sudene": 2602100
+ },
+ {
+  "CD_MUN": 2602209,
+  "NM_MUN": "Bom Jardim",
+  "cod_Mun_Sudene": 2602209
+ },
+ {
+  "CD_MUN": 2602308,
+  "NM_MUN": "Bonito",
+  "cod_Mun_Sudene": 2602308
+ },
+ {
+  "CD_MUN": 2602407,
+  "NM_MUN": "Brejão",
+  "cod_Mun_Sudene": 2602407
+ },
+ {
+  "CD_MUN": 2602506,
+  "NM_MUN": "Brejinho",
+  "cod_Mun_Sudene": 2602506
+ },
+ {
+  "CD_MUN": 2602605,
+  "NM_MUN": "Brejo da Madre de Deus",
+  "cod_Mun_Sudene": 2602605
+ },
+ {
+  "CD_MUN": 2602704,
+  "NM_MUN": "Buenos Aires",
+  "cod_Mun_Sudene": 2602704
+ },
+ {
+  "CD_MUN": 2602803,
+  "NM_MUN": "Buíque",
+  "cod_Mun_Sudene": 2602803
+ },
+ {
+  "CD_MUN": 2602902,
+  "NM_MUN": "Cabo de Santo Agostinho",
+  "cod_Mun_Sudene": 2602902
+ },
+ {
+  "CD_MUN": 2603009,
+  "NM_MUN": "Cabrobó",
+  "cod_Mun_Sudene": 2603009
+ },
+ {
+  "CD_MUN": 2603108,
+  "NM_MUN": "Cachoeirinha",
+  "cod_Mun_Sudene": 2603108
+ },
+ {
+  "CD_MUN": 2603207,
+  "NM_MUN": "Caetés",
+  "cod_Mun_Sudene": 2603207
+ },
+ {
+  "CD_MUN": 2603306,
+  "NM_MUN": "Calçado",
+  "cod_Mun_Sudene": 2603306
+ },
+ {
+  "CD_MUN": 2603405,
+  "NM_MUN": "Calumbi",
+  "cod_Mun_Sudene": 2603405
+ },
+ {
+  "CD_MUN": 2603454,
+  "NM_MUN": "Camaragibe",
+  "cod_Mun_Sudene": 2603454
+ },
+ {
+  "CD_MUN": 2603504,
+  "NM_MUN": "Camocim de São Félix",
+  "cod_Mun_Sudene": 2603504
+ },
+ {
+  "CD_MUN": 2603603,
+  "NM_MUN": "Camutanga",
+  "cod_Mun_Sudene": 2603603
+ },
+ {
+  "CD_MUN": 2603702,
+  "NM_MUN": "Canhotinho",
+  "cod_Mun_Sudene": 2603702
+ },
+ {
+  "CD_MUN": 2603801,
+  "NM_MUN": "Capoeiras",
+  "cod_Mun_Sudene": 2603801
+ },
+ {
+  "CD_MUN": 2603900,
+  "NM_MUN": "Carnaíba",
+  "cod_Mun_Sudene": 2603900
+ },
+ {
+  "CD_MUN": 2603926,
+  "NM_MUN": "Carnaubeira da Penha",
+  "cod_Mun_Sudene": 2603926
+ },
+ {
+  "CD_MUN": 2604007,
+  "NM_MUN": "Carpina",
+  "cod_Mun_Sudene": 2604007
+ },
+ {
+  "CD_MUN": 2604106,
+  "NM_MUN": "Caruaru",
+  "cod_Mun_Sudene": 2604106
+ },
+ {
+  "CD_MUN": 2604155,
+  "NM_MUN": "Casinhas",
+  "cod_Mun_Sudene": 2604155
+ },
+ {
+  "CD_MUN": 2604205,
+  "NM_MUN": "Catende",
+  "cod_Mun_Sudene": 2604205
+ },
+ {
+  "CD_MUN": 2604304,
+  "NM_MUN": "Cedro",
+  "cod_Mun_Sudene": 2604304
+ },
+ {
+  "CD_MUN": 2604403,
+  "NM_MUN": "Chã de Alegria",
+  "cod_Mun_Sudene": 2604403
+ },
+ {
+  "CD_MUN": 2604502,
+  "NM_MUN": "Chã Grande",
+  "cod_Mun_Sudene": 2604502
+ },
+ {
+  "CD_MUN": 2604601,
+  "NM_MUN": "Condado",
+  "cod_Mun_Sudene": 2604601
+ },
+ {
+  "CD_MUN": 2604700,
+  "NM_MUN": "Correntes",
+  "cod_Mun_Sudene": 2604700
+ },
+ {
+  "CD_MUN": 2604809,
+  "NM_MUN": "Cortês",
+  "cod_Mun_Sudene": 2604809
+ },
+ {
+  "CD_MUN": 2604908,
+  "NM_MUN": "Cumaru",
+  "cod_Mun_Sudene": 2604908
+ },
+ {
+  "CD_MUN": 2605004,
+  "NM_MUN": "Cupira",
+  "cod_Mun_Sudene": 2605004
+ },
+ {
+  "CD_MUN": 2605103,
+  "NM_MUN": "Custódia",
+  "cod_Mun_Sudene": 2605103
+ },
+ {
+  "CD_MUN": 2605152,
+  "NM_MUN": "Dormentes",
+  "cod_Mun_Sudene": 2605152
+ },
+ {
+  "CD_MUN": 2605202,
+  "NM_MUN": "Escada",
+  "cod_Mun_Sudene": 2605202
+ },
+ {
+  "CD_MUN": 2605301,
+  "NM_MUN": "Exu",
+  "cod_Mun_Sudene": 2605301
+ },
+ {
+  "CD_MUN": 2605400,
+  "NM_MUN": "Feira Nova",
+  "cod_Mun_Sudene": 2605400
+ },
+ {
+  "CD_MUN": 2605459,
+  "NM_MUN": "Fernando de Noronha",
+  "cod_Mun_Sudene": 2605459
+ },
+ {
+  "CD_MUN": 2605509,
+  "NM_MUN": "Ferreiros",
+  "cod_Mun_Sudene": 2605509
+ },
+ {
+  "CD_MUN": 2605608,
+  "NM_MUN": "Flores",
+  "cod_Mun_Sudene": 2605608
+ },
+ {
+  "CD_MUN": 2605707,
+  "NM_MUN": "Floresta",
+  "cod_Mun_Sudene": 2605707
+ },
+ {
+  "CD_MUN": 2605806,
+  "NM_MUN": "Frei Miguelinho",
+  "cod_Mun_Sudene": 2605806
+ },
+ {
+  "CD_MUN": 2605905,
+  "NM_MUN": "Gameleira",
+  "cod_Mun_Sudene": 2605905
+ },
+ {
+  "CD_MUN": 2606002,
+  "NM_MUN": "Garanhuns",
+  "cod_Mun_Sudene": 2606002
+ },
+ {
+  "CD_MUN": 2606101,
+  "NM_MUN": "Glória do Goitá",
+  "cod_Mun_Sudene": 2606101
+ },
+ {
+  "CD_MUN": 2606200,
+  "NM_MUN": "Goiana",
+  "cod_Mun_Sudene": 2606200
+ },
+ {
+  "CD_MUN": 2606309,
+  "NM_MUN": "Granito",
+  "cod_Mun_Sudene": 2606309
+ },
+ {
+  "CD_MUN": 2606408,
+  "NM_MUN": "Gravatá",
+  "cod_Mun_Sudene": 2606408
+ },
+ {
+  "CD_MUN": 2606507,
+  "NM_MUN": "Iati",
+  "cod_Mun_Sudene": 2606507
+ },
+ {
+  "CD_MUN": 2606606,
+  "NM_MUN": "Ibimirim",
+  "cod_Mun_Sudene": 2606606
+ },
+ {
+  "CD_MUN": 2606705,
+  "NM_MUN": "Ibirajuba",
+  "cod_Mun_Sudene": 2606705
+ },
+ {
+  "CD_MUN": 2606804,
+  "NM_MUN": "Igarassu",
+  "cod_Mun_Sudene": 2606804
+ },
+ {
+  "CD_MUN": 2606903,
+  "NM_MUN": "Iguaracy",
+  "cod_Mun_Sudene": 2606903
+ },
+ {
+  "CD_MUN": 2607000,
+  "NM_MUN": "Inajá",
+  "cod_Mun_Sudene": 2607000
+ },
+ {
+  "CD_MUN": 2607109,
+  "NM_MUN": "Ingazeira",
+  "cod_Mun_Sudene": 2607109
+ },
+ {
+  "CD_MUN": 2607208,
+  "NM_MUN": "Ipojuca",
+  "cod_Mun_Sudene": 2607208
+ },
+ {
+  "CD_MUN": 2607307,
+  "NM_MUN": "Ipubi",
+  "cod_Mun_Sudene": 2607307
+ },
+ {
+  "CD_MUN": 2607406,
+  "NM_MUN": "Itacuruba",
+  "cod_Mun_Sudene": 2607406
+ },
+ {
+  "CD_MUN": 2607505,
+  "NM_MUN": "Itaíba",
+  "cod_Mun_Sudene": 2607505
+ },
+ {
+  "CD_MUN": 2607604,
+  "NM_MUN": "Ilha de Itamaracá",
+  "cod_Mun_Sudene": 2607604
+ },
+ {
+  "CD_MUN": 2607653,
+  "NM_MUN": "Itambé",
+  "cod_Mun_Sudene": 2607653
+ },
+ {
+  "CD_MUN": 2607703,
+  "NM_MUN": "Itapetim",
+  "cod_Mun_Sudene": 2607703
+ },
+ {
+  "CD_MUN": 2607752,
+  "NM_MUN": "Itapissuma",
+  "cod_Mun_Sudene": 2607752
+ },
+ {
+  "CD_MUN": 2607802,
+  "NM_MUN": "Itaquitinga",
+  "cod_Mun_Sudene": 2607802
+ },
+ {
+  "CD_MUN": 2607901,
+  "NM_MUN": "Jaboatão dos Guararapes",
+  "cod_Mun_Sudene": 2607901
+ },
+ {
+  "CD_MUN": 2607950,
+  "NM_MUN": "Jaqueira",
+  "cod_Mun_Sudene": 2607950
+ },
+ {
+  "CD_MUN": 2608008,
+  "NM_MUN": "Jataúba",
+  "cod_Mun_Sudene": 2608008
+ },
+ {
+  "CD_MUN": 2608057,
+  "NM_MUN": "Jatobá",
+  "cod_Mun_Sudene": 2608057
+ },
+ {
+  "CD_MUN": 2608107,
+  "NM_MUN": "João Alfredo",
+  "cod_Mun_Sudene": 2608107
+ },
+ {
+  "CD_MUN": 2608206,
+  "NM_MUN": "Joaquim Nabuco",
+  "cod_Mun_Sudene": 2608206
+ },
+ {
+  "CD_MUN": 2608255,
+  "NM_MUN": "Jucati",
+  "cod_Mun_Sudene": 2608255
+ },
+ {
+  "CD_MUN": 2608305,
+  "NM_MUN": "Jupi",
+  "cod_Mun_Sudene": 2608305
+ },
+ {
+  "CD_MUN": 2608404,
+  "NM_MUN": "Jurema",
+  "cod_Mun_Sudene": 2608404
+ },
+ {
+  "CD_MUN": 2608453,
+  "NM_MUN": "Lagoa do Carro",
+  "cod_Mun_Sudene": 2608453
+ },
+ {
+  "CD_MUN": 2608503,
+  "NM_MUN": "Lagoa de Itaenga",
+  "cod_Mun_Sudene": 2608503
+ },
+ {
+  "CD_MUN": 2608602,
+  "NM_MUN": "Lagoa do Ouro",
+  "cod_Mun_Sudene": 2608602
+ },
+ {
+  "CD_MUN": 2608701,
+  "NM_MUN": "Lagoa dos Gatos",
+  "cod_Mun_Sudene": 2608701
+ },
+ {
+  "CD_MUN": 2608750,
+  "NM_MUN": "Lagoa Grande",
+  "cod_Mun_Sudene": 2608750
+ },
+ {
+  "CD_MUN": 2608800,
+  "NM_MUN": "Lajedo",
+  "cod_Mun_Sudene": 2608800
+ },
+ {
+  "CD_MUN": 2608909,
+  "NM_MUN": "Limoeiro",
+  "cod_Mun_Sudene": 2608909
+ },
+ {
+  "CD_MUN": 2609006,
+  "NM_MUN": "Macaparana",
+  "cod_Mun_Sudene": 2609006
+ },
+ {
+  "CD_MUN": 2609105,
+  "NM_MUN": "Machados",
+  "cod_Mun_Sudene": 2609105
+ },
+ {
+  "CD_MUN": 2609154,
+  "NM_MUN": "Manari",
+  "cod_Mun_Sudene": 2609154
+ },
+ {
+  "CD_MUN": 2609204,
+  "NM_MUN": "Maraial",
+  "cod_Mun_Sudene": 2609204
+ },
+ {
+  "CD_MUN": 2609303,
+  "NM_MUN": "Mirandiba",
+  "cod_Mun_Sudene": 2609303
+ },
+ {
+  "CD_MUN": 2609402,
+  "NM_MUN": "Moreno",
+  "cod_Mun_Sudene": 2609402
+ },
+ {
+  "CD_MUN": 2609501,
+  "NM_MUN": "Nazaré da Mata",
+  "cod_Mun_Sudene": 2609501
+ },
+ {
+  "CD_MUN": 2609600,
+  "NM_MUN": "Olinda",
+  "cod_Mun_Sudene": 2609600
+ },
+ {
+  "CD_MUN": 2609709,
+  "NM_MUN": "Orobó",
+  "cod_Mun_Sudene": 2609709
+ },
+ {
+  "CD_MUN": 2609808,
+  "NM_MUN": "Orocó",
+  "cod_Mun_Sudene": 2609808
+ },
+ {
+  "CD_MUN": 2609907,
+  "NM_MUN": "Ouricuri",
+  "cod_Mun_Sudene": 2609907
+ },
+ {
+  "CD_MUN": 2610004,
+  "NM_MUN": "Palmares",
+  "cod_Mun_Sudene": 2610004
+ },
+ {
+  "CD_MUN": 2610103,
+  "NM_MUN": "Palmeirina",
+  "cod_Mun_Sudene": 2610103
+ },
+ {
+  "CD_MUN": 2610202,
+  "NM_MUN": "Panelas",
+  "cod_Mun_Sudene": 2610202
+ },
+ {
+  "CD_MUN": 2610301,
+  "NM_MUN": "Paranatama",
+  "cod_Mun_Sudene": 2610301
+ },
+ {
+  "CD_MUN": 2610400,
+  "NM_MUN": "Parnamirim",
+  "cod_Mun_Sudene": 2610400
+ },
+ {
+  "CD_MUN": 2610509,
+  "NM_MUN": "Passira",
+  "cod_Mun_Sudene": 2610509
+ },
+ {
+  "CD_MUN": 2610608,
+  "NM_MUN": "Paudalho",
+  "cod_Mun_Sudene": 2610608
+ },
+ {
+  "CD_MUN": 2610707,
+  "NM_MUN": "Paulista",
+  "cod_Mun_Sudene": 2610707
+ },
+ {
+  "CD_MUN": 2610806,
+  "NM_MUN": "Pedra",
+  "cod_Mun_Sudene": 2610806
+ },
+ {
+  "CD_MUN": 2610905,
+  "NM_MUN": "Pesqueira",
+  "cod_Mun_Sudene": 2610905
+ },
+ {
+  "CD_MUN": 2611002,
+  "NM_MUN": "Petrolândia",
+  "cod_Mun_Sudene": 2611002
+ },
+ {
+  "CD_MUN": 2611101,
+  "NM_MUN": "Petrolina",
+  "cod_Mun_Sudene": 2611101
+ },
+ {
+  "CD_MUN": 2611200,
+  "NM_MUN": "Poção",
+  "cod_Mun_Sudene": 2611200
+ },
+ {
+  "CD_MUN": 2611309,
+  "NM_MUN": "Pombos",
+  "cod_Mun_Sudene": 2611309
+ },
+ {
+  "CD_MUN": 2611408,
+  "NM_MUN": "Primavera",
+  "cod_Mun_Sudene": 2611408
+ },
+ {
+  "CD_MUN": 2611507,
+  "NM_MUN": "Quipapá",
+  "cod_Mun_Sudene": 2611507
+ },
+ {
+  "CD_MUN": 2611533,
+  "NM_MUN": "Quixaba",
+  "cod_Mun_Sudene": 2611533
+ },
+ {
+  "CD_MUN": 2611606,
+  "NM_MUN": "Recife",
+  "cod_Mun_Sudene": 2611606
+ },
+ {
+  "CD_MUN": 2611705,
+  "NM_MUN": "Riacho das Almas",
+  "cod_Mun_Sudene": 2611705
+ },
+ {
+  "CD_MUN": 2611804,
+  "NM_MUN": "Ribeirão",
+  "cod_Mun_Sudene": 2611804
+ },
+ {
+  "CD_MUN": 2611903,
+  "NM_MUN": "Rio Formoso",
+  "cod_Mun_Sudene": 2611903
+ },
+ {
+  "CD_MUN": 2612000,
+  "NM_MUN": "Sairé",
+  "cod_Mun_Sudene": 2612000
+ },
+ {
+  "CD_MUN": 2612109,
+  "NM_MUN": "Salgadinho",
+  "cod_Mun_Sudene": 2612109
+ },
+ {
+  "CD_MUN": 2612208,
+  "NM_MUN": "Salgueiro",
+  "cod_Mun_Sudene": 2612208
+ },
+ {
+  "CD_MUN": 2612307,
+  "NM_MUN": "Saloá",
+  "cod_Mun_Sudene": 2612307
+ },
+ {
+  "CD_MUN": 2612406,
+  "NM_MUN": "Sanharó",
+  "cod_Mun_Sudene": 2612406
+ },
+ {
+  "CD_MUN": 2612455,
+  "NM_MUN": "Santa Cruz",
+  "cod_Mun_Sudene": 2612455
+ },
+ {
+  "CD_MUN": 2612471,
+  "NM_MUN": "Santa Cruz da Baixa Verde",
+  "cod_Mun_Sudene": 2612471
+ },
+ {
+  "CD_MUN": 2612505,
+  "NM_MUN": "Santa Cruz do Capibaribe",
+  "cod_Mun_Sudene": 2612505
+ },
+ {
+  "CD_MUN": 2612554,
+  "NM_MUN": "Santa Filomena",
+  "cod_Mun_Sudene": 2612554
+ },
+ {
+  "CD_MUN": 2612604,
+  "NM_MUN": "Santa Maria da Boa Vista",
+  "cod_Mun_Sudene": 2612604
+ },
+ {
+  "CD_MUN": 2612703,
+  "NM_MUN": "Santa Maria do Cambucá",
+  "cod_Mun_Sudene": 2612703
+ },
+ {
+  "CD_MUN": 2612802,
+  "NM_MUN": "Santa Terezinha",
+  "cod_Mun_Sudene": 2612802
+ },
+ {
+  "CD_MUN": 2612901,
+  "NM_MUN": "São Benedito do Sul",
+  "cod_Mun_Sudene": 2612901
+ },
+ {
+  "CD_MUN": 2613008,
+  "NM_MUN": "São Bento do Una",
+  "cod_Mun_Sudene": 2613008
+ },
+ {
+  "CD_MUN": 2613107,
+  "NM_MUN": "São Caitano",
+  "cod_Mun_Sudene": 2613107
+ },
+ {
+  "CD_MUN": 2613206,
+  "NM_MUN": "São João",
+  "cod_Mun_Sudene": 2613206
+ },
+ {
+  "CD_MUN": 2613305,
+  "NM_MUN": "São Joaquim do Monte",
+  "cod_Mun_Sudene": 2613305
+ },
+ {
+  "CD_MUN": 2613404,
+  "NM_MUN": "São José da Coroa Grande",
+  "cod_Mun_Sudene": 2613404
+ },
+ {
+  "CD_MUN": 2613503,
+  "NM_MUN": "São José do Belmonte",
+  "cod_Mun_Sudene": 2613503
+ },
+ {
+  "CD_MUN": 2613602,
+  "NM_MUN": "São José do Egito",
+  "cod_Mun_Sudene": 2613602
+ },
+ {
+  "CD_MUN": 2613701,
+  "NM_MUN": "São Lourenço da Mata",
+  "cod_Mun_Sudene": 2613701
+ },
+ {
+  "CD_MUN": 2613800,
+  "NM_MUN": "São Vicente Férrer",
+  "cod_Mun_Sudene": 2613800
+ },
+ {
+  "CD_MUN": 2613909,
+  "NM_MUN": "Serra Talhada",
+  "cod_Mun_Sudene": 2613909
+ },
+ {
+  "CD_MUN": 2614006,
+  "NM_MUN": "Serrita",
+  "cod_Mun_Sudene": 2614006
+ },
+ {
+  "CD_MUN": 2614105,
+  "NM_MUN": "Sertânia",
+  "cod_Mun_Sudene": 2614105
+ },
+ {
+  "CD_MUN": 2614204,
+  "NM_MUN": "Sirinhaém",
+  "cod_Mun_Sudene": 2614204
+ },
+ {
+  "CD_MUN": 2614303,
+  "NM_MUN": "Moreilândia",
+  "cod_Mun_Sudene": 2614303
+ },
+ {
+  "CD_MUN": 2614402,
+  "NM_MUN": "Solidão",
+  "cod_Mun_Sudene": 2614402
+ },
+ {
+  "CD_MUN": 2614501,
+  "NM_MUN": "Surubim",
+  "cod_Mun_Sudene": 2614501
+ },
+ {
+  "CD_MUN": 2614600,
+  "NM_MUN": "Tabira",
+  "cod_Mun_Sudene": 2614600
+ },
+ {
+  "CD_MUN": 2614709,
+  "NM_MUN": "Tacaimbó",
+  "cod_Mun_Sudene": 2614709
+ },
+ {
+  "CD_MUN": 2614808,
+  "NM_MUN": "Tacaratu",
+  "cod_Mun_Sudene": 2614808
+ },
+ {
+  "CD_MUN": 2614857,
+  "NM_MUN": "Tamandaré",
+  "cod_Mun_Sudene": 2614857
+ },
+ {
+  "CD_MUN": 2615003,
+  "NM_MUN": "Taquaritinga do Norte",
+  "cod_Mun_Sudene": 2615003
+ },
+ {
+  "CD_MUN": 2615102,
+  "NM_MUN": "Terezinha",
+  "cod_Mun_Sudene": 2615102
+ },
+ {
+  "CD_MUN": 2615201,
+  "NM_MUN": "Terra Nova",
+  "cod_Mun_Sudene": 2615201
+ },
+ {
+  "CD_MUN": 2615300,
+  "NM_MUN": "Timbaúba",
+  "cod_Mun_Sudene": 2615300
+ },
+ {
+  "CD_MUN": 2615409,
+  "NM_MUN": "Toritama",
+  "cod_Mun_Sudene": 2615409
+ },
+ {
+  "CD_MUN": 2615508,
+  "NM_MUN": "Tracunhaém",
+  "cod_Mun_Sudene": 2615508
+ },
+ {
+  "CD_MUN": 2615607,
+  "NM_MUN": "Trindade",
+  "cod_Mun_Sudene": 2615607
+ },
+ {
+  "CD_MUN": 2615706,
+  "NM_MUN": "Triunfo",
+  "cod_Mun_Sudene": 2615706
+ },
+ {
+  "CD_MUN": 2615805,
+  "NM_MUN": "Tupanatinga",
+  "cod_Mun_Sudene": 2615805
+ },
+ {
+  "CD_MUN": 2615904,
+  "NM_MUN": "Tuparetama",
+  "cod_Mun_Sudene": 2615904
+ },
+ {
+  "CD_MUN": 2616001,
+  "NM_MUN": "Venturosa",
+  "cod_Mun_Sudene": 2616001
+ },
+ {
+  "CD_MUN": 2616100,
+  "NM_MUN": "Verdejante",
+  "cod_Mun_Sudene": 2616100
+ },
+ {
+  "CD_MUN": 2616183,
+  "NM_MUN": "Vertente do Lério",
+  "cod_Mun_Sudene": 2616183
+ },
+ {
+  "CD_MUN": 2616209,
+  "NM_MUN": "Vertentes",
+  "cod_Mun_Sudene": 2616209
+ },
+ {
+  "CD_MUN": 2616308,
+  "NM_MUN": "Vicência",
+  "cod_Mun_Sudene": 2616308
+ },
+ {
+  "CD_MUN": 2616407,
+  "NM_MUN": "Vitória de Santo Antão",
+  "cod_Mun_Sudene": 2616407
+ },
+ {
+  "CD_MUN": 2616506,
+  "NM_MUN": "Xexéu",
+  "cod_Mun_Sudene": 2616506
+ },
+ {
+  "CD_MUN": 2700102,
+  "NM_MUN": "Água Branca",
+  "cod_Mun_Sudene": 2700102
+ },
+ {
+  "CD_MUN": 2700201,
+  "NM_MUN": "Anadia",
+  "cod_Mun_Sudene": 2700201
+ },
+ {
+  "CD_MUN": 2700300,
+  "NM_MUN": "Arapiraca",
+  "cod_Mun_Sudene": 2700300
+ },
+ {
+  "CD_MUN": 2700409,
+  "NM_MUN": "Atalaia",
+  "cod_Mun_Sudene": 2700409
+ },
+ {
+  "CD_MUN": 2700508,
+  "NM_MUN": "Barra de Santo Antônio",
+  "cod_Mun_Sudene": 2700508
+ },
+ {
+  "CD_MUN": 2700607,
+  "NM_MUN": "Barra de São Miguel",
+  "cod_Mun_Sudene": 2700607
+ },
+ {
+  "CD_MUN": 2700706,
+  "NM_MUN": "Batalha",
+  "cod_Mun_Sudene": 2700706
+ },
+ {
+  "CD_MUN": 2700805,
+  "NM_MUN": "Belém",
+  "cod_Mun_Sudene": 2700805
+ },
+ {
+  "CD_MUN": 2700904,
+  "NM_MUN": "Belo Monte",
+  "cod_Mun_Sudene": 2700904
+ },
+ {
+  "CD_MUN": 2701001,
+  "NM_MUN": "Boca da Mata",
+  "cod_Mun_Sudene": 2701001
+ },
+ {
+  "CD_MUN": 2701100,
+  "NM_MUN": "Branquinha",
+  "cod_Mun_Sudene": 2701100
+ },
+ {
+  "CD_MUN": 2701209,
+  "NM_MUN": "Cacimbinhas",
+  "cod_Mun_Sudene": 2701209
+ },
+ {
+  "CD_MUN": 2701308,
+  "NM_MUN": "Cajueiro",
+  "cod_Mun_Sudene": 2701308
+ },
+ {
+  "CD_MUN": 2701357,
+  "NM_MUN": "Campestre",
+  "cod_Mun_Sudene": 2701357
+ },
+ {
+  "CD_MUN": 2701407,
+  "NM_MUN": "Campo Alegre",
+  "cod_Mun_Sudene": 2701407
+ },
+ {
+  "CD_MUN": 2701506,
+  "NM_MUN": "Campo Grande",
+  "cod_Mun_Sudene": 2701506
+ },
+ {
+  "CD_MUN": 2701605,
+  "NM_MUN": "Canapi",
+  "cod_Mun_Sudene": 2701605
+ },
+ {
+  "CD_MUN": 2701704,
+  "NM_MUN": "Capela",
+  "cod_Mun_Sudene": 2701704
+ },
+ {
+  "CD_MUN": 2701803,
+  "NM_MUN": "Carneiros",
+  "cod_Mun_Sudene": 2701803
+ },
+ {
+  "CD_MUN": 2701902,
+  "NM_MUN": "Chã Preta",
+  "cod_Mun_Sudene": 2701902
+ },
+ {
+  "CD_MUN": 2702009,
+  "NM_MUN": "Coité do Nóia",
+  "cod_Mun_Sudene": 2702009
+ },
+ {
+  "CD_MUN": 2702108,
+  "NM_MUN": "Colônia Leopoldina",
+  "cod_Mun_Sudene": 2702108
+ },
+ {
+  "CD_MUN": 2702207,
+  "NM_MUN": "Coqueiro Seco",
+  "cod_Mun_Sudene": 2702207
+ },
+ {
+  "CD_MUN": 2702306,
+  "NM_MUN": "Coruripe",
+  "cod_Mun_Sudene": 2702306
+ },
+ {
+  "CD_MUN": 2702355,
+  "NM_MUN": "Craíbas",
+  "cod_Mun_Sudene": 2702355
+ },
+ {
+  "CD_MUN": 2702405,
+  "NM_MUN": "Delmiro Gouveia",
+  "cod_Mun_Sudene": 2702405
+ },
+ {
+  "CD_MUN": 2702504,
+  "NM_MUN": "Dois Riachos",
+  "cod_Mun_Sudene": 2702504
+ },
+ {
+  "CD_MUN": 2702553,
+  "NM_MUN": "Estrela de Alagoas",
+  "cod_Mun_Sudene": 2702553
+ },
+ {
+  "CD_MUN": 2702603,
+  "NM_MUN": "Feira Grande",
+  "cod_Mun_Sudene": 2702603
+ },
+ {
+  "CD_MUN": 2702702,
+  "NM_MUN": "Feliz Deserto",
+  "cod_Mun_Sudene": 2702702
+ },
+ {
+  "CD_MUN": 2702801,
+  "NM_MUN": "Flexeiras",
+  "cod_Mun_Sudene": 2702801
+ },
+ {
+  "CD_MUN": 2702900,
+  "NM_MUN": "Girau do Ponciano",
+  "cod_Mun_Sudene": 2702900
+ },
+ {
+  "CD_MUN": 2703007,
+  "NM_MUN": "Ibateguara",
+  "cod_Mun_Sudene": 2703007
+ },
+ {
+  "CD_MUN": 2703106,
+  "NM_MUN": "Igaci",
+  "cod_Mun_Sudene": 2703106
+ },
+ {
+  "CD_MUN": 2703205,
+  "NM_MUN": "Igreja Nova",
+  "cod_Mun_Sudene": 2703205
+ },
+ {
+  "CD_MUN": 2703304,
+  "NM_MUN": "Inhapi",
+  "cod_Mun_Sudene": 2703304
+ },
+ {
+  "CD_MUN": 2703403,
+  "NM_MUN": "Jacaré dos Homens",
+  "cod_Mun_Sudene": 2703403
+ },
+ {
+  "CD_MUN": 2703502,
+  "NM_MUN": "Jacuípe",
+  "cod_Mun_Sudene": 2703502
+ },
+ {
+  "CD_MUN": 2703601,
+  "NM_MUN": "Japaratinga",
+  "cod_Mun_Sudene": 2703601
+ },
+ {
+  "CD_MUN": 2703700,
+  "NM_MUN": "Jaramataia",
+  "cod_Mun_Sudene": 2703700
+ },
+ {
+  "CD_MUN": 2703759,
+  "NM_MUN": "Jequiá da Praia",
+  "cod_Mun_Sudene": 2703759
+ },
+ {
+  "CD_MUN": 2703809,
+  "NM_MUN": "Joaquim Gomes",
+  "cod_Mun_Sudene": 2703809
+ },
+ {
+  "CD_MUN": 2703908,
+  "NM_MUN": "Jundiá",
+  "cod_Mun_Sudene": 2703908
+ },
+ {
+  "CD_MUN": 2704005,
+  "NM_MUN": "Junqueiro",
+  "cod_Mun_Sudene": 2704005
+ },
+ {
+  "CD_MUN": 2704104,
+  "NM_MUN": "Lagoa da Canoa",
+  "cod_Mun_Sudene": 2704104
+ },
+ {
+  "CD_MUN": 2704203,
+  "NM_MUN": "Limoeiro de Anadia",
+  "cod_Mun_Sudene": 2704203
+ },
+ {
+  "CD_MUN": 2704302,
+  "NM_MUN": "Maceió",
+  "cod_Mun_Sudene": 2704302
+ },
+ {
+  "CD_MUN": 2704401,
+  "NM_MUN": "Major Isidoro",
+  "cod_Mun_Sudene": 2704401
+ },
+ {
+  "CD_MUN": 2704500,
+  "NM_MUN": "Maragogi",
+  "cod_Mun_Sudene": 2704500
+ },
+ {
+  "CD_MUN": 2704609,
+  "NM_MUN": "Maravilha",
+  "cod_Mun_Sudene": 2704609
+ },
+ {
+  "CD_MUN": 2704708,
+  "NM_MUN": "Marechal Deodoro",
+  "cod_Mun_Sudene": 2704708
+ },
+ {
+  "CD_MUN": 2704807,
+  "NM_MUN": "Maribondo",
+  "cod_Mun_Sudene": 2704807
+ },
+ {
+  "CD_MUN": 2704906,
+  "NM_MUN": "Mar Vermelho",
+  "cod_Mun_Sudene": 2704906
+ },
+ {
+  "CD_MUN": 2705002,
+  "NM_MUN": "Mata Grande",
+  "cod_Mun_Sudene": 2705002
+ },
+ {
+  "CD_MUN": 2705101,
+  "NM_MUN": "Matriz de Camaragibe",
+  "cod_Mun_Sudene": 2705101
+ },
+ {
+  "CD_MUN": 2705200,
+  "NM_MUN": "Messias",
+  "cod_Mun_Sudene": 2705200
+ },
+ {
+  "CD_MUN": 2705309,
+  "NM_MUN": "Minador do Negrão",
+  "cod_Mun_Sudene": 2705309
+ },
+ {
+  "CD_MUN": 2705408,
+  "NM_MUN": "Monteirópolis",
+  "cod_Mun_Sudene": 2705408
+ },
+ {
+  "CD_MUN": 2705507,
+  "NM_MUN": "Murici",
+  "cod_Mun_Sudene": 2705507
+ },
+ {
+  "CD_MUN": 2705606,
+  "NM_MUN": "Novo Lino",
+  "cod_Mun_Sudene": 2705606
+ },
+ {
+  "CD_MUN": 2705705,
+  "NM_MUN": "Olho d'Água das Flores",
+  "cod_Mun_Sudene": 2705705
+ },
+ {
+  "CD_MUN": 2705804,
+  "NM_MUN": "Olho d'Água do Casado",
+  "cod_Mun_Sudene": 2705804
+ },
+ {
+  "CD_MUN": 2705903,
+  "NM_MUN": "Olho d'Água Grande",
+  "cod_Mun_Sudene": 2705903
+ },
+ {
+  "CD_MUN": 2706000,
+  "NM_MUN": "Olivença",
+  "cod_Mun_Sudene": 2706000
+ },
+ {
+  "CD_MUN": 2706109,
+  "NM_MUN": "Ouro Branco",
+  "cod_Mun_Sudene": 2706109
+ },
+ {
+  "CD_MUN": 2706208,
+  "NM_MUN": "Palestina",
+  "cod_Mun_Sudene": 2706208
+ },
+ {
+  "CD_MUN": 2706307,
+  "NM_MUN": "Palmeira dos Índios",
+  "cod_Mun_Sudene": 2706307
+ },
+ {
+  "CD_MUN": 2706406,
+  "NM_MUN": "Pão de Açúcar",
+  "cod_Mun_Sudene": 2706406
+ },
+ {
+  "CD_MUN": 2706422,
+  "NM_MUN": "Pariconha",
+  "cod_Mun_Sudene": 2706422
+ },
+ {
+  "CD_MUN": 2706448,
+  "NM_MUN": "Paripueira",
+  "cod_Mun_Sudene": 2706448
+ },
+ {
+  "CD_MUN": 2706505,
+  "NM_MUN": "Passo de Camaragibe",
+  "cod_Mun_Sudene": 2706505
+ },
+ {
+  "CD_MUN": 2706604,
+  "NM_MUN": "Paulo Jacinto",
+  "cod_Mun_Sudene": 2706604
+ },
+ {
+  "CD_MUN": 2706703,
+  "NM_MUN": "Penedo",
+  "cod_Mun_Sudene": 2706703
+ },
+ {
+  "CD_MUN": 2706802,
+  "NM_MUN": "Piaçabuçu",
+  "cod_Mun_Sudene": 2706802
+ },
+ {
+  "CD_MUN": 2706901,
+  "NM_MUN": "Pilar",
+  "cod_Mun_Sudene": 2706901
+ },
+ {
+  "CD_MUN": 2707008,
+  "NM_MUN": "Pindoba",
+  "cod_Mun_Sudene": 2707008
+ },
+ {
+  "CD_MUN": 2707107,
+  "NM_MUN": "Piranhas",
+  "cod_Mun_Sudene": 2707107
+ },
+ {
+  "CD_MUN": 2707206,
+  "NM_MUN": "Poço das Trincheiras",
+  "cod_Mun_Sudene": 2707206
+ },
+ {
+  "CD_MUN": 2707305,
+  "NM_MUN": "Porto Calvo",
+  "cod_Mun_Sudene": 2707305
+ },
+ {
+  "CD_MUN": 2707404,
+  "NM_MUN": "Porto de Pedras",
+  "cod_Mun_Sudene": 2707404
+ },
+ {
+  "CD_MUN": 2707503,
+  "NM_MUN": "Porto Real do Colégio",
+  "cod_Mun_Sudene": 2707503
+ },
+ {
+  "CD_MUN": 2707602,
+  "NM_MUN": "Quebrangulo",
+  "cod_Mun_Sudene": 2707602
+ },
+ {
+  "CD_MUN": 2707701,
+  "NM_MUN": "Rio Largo",
+  "cod_Mun_Sudene": 2707701
+ },
+ {
+  "CD_MUN": 2707800,
+  "NM_MUN": "Roteiro",
+  "cod_Mun_Sudene": 2707800
+ },
+ {
+  "CD_MUN": 2707909,
+  "NM_MUN": "Santa Luzia do Norte",
+  "cod_Mun_Sudene": 2707909
+ },
+ {
+  "CD_MUN": 2708006,
+  "NM_MUN": "Santana do Ipanema",
+  "cod_Mun_Sudene": 2708006
+ },
+ {
+  "CD_MUN": 2708105,
+  "NM_MUN": "Santana do Mundaú",
+  "cod_Mun_Sudene": 2708105
+ },
+ {
+  "CD_MUN": 2708204,
+  "NM_MUN": "São Brás",
+  "cod_Mun_Sudene": 2708204
+ },
+ {
+  "CD_MUN": 2708303,
+  "NM_MUN": "São José da Laje",
+  "cod_Mun_Sudene": 2708303
+ },
+ {
+  "CD_MUN": 2708402,
+  "NM_MUN": "São José da Tapera",
+  "cod_Mun_Sudene": 2708402
+ },
+ {
+  "CD_MUN": 2708501,
+  "NM_MUN": "São Luís do Quitunde",
+  "cod_Mun_Sudene": 2708501
+ },
+ {
+  "CD_MUN": 2708600,
+  "NM_MUN": "São Miguel dos Campos",
+  "cod_Mun_Sudene": 2708600
+ },
+ {
+  "CD_MUN": 2708709,
+  "NM_MUN": "São Miguel dos Milagres",
+  "cod_Mun_Sudene": 2708709
+ },
+ {
+  "CD_MUN": 2708808,
+  "NM_MUN": "São Sebastião",
+  "cod_Mun_Sudene": 2708808
+ },
+ {
+  "CD_MUN": 2708907,
+  "NM_MUN": "Satuba",
+  "cod_Mun_Sudene": 2708907
+ },
+ {
+  "CD_MUN": 2708956,
+  "NM_MUN": "Senador Rui Palmeira",
+  "cod_Mun_Sudene": 2708956
+ },
+ {
+  "CD_MUN": 2709004,
+  "NM_MUN": "Tanque d'Arca",
+  "cod_Mun_Sudene": 2709004
+ },
+ {
+  "CD_MUN": 2709103,
+  "NM_MUN": "Taquarana",
+  "cod_Mun_Sudene": 2709103
+ },
+ {
+  "CD_MUN": 2709152,
+  "NM_MUN": "Teotônio Vilela",
+  "cod_Mun_Sudene": 2709152
+ },
+ {
+  "CD_MUN": 2709202,
+  "NM_MUN": "Traipu",
+  "cod_Mun_Sudene": 2709202
+ },
+ {
+  "CD_MUN": 2709301,
+  "NM_MUN": "União dos Palmares",
+  "cod_Mun_Sudene": 2709301
+ },
+ {
+  "CD_MUN": 2709400,
+  "NM_MUN": "Viçosa",
+  "cod_Mun_Sudene": 2709400
+ },
+ {
+  "CD_MUN": 2800100,
+  "NM_MUN": "Amparo do São Francisco",
+  "cod_Mun_Sudene": 2800100
+ },
+ {
+  "CD_MUN": 2800209,
+  "NM_MUN": "Aquidabã",
+  "cod_Mun_Sudene": 2800209
+ },
+ {
+  "CD_MUN": 2800308,
+  "NM_MUN": "Aracaju",
+  "cod_Mun_Sudene": 2800308
+ },
+ {
+  "CD_MUN": 2800407,
+  "NM_MUN": "Arauá",
+  "cod_Mun_Sudene": 2800407
+ },
+ {
+  "CD_MUN": 2800506,
+  "NM_MUN": "Areia Branca",
+  "cod_Mun_Sudene": 2800506
+ },
+ {
+  "CD_MUN": 2800605,
+  "NM_MUN": "Barra dos Coqueiros",
+  "cod_Mun_Sudene": 2800605
+ },
+ {
+  "CD_MUN": 2800670,
+  "NM_MUN": "Boquim",
+  "cod_Mun_Sudene": 2800670
+ },
+ {
+  "CD_MUN": 2800704,
+  "NM_MUN": "Brejo Grande",
+  "cod_Mun_Sudene": 2800704
+ },
+ {
+  "CD_MUN": 2801009,
+  "NM_MUN": "Campo do Brito",
+  "cod_Mun_Sudene": 2801009
+ },
+ {
+  "CD_MUN": 2801108,
+  "NM_MUN": "Canhoba",
+  "cod_Mun_Sudene": 2801108
+ },
+ {
+  "CD_MUN": 2801207,
+  "NM_MUN": "Canindé de São Francisco",
+  "cod_Mun_Sudene": 2801207
+ },
+ {
+  "CD_MUN": 2801306,
+  "NM_MUN": "Capela",
+  "cod_Mun_Sudene": 2801306
+ },
+ {
+  "CD_MUN": 2801405,
+  "NM_MUN": "Carira",
+  "cod_Mun_Sudene": 2801405
+ },
+ {
+  "CD_MUN": 2801504,
+  "NM_MUN": "Carmópolis",
+  "cod_Mun_Sudene": 2801504
+ },
+ {
+  "CD_MUN": 2801603,
+  "NM_MUN": "Cedro de São João",
+  "cod_Mun_Sudene": 2801603
+ },
+ {
+  "CD_MUN": 2801702,
+  "NM_MUN": "Cristinápolis",
+  "cod_Mun_Sudene": 2801702
+ },
+ {
+  "CD_MUN": 2801900,
+  "NM_MUN": "Cumbe",
+  "cod_Mun_Sudene": 2801900
+ },
+ {
+  "CD_MUN": 2802007,
+  "NM_MUN": "Divina Pastora",
+  "cod_Mun_Sudene": 2802007
+ },
+ {
+  "CD_MUN": 2802106,
+  "NM_MUN": "Estância",
+  "cod_Mun_Sudene": 2802106
+ },
+ {
+  "CD_MUN": 2802205,
+  "NM_MUN": "Feira Nova",
+  "cod_Mun_Sudene": 2802205
+ },
+ {
+  "CD_MUN": 2802304,
+  "NM_MUN": "Frei Paulo",
+  "cod_Mun_Sudene": 2802304
+ },
+ {
+  "CD_MUN": 2802403,
+  "NM_MUN": "Gararu",
+  "cod_Mun_Sudene": 2802403
+ },
+ {
+  "CD_MUN": 2802502,
+  "NM_MUN": "General Maynard",
+  "cod_Mun_Sudene": 2802502
+ },
+ {
+  "CD_MUN": 2802601,
+  "NM_MUN": "Gracho Cardoso",
+  "cod_Mun_Sudene": 2802601
+ },
+ {
+  "CD_MUN": 2802700,
+  "NM_MUN": "Ilha das Flores",
+  "cod_Mun_Sudene": 2802700
+ },
+ {
+  "CD_MUN": 2802809,
+  "NM_MUN": "Indiaroba",
+  "cod_Mun_Sudene": 2802809
+ },
+ {
+  "CD_MUN": 2802908,
+  "NM_MUN": "Itabaiana",
+  "cod_Mun_Sudene": 2802908
+ },
+ {
+  "CD_MUN": 2803005,
+  "NM_MUN": "Itabaianinha",
+  "cod_Mun_Sudene": 2803005
+ },
+ {
+  "CD_MUN": 2803104,
+  "NM_MUN": "Itabi",
+  "cod_Mun_Sudene": 2803104
+ },
+ {
+  "CD_MUN": 2803203,
+  "NM_MUN": "Itaporanga d'Ajuda",
+  "cod_Mun_Sudene": 2803203
+ },
+ {
+  "CD_MUN": 2803302,
+  "NM_MUN": "Japaratuba",
+  "cod_Mun_Sudene": 2803302
+ },
+ {
+  "CD_MUN": 2803401,
+  "NM_MUN": "Japoatã",
+  "cod_Mun_Sudene": 2803401
+ },
+ {
+  "CD_MUN": 2803500,
+  "NM_MUN": "Lagarto",
+  "cod_Mun_Sudene": 2803500
+ },
+ {
+  "CD_MUN": 2803609,
+  "NM_MUN": "Laranjeiras",
+  "cod_Mun_Sudene": 2803609
+ },
+ {
+  "CD_MUN": 2803708,
+  "NM_MUN": "Macambira",
+  "cod_Mun_Sudene": 2803708
+ },
+ {
+  "CD_MUN": 2803807,
+  "NM_MUN": "Malhada dos Bois",
+  "cod_Mun_Sudene": 2803807
+ },
+ {
+  "CD_MUN": 2803906,
+  "NM_MUN": "Malhador",
+  "cod_Mun_Sudene": 2803906
+ },
+ {
+  "CD_MUN": 2804003,
+  "NM_MUN": "Maruim",
+  "cod_Mun_Sudene": 2804003
+ },
+ {
+  "CD_MUN": 2804102,
+  "NM_MUN": "Moita Bonita",
+  "cod_Mun_Sudene": 2804102
+ },
+ {
+  "CD_MUN": 2804201,
+  "NM_MUN": "Monte Alegre de Sergipe",
+  "cod_Mun_Sudene": 2804201
+ },
+ {
+  "CD_MUN": 2804300,
+  "NM_MUN": "Muribeca",
+  "cod_Mun_Sudene": 2804300
+ },
+ {
+  "CD_MUN": 2804409,
+  "NM_MUN": "Neópolis",
+  "cod_Mun_Sudene": 2804409
+ },
+ {
+  "CD_MUN": 2804458,
+  "NM_MUN": "Nossa Senhora Aparecida",
+  "cod_Mun_Sudene": 2804458
+ },
+ {
+  "CD_MUN": 2804508,
+  "NM_MUN": "Nossa Senhora da Glória",
+  "cod_Mun_Sudene": 2804508
+ },
+ {
+  "CD_MUN": 2804607,
+  "NM_MUN": "Nossa Senhora das Dores",
+  "cod_Mun_Sudene": 2804607
+ },
+ {
+  "CD_MUN": 2804706,
+  "NM_MUN": "Nossa Senhora de Lourdes",
+  "cod_Mun_Sudene": 2804706
+ },
+ {
+  "CD_MUN": 2804805,
+  "NM_MUN": "Nossa Senhora do Socorro",
+  "cod_Mun_Sudene": 2804805
+ },
+ {
+  "CD_MUN": 2804904,
+  "NM_MUN": "Pacatuba",
+  "cod_Mun_Sudene": 2804904
+ },
+ {
+  "CD_MUN": 2805000,
+  "NM_MUN": "Pedra Mole",
+  "cod_Mun_Sudene": 2805000
+ },
+ {
+  "CD_MUN": 2805109,
+  "NM_MUN": "Pedrinhas",
+  "cod_Mun_Sudene": 2805109
+ },
+ {
+  "CD_MUN": 2805208,
+  "NM_MUN": "Pinhão",
+  "cod_Mun_Sudene": 2805208
+ },
+ {
+  "CD_MUN": 2805307,
+  "NM_MUN": "Pirambu",
+  "cod_Mun_Sudene": 2805307
+ },
+ {
+  "CD_MUN": 2805406,
+  "NM_MUN": "Poço Redondo",
+  "cod_Mun_Sudene": 2805406
+ },
+ {
+  "CD_MUN": 2805505,
+  "NM_MUN": "Poço Verde",
+  "cod_Mun_Sudene": 2805505
+ },
+ {
+  "CD_MUN": 2805604,
+  "NM_MUN": "Porto da Folha",
+  "cod_Mun_Sudene": 2805604
+ },
+ {
+  "CD_MUN": 2805703,
+  "NM_MUN": "Propriá",
+  "cod_Mun_Sudene": 2805703
+ },
+ {
+  "CD_MUN": 2805802,
+  "NM_MUN": "Riachão do Dantas",
+  "cod_Mun_Sudene": 2805802
+ },
+ {
+  "CD_MUN": 2805901,
+  "NM_MUN": "Riachuelo",
+  "cod_Mun_Sudene": 2805901
+ },
+ {
+  "CD_MUN": 2806008,
+  "NM_MUN": "Ribeirópolis",
+  "cod_Mun_Sudene": 2806008
+ },
+ {
+  "CD_MUN": 2806107,
+  "NM_MUN": "Rosário do Catete",
+  "cod_Mun_Sudene": 2806107
+ },
+ {
+  "CD_MUN": 2806206,
+  "NM_MUN": "Salgado",
+  "cod_Mun_Sudene": 2806206
+ },
+ {
+  "CD_MUN": 2806305,
+  "NM_MUN": "Santa Luzia do Itanhy",
+  "cod_Mun_Sudene": 2806305
+ },
+ {
+  "CD_MUN": 2806404,
+  "NM_MUN": "Santana do São Francisco",
+  "cod_Mun_Sudene": 2806404
+ },
+ {
+  "CD_MUN": 2806503,
+  "NM_MUN": "Santa Rosa de Lima",
+  "cod_Mun_Sudene": 2806503
+ },
+ {
+  "CD_MUN": 2806602,
+  "NM_MUN": "Santo Amaro das Brotas",
+  "cod_Mun_Sudene": 2806602
+ },
+ {
+  "CD_MUN": 2806701,
+  "NM_MUN": "São Cristóvão",
+  "cod_Mun_Sudene": 2806701
+ },
+ {
+  "CD_MUN": 2806800,
+  "NM_MUN": "São Domingos",
+  "cod_Mun_Sudene": 2806800
+ },
+ {
+  "CD_MUN": 2806909,
+  "NM_MUN": "São Francisco",
+  "cod_Mun_Sudene": 2806909
+ },
+ {
+  "CD_MUN": 2807006,
+  "NM_MUN": "São Miguel do Aleixo",
+  "cod_Mun_Sudene": 2807006
+ },
+ {
+  "CD_MUN": 2807105,
+  "NM_MUN": "Simão Dias",
+  "cod_Mun_Sudene": 2807105
+ },
+ {
+  "CD_MUN": 2807204,
+  "NM_MUN": "Siriri",
+  "cod_Mun_Sudene": 2807204
+ },
+ {
+  "CD_MUN": 2807303,
+  "NM_MUN": "Telha",
+  "cod_Mun_Sudene": 2807303
+ },
+ {
+  "CD_MUN": 2807402,
+  "NM_MUN": "Tobias Barreto",
+  "cod_Mun_Sudene": 2807402
+ },
+ {
+  "CD_MUN": 2807501,
+  "NM_MUN": "Tomar do Geru",
+  "cod_Mun_Sudene": 2807501
+ },
+ {
+  "CD_MUN": 2807600,
+  "NM_MUN": "Umbaúba",
+  "cod_Mun_Sudene": 2807600
+ },
+ {
+  "CD_MUN": 2900108,
+  "NM_MUN": "Abaíra",
+  "cod_Mun_Sudene": 2900108
+ },
+ {
+  "CD_MUN": 2900207,
+  "NM_MUN": "Abaré",
+  "cod_Mun_Sudene": 2900207
+ },
+ {
+  "CD_MUN": 2900306,
+  "NM_MUN": "Acajutiba",
+  "cod_Mun_Sudene": 2900306
+ },
+ {
+  "CD_MUN": 2900355,
+  "NM_MUN": "Adustina",
+  "cod_Mun_Sudene": 2900355
+ },
+ {
+  "CD_MUN": 2900405,
+  "NM_MUN": "Água Fria",
+  "cod_Mun_Sudene": 2900405
+ },
+ {
+  "CD_MUN": 2900504,
+  "NM_MUN": "Érico Cardoso",
+  "cod_Mun_Sudene": 2900504
+ },
+ {
+  "CD_MUN": 2900603,
+  "NM_MUN": "Aiquara",
+  "cod_Mun_Sudene": 2900603
+ },
+ {
+  "CD_MUN": 2900702,
+  "NM_MUN": "Alagoinhas",
+  "cod_Mun_Sudene": 2900702
+ },
+ {
+  "CD_MUN": 2900801,
+  "NM_MUN": "Alcobaça",
+  "cod_Mun_Sudene": 2900801
+ },
+ {
+  "CD_MUN": 2900900,
+  "NM_MUN": "Almadina",
+  "cod_Mun_Sudene": 2900900
+ },
+ {
+  "CD_MUN": 2901007,
+  "NM_MUN": "Amargosa",
+  "cod_Mun_Sudene": 2901007
+ },
+ {
+  "CD_MUN": 2901106,
+  "NM_MUN": "Amélia Rodrigues",
+  "cod_Mun_Sudene": 2901106
+ },
+ {
+  "CD_MUN": 2901155,
+  "NM_MUN": "América Dourada",
+  "cod_Mun_Sudene": 2901155
+ },
+ {
+  "CD_MUN": 2901205,
+  "NM_MUN": "Anagé",
+  "cod_Mun_Sudene": 2901205
+ },
+ {
+  "CD_MUN": 2901304,
+  "NM_MUN": "Andaraí",
+  "cod_Mun_Sudene": 2901304
+ },
+ {
+  "CD_MUN": 2901353,
+  "NM_MUN": "Andorinha",
+  "cod_Mun_Sudene": 2901353
+ },
+ {
+  "CD_MUN": 2901403,
+  "NM_MUN": "Angical",
+  "cod_Mun_Sudene": 2901403
+ },
+ {
+  "CD_MUN": 2901502,
+  "NM_MUN": "Anguera",
+  "cod_Mun_Sudene": 2901502
+ },
+ {
+  "CD_MUN": 2901601,
+  "NM_MUN": "Antas",
+  "cod_Mun_Sudene": 2901601
+ },
+ {
+  "CD_MUN": 2901700,
+  "NM_MUN": "Antônio Cardoso",
+  "cod_Mun_Sudene": 2901700
+ },
+ {
+  "CD_MUN": 2901809,
+  "NM_MUN": "Antônio Gonçalves",
+  "cod_Mun_Sudene": 2901809
+ },
+ {
+  "CD_MUN": 2901908,
+  "NM_MUN": "Aporá",
+  "cod_Mun_Sudene": 2901908
+ },
+ {
+  "CD_MUN": 2901957,
+  "NM_MUN": "Apuarema",
+  "cod_Mun_Sudene": 2901957
+ },
+ {
+  "CD_MUN": 2902005,
+  "NM_MUN": "Aracatu",
+  "cod_Mun_Sudene": 2902005
+ },
+ {
+  "CD_MUN": 2902054,
+  "NM_MUN": "Araçás",
+  "cod_Mun_Sudene": 2902054
+ },
+ {
+  "CD_MUN": 2902104,
+  "NM_MUN": "Araci",
+  "cod_Mun_Sudene": 2902104
+ },
+ {
+  "CD_MUN": 2902203,
+  "NM_MUN": "Aramari",
+  "cod_Mun_Sudene": 2902203
+ },
+ {
+  "CD_MUN": 2902252,
+  "NM_MUN": "Arataca",
+  "cod_Mun_Sudene": 2902252
+ },
+ {
+  "CD_MUN": 2902302,
+  "NM_MUN": "Aratuípe",
+  "cod_Mun_Sudene": 2902302
+ },
+ {
+  "CD_MUN": 2902401,
+  "NM_MUN": "Aurelino Leal",
+  "cod_Mun_Sudene": 2902401
+ },
+ {
+  "CD_MUN": 2902500,
+  "NM_MUN": "Baianópolis",
+  "cod_Mun_Sudene": 2902500
+ },
+ {
+  "CD_MUN": 2902609,
+  "NM_MUN": "Baixa Grande",
+  "cod_Mun_Sudene": 2902609
+ },
+ {
+  "CD_MUN": 2902658,
+  "NM_MUN": "Banzaê",
+  "cod_Mun_Sudene": 2902658
+ },
+ {
+  "CD_MUN": 2902708,
+  "NM_MUN": "Barra",
+  "cod_Mun_Sudene": 2902708
+ },
+ {
+  "CD_MUN": 2902807,
+  "NM_MUN": "Barra da Estiva",
+  "cod_Mun_Sudene": 2902807
+ },
+ {
+  "CD_MUN": 2902906,
+  "NM_MUN": "Barra do Choça",
+  "cod_Mun_Sudene": 2902906
+ },
+ {
+  "CD_MUN": 2903003,
+  "NM_MUN": "Barra do Mendes",
+  "cod_Mun_Sudene": 2903003
+ },
+ {
+  "CD_MUN": 2903102,
+  "NM_MUN": "Barra do Rocha",
+  "cod_Mun_Sudene": 2903102
+ },
+ {
+  "CD_MUN": 2903201,
+  "NM_MUN": "Barreiras",
+  "cod_Mun_Sudene": 2903201
+ },
+ {
+  "CD_MUN": 2903235,
+  "NM_MUN": "Barro Alto",
+  "cod_Mun_Sudene": 2903235
+ },
+ {
+  "CD_MUN": 2903276,
+  "NM_MUN": "Barrocas",
+  "cod_Mun_Sudene": 2903276
+ },
+ {
+  "CD_MUN": 2903300,
+  "NM_MUN": "Barro Preto",
+  "cod_Mun_Sudene": 2903300
+ },
+ {
+  "CD_MUN": 2903409,
+  "NM_MUN": "Belmonte",
+  "cod_Mun_Sudene": 2903409
+ },
+ {
+  "CD_MUN": 2903508,
+  "NM_MUN": "Belo Campo",
+  "cod_Mun_Sudene": 2903508
+ },
+ {
+  "CD_MUN": 2903607,
+  "NM_MUN": "Biritinga",
+  "cod_Mun_Sudene": 2903607
+ },
+ {
+  "CD_MUN": 2903706,
+  "NM_MUN": "Boa Nova",
+  "cod_Mun_Sudene": 2903706
+ },
+ {
+  "CD_MUN": 2903805,
+  "NM_MUN": "Boa Vista do Tupim",
+  "cod_Mun_Sudene": 2903805
+ },
+ {
+  "CD_MUN": 2903904,
+  "NM_MUN": "Bom Jesus da Lapa",
+  "cod_Mun_Sudene": 2903904
+ },
+ {
+  "CD_MUN": 2903953,
+  "NM_MUN": "Bom Jesus da Serra",
+  "cod_Mun_Sudene": 2903953
+ },
+ {
+  "CD_MUN": 2904001,
+  "NM_MUN": "Boninal",
+  "cod_Mun_Sudene": 2904001
+ },
+ {
+  "CD_MUN": 2904050,
+  "NM_MUN": "Bonito",
+  "cod_Mun_Sudene": 2904050
+ },
+ {
+  "CD_MUN": 2904100,
+  "NM_MUN": "Boquira",
+  "cod_Mun_Sudene": 2904100
+ },
+ {
+  "CD_MUN": 2904209,
+  "NM_MUN": "Botuporã",
+  "cod_Mun_Sudene": 2904209
+ },
+ {
+  "CD_MUN": 2904308,
+  "NM_MUN": "Brejões",
+  "cod_Mun_Sudene": 2904308
+ },
+ {
+  "CD_MUN": 2904407,
+  "NM_MUN": "Brejolândia",
+  "cod_Mun_Sudene": 2904407
+ },
+ {
+  "CD_MUN": 2904506,
+  "NM_MUN": "Brotas de Macaúbas",
+  "cod_Mun_Sudene": 2904506
+ },
+ {
+  "CD_MUN": 2904605,
+  "NM_MUN": "Brumado",
+  "cod_Mun_Sudene": 2904605
+ },
+ {
+  "CD_MUN": 2904704,
+  "NM_MUN": "Buerarema",
+  "cod_Mun_Sudene": 2904704
+ },
+ {
+  "CD_MUN": 2904753,
+  "NM_MUN": "Buritirama",
+  "cod_Mun_Sudene": 2904753
+ },
+ {
+  "CD_MUN": 2904803,
+  "NM_MUN": "Caatiba",
+  "cod_Mun_Sudene": 2904803
+ },
+ {
+  "CD_MUN": 2904852,
+  "NM_MUN": "Cabaceiras do Paraguaçu",
+  "cod_Mun_Sudene": 2904852
+ },
+ {
+  "CD_MUN": 2904902,
+  "NM_MUN": "Cachoeira",
+  "cod_Mun_Sudene": 2904902
+ },
+ {
+  "CD_MUN": 2905008,
+  "NM_MUN": "Caculé",
+  "cod_Mun_Sudene": 2905008
+ },
+ {
+  "CD_MUN": 2905107,
+  "NM_MUN": "Caém",
+  "cod_Mun_Sudene": 2905107
+ },
+ {
+  "CD_MUN": 2905156,
+  "NM_MUN": "Caetanos",
+  "cod_Mun_Sudene": 2905156
+ },
+ {
+  "CD_MUN": 2905206,
+  "NM_MUN": "Caetité",
+  "cod_Mun_Sudene": 2905206
+ },
+ {
+  "CD_MUN": 2905305,
+  "NM_MUN": "Cafarnaum",
+  "cod_Mun_Sudene": 2905305
+ },
+ {
+  "CD_MUN": 2905404,
+  "NM_MUN": "Cairu",
+  "cod_Mun_Sudene": 2905404
+ },
+ {
+  "CD_MUN": 2905503,
+  "NM_MUN": "Caldeirão Grande",
+  "cod_Mun_Sudene": 2905503
+ },
+ {
+  "CD_MUN": 2905602,
+  "NM_MUN": "Camacan",
+  "cod_Mun_Sudene": 2905602
+ },
+ {
+  "CD_MUN": 2905701,
+  "NM_MUN": "Camaçari",
+  "cod_Mun_Sudene": 2905701
+ },
+ {
+  "CD_MUN": 2905800,
+  "NM_MUN": "Camamu",
+  "cod_Mun_Sudene": 2905800
+ },
+ {
+  "CD_MUN": 2905909,
+  "NM_MUN": "Campo Alegre de Lourdes",
+  "cod_Mun_Sudene": 2905909
+ },
+ {
+  "CD_MUN": 2906006,
+  "NM_MUN": "Campo Formoso",
+  "cod_Mun_Sudene": 2906006
+ },
+ {
+  "CD_MUN": 2906105,
+  "NM_MUN": "Canápolis",
+  "cod_Mun_Sudene": 2906105
+ },
+ {
+  "CD_MUN": 2906204,
+  "NM_MUN": "Canarana",
+  "cod_Mun_Sudene": 2906204
+ },
+ {
+  "CD_MUN": 2906303,
+  "NM_MUN": "Canavieiras",
+  "cod_Mun_Sudene": 2906303
+ },
+ {
+  "CD_MUN": 2906402,
+  "NM_MUN": "Candeal",
+  "cod_Mun_Sudene": 2906402
+ },
+ {
+  "CD_MUN": 2906501,
+  "NM_MUN": "Candeias",
+  "cod_Mun_Sudene": 2906501
+ },
+ {
+  "CD_MUN": 2906600,
+  "NM_MUN": "Candiba",
+  "cod_Mun_Sudene": 2906600
+ },
+ {
+  "CD_MUN": 2906709,
+  "NM_MUN": "Cândido Sales",
+  "cod_Mun_Sudene": 2906709
+ },
+ {
+  "CD_MUN": 2906808,
+  "NM_MUN": "Cansanção",
+  "cod_Mun_Sudene": 2906808
+ },
+ {
+  "CD_MUN": 2906824,
+  "NM_MUN": "Canudos",
+  "cod_Mun_Sudene": 2906824
+ },
+ {
+  "CD_MUN": 2906857,
+  "NM_MUN": "Capela do Alto Alegre",
+  "cod_Mun_Sudene": 2906857
+ },
+ {
+  "CD_MUN": 2906873,
+  "NM_MUN": "Capim Grosso",
+  "cod_Mun_Sudene": 2906873
+ },
+ {
+  "CD_MUN": 2906899,
+  "NM_MUN": "Caraíbas",
+  "cod_Mun_Sudene": 2906899
+ },
+ {
+  "CD_MUN": 2906907,
+  "NM_MUN": "Caravelas",
+  "cod_Mun_Sudene": 2906907
+ },
+ {
+  "CD_MUN": 2907004,
+  "NM_MUN": "Cardeal da Silva",
+  "cod_Mun_Sudene": 2907004
+ },
+ {
+  "CD_MUN": 2907103,
+  "NM_MUN": "Carinhanha",
+  "cod_Mun_Sudene": 2907103
+ },
+ {
+  "CD_MUN": 2907202,
+  "NM_MUN": "Casa Nova",
+  "cod_Mun_Sudene": 2907202
+ },
+ {
+  "CD_MUN": 2907301,
+  "NM_MUN": "Castro Alves",
+  "cod_Mun_Sudene": 2907301
+ },
+ {
+  "CD_MUN": 2907400,
+  "NM_MUN": "Catolândia",
+  "cod_Mun_Sudene": 2907400
+ },
+ {
+  "CD_MUN": 2907509,
+  "NM_MUN": "Catu",
+  "cod_Mun_Sudene": 2907509
+ },
+ {
+  "CD_MUN": 2907558,
+  "NM_MUN": "Caturama",
+  "cod_Mun_Sudene": 2907558
+ },
+ {
+  "CD_MUN": 2907608,
+  "NM_MUN": "Central",
+  "cod_Mun_Sudene": 2907608
+ },
+ {
+  "CD_MUN": 2907707,
+  "NM_MUN": "Chorrochó",
+  "cod_Mun_Sudene": 2907707
+ },
+ {
+  "CD_MUN": 2907806,
+  "NM_MUN": "Cícero Dantas",
+  "cod_Mun_Sudene": 2907806
+ },
+ {
+  "CD_MUN": 2907905,
+  "NM_MUN": "Cipó",
+  "cod_Mun_Sudene": 2907905
+ },
+ {
+  "CD_MUN": 2908002,
+  "NM_MUN": "Coaraci",
+  "cod_Mun_Sudene": 2908002
+ },
+ {
+  "CD_MUN": 2908101,
+  "NM_MUN": "Cocos",
+  "cod_Mun_Sudene": 2908101
+ },
+ {
+  "CD_MUN": 2908200,
+  "NM_MUN": "Conceição da Feira",
+  "cod_Mun_Sudene": 2908200
+ },
+ {
+  "CD_MUN": 2908309,
+  "NM_MUN": "Conceição do Almeida",
+  "cod_Mun_Sudene": 2908309
+ },
+ {
+  "CD_MUN": 2908408,
+  "NM_MUN": "Conceição do Coité",
+  "cod_Mun_Sudene": 2908408
+ },
+ {
+  "CD_MUN": 2908507,
+  "NM_MUN": "Conceição do Jacuípe",
+  "cod_Mun_Sudene": 2908507
+ },
+ {
+  "CD_MUN": 2908606,
+  "NM_MUN": "Conde",
+  "cod_Mun_Sudene": 2908606
+ },
+ {
+  "CD_MUN": 2908705,
+  "NM_MUN": "Condeúba",
+  "cod_Mun_Sudene": 2908705
+ },
+ {
+  "CD_MUN": 2908804,
+  "NM_MUN": "Contendas do Sincorá",
+  "cod_Mun_Sudene": 2908804
+ },
+ {
+  "CD_MUN": 2908903,
+  "NM_MUN": "Coração de Maria",
+  "cod_Mun_Sudene": 2908903
+ },
+ {
+  "CD_MUN": 2909000,
+  "NM_MUN": "Cordeiros",
+  "cod_Mun_Sudene": 2909000
+ },
+ {
+  "CD_MUN": 2909109,
+  "NM_MUN": "Coribe",
+  "cod_Mun_Sudene": 2909109
+ },
+ {
+  "CD_MUN": 2909208,
+  "NM_MUN": "Coronel João Sá",
+  "cod_Mun_Sudene": 2909208
+ },
+ {
+  "CD_MUN": 2909307,
+  "NM_MUN": "Correntina",
+  "cod_Mun_Sudene": 2909307
+ },
+ {
+  "CD_MUN": 2909406,
+  "NM_MUN": "Cotegipe",
+  "cod_Mun_Sudene": 2909406
+ },
+ {
+  "CD_MUN": 2909505,
+  "NM_MUN": "Cravolândia",
+  "cod_Mun_Sudene": 2909505
+ },
+ {
+  "CD_MUN": 2909604,
+  "NM_MUN": "Crisópolis",
+  "cod_Mun_Sudene": 2909604
+ },
+ {
+  "CD_MUN": 2909703,
+  "NM_MUN": "Cristópolis",
+  "cod_Mun_Sudene": 2909703
+ },
+ {
+  "CD_MUN": 2909802,
+  "NM_MUN": "Cruz das Almas",
+  "cod_Mun_Sudene": 2909802
+ },
+ {
+  "CD_MUN": 2909901,
+  "NM_MUN": "Curaçá",
+  "cod_Mun_Sudene": 2909901
+ },
+ {
+  "CD_MUN": 2910008,
+  "NM_MUN": "Dário Meira",
+  "cod_Mun_Sudene": 2910008
+ },
+ {
+  "CD_MUN": 2910057,
+  "NM_MUN": "Dias d'Ávila",
+  "cod_Mun_Sudene": 2910057
+ },
+ {
+  "CD_MUN": 2910107,
+  "NM_MUN": "Dom Basílio",
+  "cod_Mun_Sudene": 2910107
+ },
+ {
+  "CD_MUN": 2910206,
+  "NM_MUN": "Dom Macedo Costa",
+  "cod_Mun_Sudene": 2910206
+ },
+ {
+  "CD_MUN": 2910305,
+  "NM_MUN": "Elísio Medrado",
+  "cod_Mun_Sudene": 2910305
+ },
+ {
+  "CD_MUN": 2910404,
+  "NM_MUN": "Encruzilhada",
+  "cod_Mun_Sudene": 2910404
+ },
+ {
+  "CD_MUN": 2910503,
+  "NM_MUN": "Entre Rios",
+  "cod_Mun_Sudene": 2910503
+ },
+ {
+  "CD_MUN": 2910602,
+  "NM_MUN": "Esplanada",
+  "cod_Mun_Sudene": 2910602
+ },
+ {
+  "CD_MUN": 2910701,
+  "NM_MUN": "Euclides da Cunha",
+  "cod_Mun_Sudene": 2910701
+ },
+ {
+  "CD_MUN": 2910727,
+  "NM_MUN": "Eunápolis",
+  "cod_Mun_Sudene": 2910727
+ },
+ {
+  "CD_MUN": 2910750,
+  "NM_MUN": "Fátima",
+  "cod_Mun_Sudene": 2910750
+ },
+ {
+  "CD_MUN": 2910776,
+  "NM_MUN": "Feira da Mata",
+  "cod_Mun_Sudene": 2910776
+ },
+ {
+  "CD_MUN": 2910800,
+  "NM_MUN": "Feira de Santana",
+  "cod_Mun_Sudene": 2910800
+ },
+ {
+  "CD_MUN": 2910859,
+  "NM_MUN": "Filadélfia",
+  "cod_Mun_Sudene": 2910859
+ },
+ {
+  "CD_MUN": 2910909,
+  "NM_MUN": "Firmino Alves",
+  "cod_Mun_Sudene": 2910909
+ },
+ {
+  "CD_MUN": 2911006,
+  "NM_MUN": "Floresta Azul",
+  "cod_Mun_Sudene": 2911006
+ },
+ {
+  "CD_MUN": 2911105,
+  "NM_MUN": "Formosa do Rio Preto",
+  "cod_Mun_Sudene": 2911105
+ },
+ {
+  "CD_MUN": 2911204,
+  "NM_MUN": "Gandu",
+  "cod_Mun_Sudene": 2911204
+ },
+ {
+  "CD_MUN": 2911253,
+  "NM_MUN": "Gavião",
+  "cod_Mun_Sudene": 2911253
+ },
+ {
+  "CD_MUN": 2911303,
+  "NM_MUN": "Gentio do Ouro",
+  "cod_Mun_Sudene": 2911303
+ },
+ {
+  "CD_MUN": 2911402,
+  "NM_MUN": "Glória",
+  "cod_Mun_Sudene": 2911402
+ },
+ {
+  "CD_MUN": 2911501,
+  "NM_MUN": "Gongogi",
+  "cod_Mun_Sudene": 2911501
+ },
+ {
+  "CD_MUN": 2911600,
+  "NM_MUN": "Governador Mangabeira",
+  "cod_Mun_Sudene": 2911600
+ },
+ {
+  "CD_MUN": 2911659,
+  "NM_MUN": "Guajeru",
+  "cod_Mun_Sudene": 2911659
+ },
+ {
+  "CD_MUN": 2911709,
+  "NM_MUN": "Guanambi",
+  "cod_Mun_Sudene": 2911709
+ },
+ {
+  "CD_MUN": 2911808,
+  "NM_MUN": "Guaratinga",
+  "cod_Mun_Sudene": 2911808
+ },
+ {
+  "CD_MUN": 2911857,
+  "NM_MUN": "Heliópolis",
+  "cod_Mun_Sudene": 2911857
+ },
+ {
+  "CD_MUN": 2911907,
+  "NM_MUN": "Iaçu",
+  "cod_Mun_Sudene": 2911907
+ },
+ {
+  "CD_MUN": 2912004,
+  "NM_MUN": "Ibiassucê",
+  "cod_Mun_Sudene": 2912004
+ },
+ {
+  "CD_MUN": 2912103,
+  "NM_MUN": "Ibicaraí",
+  "cod_Mun_Sudene": 2912103
+ },
+ {
+  "CD_MUN": 2912202,
+  "NM_MUN": "Ibicoara",
+  "cod_Mun_Sudene": 2912202
+ },
+ {
+  "CD_MUN": 2912301,
+  "NM_MUN": "Ibicuí",
+  "cod_Mun_Sudene": 2912301
+ },
+ {
+  "CD_MUN": 2912400,
+  "NM_MUN": "Ibipeba",
+  "cod_Mun_Sudene": 2912400
+ },
+ {
+  "CD_MUN": 2912509,
+  "NM_MUN": "Ibipitanga",
+  "cod_Mun_Sudene": 2912509
+ },
+ {
+  "CD_MUN": 2912608,
+  "NM_MUN": "Ibiquera",
+  "cod_Mun_Sudene": 2912608
+ },
+ {
+  "CD_MUN": 2912707,
+  "NM_MUN": "Ibirapitanga",
+  "cod_Mun_Sudene": 2912707
+ },
+ {
+  "CD_MUN": 2912806,
+  "NM_MUN": "Ibirapuã",
+  "cod_Mun_Sudene": 2912806
+ },
+ {
+  "CD_MUN": 2912905,
+  "NM_MUN": "Ibirataia",
+  "cod_Mun_Sudene": 2912905
+ },
+ {
+  "CD_MUN": 2913002,
+  "NM_MUN": "Ibitiara",
+  "cod_Mun_Sudene": 2913002
+ },
+ {
+  "CD_MUN": 2913101,
+  "NM_MUN": "Ibititá",
+  "cod_Mun_Sudene": 2913101
+ },
+ {
+  "CD_MUN": 2913200,
+  "NM_MUN": "Ibotirama",
+  "cod_Mun_Sudene": 2913200
+ },
+ {
+  "CD_MUN": 2913309,
+  "NM_MUN": "Ichu",
+  "cod_Mun_Sudene": 2913309
+ },
+ {
+  "CD_MUN": 2913408,
+  "NM_MUN": "Igaporã",
+  "cod_Mun_Sudene": 2913408
+ },
+ {
+  "CD_MUN": 2913457,
+  "NM_MUN": "Igrapiúna",
+  "cod_Mun_Sudene": 2913457
+ },
+ {
+  "CD_MUN": 2913507,
+  "NM_MUN": "Iguaí",
+  "cod_Mun_Sudene": 2913507
+ },
+ {
+  "CD_MUN": 2913606,
+  "NM_MUN": "Ilhéus",
+  "cod_Mun_Sudene": 2913606
+ },
+ {
+  "CD_MUN": 2913705,
+  "NM_MUN": "Inhambupe",
+  "cod_Mun_Sudene": 2913705
+ },
+ {
+  "CD_MUN": 2913804,
+  "NM_MUN": "Ipecaetá",
+  "cod_Mun_Sudene": 2913804
+ },
+ {
+  "CD_MUN": 2913903,
+  "NM_MUN": "Ipiaú",
+  "cod_Mun_Sudene": 2913903
+ },
+ {
+  "CD_MUN": 2914000,
+  "NM_MUN": "Ipirá",
+  "cod_Mun_Sudene": 2914000
+ },
+ {
+  "CD_MUN": 2914109,
+  "NM_MUN": "Ipupiara",
+  "cod_Mun_Sudene": 2914109
+ },
+ {
+  "CD_MUN": 2914208,
+  "NM_MUN": "Irajuba",
+  "cod_Mun_Sudene": 2914208
+ },
+ {
+  "CD_MUN": 2914307,
+  "NM_MUN": "Iramaia",
+  "cod_Mun_Sudene": 2914307
+ },
+ {
+  "CD_MUN": 2914406,
+  "NM_MUN": "Iraquara",
+  "cod_Mun_Sudene": 2914406
+ },
+ {
+  "CD_MUN": 2914505,
+  "NM_MUN": "Irará",
+  "cod_Mun_Sudene": 2914505
+ },
+ {
+  "CD_MUN": 2914604,
+  "NM_MUN": "Irecê",
+  "cod_Mun_Sudene": 2914604
+ },
+ {
+  "CD_MUN": 2914653,
+  "NM_MUN": "Itabela",
+  "cod_Mun_Sudene": 2914653
+ },
+ {
+  "CD_MUN": 2914703,
+  "NM_MUN": "Itaberaba",
+  "cod_Mun_Sudene": 2914703
+ },
+ {
+  "CD_MUN": 2914802,
+  "NM_MUN": "Itabuna",
+  "cod_Mun_Sudene": 2914802
+ },
+ {
+  "CD_MUN": 2914901,
+  "NM_MUN": "Itacaré",
+  "cod_Mun_Sudene": 2914901
+ },
+ {
+  "CD_MUN": 2915007,
+  "NM_MUN": "Itaeté",
+  "cod_Mun_Sudene": 2915007
+ },
+ {
+  "CD_MUN": 2915106,
+  "NM_MUN": "Itagi",
+  "cod_Mun_Sudene": 2915106
+ },
+ {
+  "CD_MUN": 2915205,
+  "NM_MUN": "Itagibá",
+  "cod_Mun_Sudene": 2915205
+ },
+ {
+  "CD_MUN": 2915304,
+  "NM_MUN": "Itagimirim",
+  "cod_Mun_Sudene": 2915304
+ },
+ {
+  "CD_MUN": 2915353,
+  "NM_MUN": "Itaguaçu da Bahia",
+  "cod_Mun_Sudene": 2915353
+ },
+ {
+  "CD_MUN": 2915403,
+  "NM_MUN": "Itaju do Colônia",
+  "cod_Mun_Sudene": 2915403
+ },
+ {
+  "CD_MUN": 2915502,
+  "NM_MUN": "Itajuípe",
+  "cod_Mun_Sudene": 2915502
+ },
+ {
+  "CD_MUN": 2915601,
+  "NM_MUN": "Itamaraju",
+  "cod_Mun_Sudene": 2915601
+ },
+ {
+  "CD_MUN": 2915700,
+  "NM_MUN": "Itamari",
+  "cod_Mun_Sudene": 2915700
+ },
+ {
+  "CD_MUN": 2915809,
+  "NM_MUN": "Itambé",
+  "cod_Mun_Sudene": 2915809
+ },
+ {
+  "CD_MUN": 2915908,
+  "NM_MUN": "Itanagra",
+  "cod_Mun_Sudene": 2915908
+ },
+ {
+  "CD_MUN": 2916005,
+  "NM_MUN": "Itanhém",
+  "cod_Mun_Sudene": 2916005
+ },
+ {
+  "CD_MUN": 2916104,
+  "NM_MUN": "Itaparica",
+  "cod_Mun_Sudene": 2916104
+ },
+ {
+  "CD_MUN": 2916203,
+  "NM_MUN": "Itapé",
+  "cod_Mun_Sudene": 2916203
+ },
+ {
+  "CD_MUN": 2916302,
+  "NM_MUN": "Itapebi",
+  "cod_Mun_Sudene": 2916302
+ },
+ {
+  "CD_MUN": 2916401,
+  "NM_MUN": "Itapetinga",
+  "cod_Mun_Sudene": 2916401
+ },
+ {
+  "CD_MUN": 2916500,
+  "NM_MUN": "Itapicuru",
+  "cod_Mun_Sudene": 2916500
+ },
+ {
+  "CD_MUN": 2916609,
+  "NM_MUN": "Itapitanga",
+  "cod_Mun_Sudene": 2916609
+ },
+ {
+  "CD_MUN": 2916708,
+  "NM_MUN": "Itaquara",
+  "cod_Mun_Sudene": 2916708
+ },
+ {
+  "CD_MUN": 2916807,
+  "NM_MUN": "Itarantim",
+  "cod_Mun_Sudene": 2916807
+ },
+ {
+  "CD_MUN": 2916856,
+  "NM_MUN": "Itatim",
+  "cod_Mun_Sudene": 2916856
+ },
+ {
+  "CD_MUN": 2916906,
+  "NM_MUN": "Itiruçu",
+  "cod_Mun_Sudene": 2916906
+ },
+ {
+  "CD_MUN": 2917003,
+  "NM_MUN": "Itiúba",
+  "cod_Mun_Sudene": 2917003
+ },
+ {
+  "CD_MUN": 2917102,
+  "NM_MUN": "Itororó",
+  "cod_Mun_Sudene": 2917102
+ },
+ {
+  "CD_MUN": 2917201,
+  "NM_MUN": "Ituaçu",
+  "cod_Mun_Sudene": 2917201
+ },
+ {
+  "CD_MUN": 2917300,
+  "NM_MUN": "Ituberá",
+  "cod_Mun_Sudene": 2917300
+ },
+ {
+  "CD_MUN": 2917334,
+  "NM_MUN": "Iuiu",
+  "cod_Mun_Sudene": 2917334
+ },
+ {
+  "CD_MUN": 2917359,
+  "NM_MUN": "Jaborandi",
+  "cod_Mun_Sudene": 2917359
+ },
+ {
+  "CD_MUN": 2917409,
+  "NM_MUN": "Jacaraci",
+  "cod_Mun_Sudene": 2917409
+ },
+ {
+  "CD_MUN": 2917508,
+  "NM_MUN": "Jacobina",
+  "cod_Mun_Sudene": 2917508
+ },
+ {
+  "CD_MUN": 2917607,
+  "NM_MUN": "Jaguaquara",
+  "cod_Mun_Sudene": 2917607
+ },
+ {
+  "CD_MUN": 2917706,
+  "NM_MUN": "Jaguarari",
+  "cod_Mun_Sudene": 2917706
+ },
+ {
+  "CD_MUN": 2917805,
+  "NM_MUN": "Jaguaripe",
+  "cod_Mun_Sudene": 2917805
+ },
+ {
+  "CD_MUN": 2917904,
+  "NM_MUN": "Jandaíra",
+  "cod_Mun_Sudene": 2917904
+ },
+ {
+  "CD_MUN": 2918001,
+  "NM_MUN": "Jequié",
+  "cod_Mun_Sudene": 2918001
+ },
+ {
+  "CD_MUN": 2918100,
+  "NM_MUN": "Jeremoabo",
+  "cod_Mun_Sudene": 2918100
+ },
+ {
+  "CD_MUN": 2918209,
+  "NM_MUN": "Jiquiriçá",
+  "cod_Mun_Sudene": 2918209
+ },
+ {
+  "CD_MUN": 2918308,
+  "NM_MUN": "Jitaúna",
+  "cod_Mun_Sudene": 2918308
+ },
+ {
+  "CD_MUN": 2918357,
+  "NM_MUN": "João Dourado",
+  "cod_Mun_Sudene": 2918357
+ },
+ {
+  "CD_MUN": 2918407,
+  "NM_MUN": "Juazeiro",
+  "cod_Mun_Sudene": 2918407
+ },
+ {
+  "CD_MUN": 2918456,
+  "NM_MUN": "Jucuruçu",
+  "cod_Mun_Sudene": 2918456
+ },
+ {
+  "CD_MUN": 2918506,
+  "NM_MUN": "Jussara",
+  "cod_Mun_Sudene": 2918506
+ },
+ {
+  "CD_MUN": 2918555,
+  "NM_MUN": "Jussari",
+  "cod_Mun_Sudene": 2918555
+ },
+ {
+  "CD_MUN": 2918605,
+  "NM_MUN": "Jussiape",
+  "cod_Mun_Sudene": 2918605
+ },
+ {
+  "CD_MUN": 2918704,
+  "NM_MUN": "Lafaiete Coutinho",
+  "cod_Mun_Sudene": 2918704
+ },
+ {
+  "CD_MUN": 2918753,
+  "NM_MUN": "Lagoa Real",
+  "cod_Mun_Sudene": 2918753
+ },
+ {
+  "CD_MUN": 2918803,
+  "NM_MUN": "Laje",
+  "cod_Mun_Sudene": 2918803
+ },
+ {
+  "CD_MUN": 2918902,
+  "NM_MUN": "Lajedão",
+  "cod_Mun_Sudene": 2918902
+ },
+ {
+  "CD_MUN": 2919009,
+  "NM_MUN": "Lajedinho",
+  "cod_Mun_Sudene": 2919009
+ },
+ {
+  "CD_MUN": 2919058,
+  "NM_MUN": "Lajedo do Tabocal",
+  "cod_Mun_Sudene": 2919058
+ },
+ {
+  "CD_MUN": 2919108,
+  "NM_MUN": "Lamarão",
+  "cod_Mun_Sudene": 2919108
+ },
+ {
+  "CD_MUN": 2919157,
+  "NM_MUN": "Lapão",
+  "cod_Mun_Sudene": 2919157
+ },
+ {
+  "CD_MUN": 2919207,
+  "NM_MUN": "Lauro de Freitas",
+  "cod_Mun_Sudene": 2919207
+ },
+ {
+  "CD_MUN": 2919306,
+  "NM_MUN": "Lençóis",
+  "cod_Mun_Sudene": 2919306
+ },
+ {
+  "CD_MUN": 2919405,
+  "NM_MUN": "Licínio de Almeida",
+  "cod_Mun_Sudene": 2919405
+ },
+ {
+  "CD_MUN": 2919504,
+  "NM_MUN": "Livramento de Nossa Senhora",
+  "cod_Mun_Sudene": 2919504
+ },
+ {
+  "CD_MUN": 2919553,
+  "NM_MUN": "Luís Eduardo Magalhães",
+  "cod_Mun_Sudene": 2919553
+ },
+ {
+  "CD_MUN": 2919603,
+  "NM_MUN": "Macajuba",
+  "cod_Mun_Sudene": 2919603
+ },
+ {
+  "CD_MUN": 2919702,
+  "NM_MUN": "Macarani",
+  "cod_Mun_Sudene": 2919702
+ },
+ {
+  "CD_MUN": 2919801,
+  "NM_MUN": "Macaúbas",
+  "cod_Mun_Sudene": 2919801
+ },
+ {
+  "CD_MUN": 2919900,
+  "NM_MUN": "Macururé",
+  "cod_Mun_Sudene": 2919900
+ },
+ {
+  "CD_MUN": 2919926,
+  "NM_MUN": "Madre de Deus",
+  "cod_Mun_Sudene": 2919926
+ },
+ {
+  "CD_MUN": 2919959,
+  "NM_MUN": "Maetinga",
+  "cod_Mun_Sudene": 2919959
+ },
+ {
+  "CD_MUN": 2920007,
+  "NM_MUN": "Maiquinique",
+  "cod_Mun_Sudene": 2920007
+ },
+ {
+  "CD_MUN": 2920106,
+  "NM_MUN": "Mairi",
+  "cod_Mun_Sudene": 2920106
+ },
+ {
+  "CD_MUN": 2920205,
+  "NM_MUN": "Malhada",
+  "cod_Mun_Sudene": 2920205
+ },
+ {
+  "CD_MUN": 2920304,
+  "NM_MUN": "Malhada de Pedras",
+  "cod_Mun_Sudene": 2920304
+ },
+ {
+  "CD_MUN": 2920403,
+  "NM_MUN": "Manoel Vitorino",
+  "cod_Mun_Sudene": 2920403
+ },
+ {
+  "CD_MUN": 2920452,
+  "NM_MUN": "Mansidão",
+  "cod_Mun_Sudene": 2920452
+ },
+ {
+  "CD_MUN": 2920502,
+  "NM_MUN": "Maracás",
+  "cod_Mun_Sudene": 2920502
+ },
+ {
+  "CD_MUN": 2920601,
+  "NM_MUN": "Maragogipe",
+  "cod_Mun_Sudene": 2920601
+ },
+ {
+  "CD_MUN": 2920700,
+  "NM_MUN": "Maraú",
+  "cod_Mun_Sudene": 2920700
+ },
+ {
+  "CD_MUN": 2920809,
+  "NM_MUN": "Marcionílio Souza",
+  "cod_Mun_Sudene": 2920809
+ },
+ {
+  "CD_MUN": 2920908,
+  "NM_MUN": "Mascote",
+  "cod_Mun_Sudene": 2920908
+ },
+ {
+  "CD_MUN": 2921005,
+  "NM_MUN": "Mata de São João",
+  "cod_Mun_Sudene": 2921005
+ },
+ {
+  "CD_MUN": 2921054,
+  "NM_MUN": "Matina",
+  "cod_Mun_Sudene": 2921054
+ },
+ {
+  "CD_MUN": 2921104,
+  "NM_MUN": "Medeiros Neto",
+  "cod_Mun_Sudene": 2921104
+ },
+ {
+  "CD_MUN": 2921203,
+  "NM_MUN": "Miguel Calmon",
+  "cod_Mun_Sudene": 2921203
+ },
+ {
+  "CD_MUN": 2921302,
+  "NM_MUN": "Milagres",
+  "cod_Mun_Sudene": 2921302
+ },
+ {
+  "CD_MUN": 2921401,
+  "NM_MUN": "Mirangaba",
+  "cod_Mun_Sudene": 2921401
+ },
+ {
+  "CD_MUN": 2921450,
+  "NM_MUN": "Mirante",
+  "cod_Mun_Sudene": 2921450
+ },
+ {
+  "CD_MUN": 2921500,
+  "NM_MUN": "Monte Santo",
+  "cod_Mun_Sudene": 2921500
+ },
+ {
+  "CD_MUN": 2921609,
+  "NM_MUN": "Morpará",
+  "cod_Mun_Sudene": 2921609
+ },
+ {
+  "CD_MUN": 2921708,
+  "NM_MUN": "Morro do Chapéu",
+  "cod_Mun_Sudene": 2921708
+ },
+ {
+  "CD_MUN": 2921807,
+  "NM_MUN": "Mortugaba",
+  "cod_Mun_Sudene": 2921807
+ },
+ {
+  "CD_MUN": 2921906,
+  "NM_MUN": "Mucugê",
+  "cod_Mun_Sudene": 2921906
+ },
+ {
+  "CD_MUN": 2922003,
+  "NM_MUN": "Mucuri",
+  "cod_Mun_Sudene": 2922003
+ },
+ {
+  "CD_MUN": 2922052,
+  "NM_MUN": "Mulungu do Morro",
+  "cod_Mun_Sudene": 2922052
+ },
+ {
+  "CD_MUN": 2922102,
+  "NM_MUN": "Mundo Novo",
+  "cod_Mun_Sudene": 2922102
+ },
+ {
+  "CD_MUN": 2922201,
+  "NM_MUN": "Muniz Ferreira",
+  "cod_Mun_Sudene": 2922201
+ },
+ {
+  "CD_MUN": 2922250,
+  "NM_MUN": "Muquém do São Francisco",
+  "cod_Mun_Sudene": 2922250
+ },
+ {
+  "CD_MUN": 2922300,
+  "NM_MUN": "Muritiba",
+  "cod_Mun_Sudene": 2922300
+ },
+ {
+  "CD_MUN": 2922409,
+  "NM_MUN": "Mutuípe",
+  "cod_Mun_Sudene": 2922409
+ },
+ {
+  "CD_MUN": 2922508,
+  "NM_MUN": "Nazaré",
+  "cod_Mun_Sudene": 2922508
+ },
+ {
+  "CD_MUN": 2922607,
+  "NM_MUN": "Nilo Peçanha",
+  "cod_Mun_Sudene": 2922607
+ },
+ {
+  "CD_MUN": 2922656,
+  "NM_MUN": "Nordestina",
+  "cod_Mun_Sudene": 2922656
+ },
+ {
+  "CD_MUN": 2922706,
+  "NM_MUN": "Nova Canaã",
+  "cod_Mun_Sudene": 2922706
+ },
+ {
+  "CD_MUN": 2922730,
+  "NM_MUN": "Nova Fátima",
+  "cod_Mun_Sudene": 2922730
+ },
+ {
+  "CD_MUN": 2922755,
+  "NM_MUN": "Nova Ibiá",
+  "cod_Mun_Sudene": 2922755
+ },
+ {
+  "CD_MUN": 2922805,
+  "NM_MUN": "Nova Itarana",
+  "cod_Mun_Sudene": 2922805
+ },
+ {
+  "CD_MUN": 2922854,
+  "NM_MUN": "Nova Redenção",
+  "cod_Mun_Sudene": 2922854
+ },
+ {
+  "CD_MUN": 2922904,
+  "NM_MUN": "Nova Soure",
+  "cod_Mun_Sudene": 2922904
+ },
+ {
+  "CD_MUN": 2923001,
+  "NM_MUN": "Nova Viçosa",
+  "cod_Mun_Sudene": 2923001
+ },
+ {
+  "CD_MUN": 2923035,
+  "NM_MUN": "Novo Horizonte",
+  "cod_Mun_Sudene": 2923035
+ },
+ {
+  "CD_MUN": 2923050,
+  "NM_MUN": "Novo Triunfo",
+  "cod_Mun_Sudene": 2923050
+ },
+ {
+  "CD_MUN": 2923100,
+  "NM_MUN": "Olindina",
+  "cod_Mun_Sudene": 2923100
+ },
+ {
+  "CD_MUN": 2923209,
+  "NM_MUN": "Oliveira dos Brejinhos",
+  "cod_Mun_Sudene": 2923209
+ },
+ {
+  "CD_MUN": 2923308,
+  "NM_MUN": "Ouriçangas",
+  "cod_Mun_Sudene": 2923308
+ },
+ {
+  "CD_MUN": 2923357,
+  "NM_MUN": "Ourolândia",
+  "cod_Mun_Sudene": 2923357
+ },
+ {
+  "CD_MUN": 2923407,
+  "NM_MUN": "Palmas de Monte Alto",
+  "cod_Mun_Sudene": 2923407
+ },
+ {
+  "CD_MUN": 2923506,
+  "NM_MUN": "Palmeiras",
+  "cod_Mun_Sudene": 2923506
+ },
+ {
+  "CD_MUN": 2923605,
+  "NM_MUN": "Paramirim",
+  "cod_Mun_Sudene": 2923605
+ },
+ {
+  "CD_MUN": 2923704,
+  "NM_MUN": "Paratinga",
+  "cod_Mun_Sudene": 2923704
+ },
+ {
+  "CD_MUN": 2923803,
+  "NM_MUN": "Paripiranga",
+  "cod_Mun_Sudene": 2923803
+ },
+ {
+  "CD_MUN": 2923902,
+  "NM_MUN": "Pau Brasil",
+  "cod_Mun_Sudene": 2923902
+ },
+ {
+  "CD_MUN": 2924009,
+  "NM_MUN": "Paulo Afonso",
+  "cod_Mun_Sudene": 2924009
+ },
+ {
+  "CD_MUN": 2924058,
+  "NM_MUN": "Pé de Serra",
+  "cod_Mun_Sudene": 2924058
+ },
+ {
+  "CD_MUN": 2924108,
+  "NM_MUN": "Pedrão",
+  "cod_Mun_Sudene": 2924108
+ },
+ {
+  "CD_MUN": 2924207,
+  "NM_MUN": "Pedro Alexandre",
+  "cod_Mun_Sudene": 2924207
+ },
+ {
+  "CD_MUN": 2924306,
+  "NM_MUN": "Piatã",
+  "cod_Mun_Sudene": 2924306
+ },
+ {
+  "CD_MUN": 2924405,
+  "NM_MUN": "Pilão Arcado",
+  "cod_Mun_Sudene": 2924405
+ },
+ {
+  "CD_MUN": 2924504,
+  "NM_MUN": "Pindaí",
+  "cod_Mun_Sudene": 2924504
+ },
+ {
+  "CD_MUN": 2924603,
+  "NM_MUN": "Pindobaçu",
+  "cod_Mun_Sudene": 2924603
+ },
+ {
+  "CD_MUN": 2924652,
+  "NM_MUN": "Pintadas",
+  "cod_Mun_Sudene": 2924652
+ },
+ {
+  "CD_MUN": 2924678,
+  "NM_MUN": "Piraí do Norte",
+  "cod_Mun_Sudene": 2924678
+ },
+ {
+  "CD_MUN": 2924702,
+  "NM_MUN": "Piripá",
+  "cod_Mun_Sudene": 2924702
+ },
+ {
+  "CD_MUN": 2924801,
+  "NM_MUN": "Piritiba",
+  "cod_Mun_Sudene": 2924801
+ },
+ {
+  "CD_MUN": 2924900,
+  "NM_MUN": "Planaltino",
+  "cod_Mun_Sudene": 2924900
+ },
+ {
+  "CD_MUN": 2925006,
+  "NM_MUN": "Planalto",
+  "cod_Mun_Sudene": 2925006
+ },
+ {
+  "CD_MUN": 2925105,
+  "NM_MUN": "Poções",
+  "cod_Mun_Sudene": 2925105
+ },
+ {
+  "CD_MUN": 2925204,
+  "NM_MUN": "Pojuca",
+  "cod_Mun_Sudene": 2925204
+ },
+ {
+  "CD_MUN": 2925253,
+  "NM_MUN": "Ponto Novo",
+  "cod_Mun_Sudene": 2925253
+ },
+ {
+  "CD_MUN": 2925303,
+  "NM_MUN": "Porto Seguro",
+  "cod_Mun_Sudene": 2925303
+ },
+ {
+  "CD_MUN": 2925402,
+  "NM_MUN": "Potiraguá",
+  "cod_Mun_Sudene": 2925402
+ },
+ {
+  "CD_MUN": 2925501,
+  "NM_MUN": "Prado",
+  "cod_Mun_Sudene": 2925501
+ },
+ {
+  "CD_MUN": 2925600,
+  "NM_MUN": "Presidente Dutra",
+  "cod_Mun_Sudene": 2925600
+ },
+ {
+  "CD_MUN": 2925709,
+  "NM_MUN": "Presidente Jânio Quadros",
+  "cod_Mun_Sudene": 2925709
+ },
+ {
+  "CD_MUN": 2925758,
+  "NM_MUN": "Presidente Tancredo Neves",
+  "cod_Mun_Sudene": 2925758
+ },
+ {
+  "CD_MUN": 2925808,
+  "NM_MUN": "Queimadas",
+  "cod_Mun_Sudene": 2925808
+ },
+ {
+  "CD_MUN": 2925907,
+  "NM_MUN": "Quijingue",
+  "cod_Mun_Sudene": 2925907
+ },
+ {
+  "CD_MUN": 2925931,
+  "NM_MUN": "Quixabeira",
+  "cod_Mun_Sudene": 2925931
+ },
+ {
+  "CD_MUN": 2925956,
+  "NM_MUN": "Rafael Jambeiro",
+  "cod_Mun_Sudene": 2925956
+ },
+ {
+  "CD_MUN": 2926004,
+  "NM_MUN": "Remanso",
+  "cod_Mun_Sudene": 2926004
+ },
+ {
+  "CD_MUN": 2926103,
+  "NM_MUN": "Retirolândia",
+  "cod_Mun_Sudene": 2926103
+ },
+ {
+  "CD_MUN": 2926202,
+  "NM_MUN": "Riachão das Neves",
+  "cod_Mun_Sudene": 2926202
+ },
+ {
+  "CD_MUN": 2926301,
+  "NM_MUN": "Riachão do Jacuípe",
+  "cod_Mun_Sudene": 2926301
+ },
+ {
+  "CD_MUN": 2926400,
+  "NM_MUN": "Riacho de Santana",
+  "cod_Mun_Sudene": 2926400
+ },
+ {
+  "CD_MUN": 2926509,
+  "NM_MUN": "Ribeira do Amparo",
+  "cod_Mun_Sudene": 2926509
+ },
+ {
+  "CD_MUN": 2926608,
+  "NM_MUN": "Ribeira do Pombal",
+  "cod_Mun_Sudene": 2926608
+ },
+ {
+  "CD_MUN": 2926657,
+  "NM_MUN": "Ribeirão do Largo",
+  "cod_Mun_Sudene": 2926657
+ },
+ {
+  "CD_MUN": 2926707,
+  "NM_MUN": "Rio de Contas",
+  "cod_Mun_Sudene": 2926707
+ },
+ {
+  "CD_MUN": 2926806,
+  "NM_MUN": "Rio do Antônio",
+  "cod_Mun_Sudene": 2926806
+ },
+ {
+  "CD_MUN": 2926905,
+  "NM_MUN": "Rio do Pires",
+  "cod_Mun_Sudene": 2926905
+ },
+ {
+  "CD_MUN": 2927002,
+  "NM_MUN": "Rio Real",
+  "cod_Mun_Sudene": 2927002
+ },
+ {
+  "CD_MUN": 2927101,
+  "NM_MUN": "Rodelas",
+  "cod_Mun_Sudene": 2927101
+ },
+ {
+  "CD_MUN": 2927200,
+  "NM_MUN": "Ruy Barbosa",
+  "cod_Mun_Sudene": 2927200
+ },
+ {
+  "CD_MUN": 2927309,
+  "NM_MUN": "Salinas da Margarida",
+  "cod_Mun_Sudene": 2927309
+ },
+ {
+  "CD_MUN": 2927408,
+  "NM_MUN": "Salvador",
+  "cod_Mun_Sudene": 2927408
+ },
+ {
+  "CD_MUN": 2927507,
+  "NM_MUN": "Santa Bárbara",
+  "cod_Mun_Sudene": 2927507
+ },
+ {
+  "CD_MUN": 2927606,
+  "NM_MUN": "Santa Brígida",
+  "cod_Mun_Sudene": 2927606
+ },
+ {
+  "CD_MUN": 2927705,
+  "NM_MUN": "Santa Cruz Cabrália",
+  "cod_Mun_Sudene": 2927705
+ },
+ {
+  "CD_MUN": 2927804,
+  "NM_MUN": "Santa Cruz da Vitória",
+  "cod_Mun_Sudene": 2927804
+ },
+ {
+  "CD_MUN": 2927903,
+  "NM_MUN": "Santa Inês",
+  "cod_Mun_Sudene": 2927903
+ },
+ {
+  "CD_MUN": 2928000,
+  "NM_MUN": "Santaluz",
+  "cod_Mun_Sudene": 2928000
+ },
+ {
+  "CD_MUN": 2928059,
+  "NM_MUN": "Santa Luzia",
+  "cod_Mun_Sudene": 2928059
+ },
+ {
+  "CD_MUN": 2928109,
+  "NM_MUN": "Santa Maria da Vitória",
+  "cod_Mun_Sudene": 2928109
+ },
+ {
+  "CD_MUN": 2928208,
+  "NM_MUN": "Santana",
+  "cod_Mun_Sudene": 2928208
+ },
+ {
+  "CD_MUN": 2928307,
+  "NM_MUN": "Santanópolis",
+  "cod_Mun_Sudene": 2928307
+ },
+ {
+  "CD_MUN": 2928406,
+  "NM_MUN": "Santa Rita de Cássia",
+  "cod_Mun_Sudene": 2928406
+ },
+ {
+  "CD_MUN": 2928505,
+  "NM_MUN": "Santa Terezinha",
+  "cod_Mun_Sudene": 2928505
+ },
+ {
+  "CD_MUN": 2928604,
+  "NM_MUN": "Santo Amaro",
+  "cod_Mun_Sudene": 2928604
+ },
+ {
+  "CD_MUN": 2928703,
+  "NM_MUN": "Santo Antônio de Jesus",
+  "cod_Mun_Sudene": 2928703
+ },
+ {
+  "CD_MUN": 2928802,
+  "NM_MUN": "Santo Estêvão",
+  "cod_Mun_Sudene": 2928802
+ },
+ {
+  "CD_MUN": 2928901,
+  "NM_MUN": "São Desidério",
+  "cod_Mun_Sudene": 2928901
+ },
+ {
+  "CD_MUN": 2928950,
+  "NM_MUN": "São Domingos",
+  "cod_Mun_Sudene": 2928950
+ },
+ {
+  "CD_MUN": 2929008,
+  "NM_MUN": "São Félix",
+  "cod_Mun_Sudene": 2929008
+ },
+ {
+  "CD_MUN": 2929057,
+  "NM_MUN": "São Félix do Coribe",
+  "cod_Mun_Sudene": 2929057
+ },
+ {
+  "CD_MUN": 2929107,
+  "NM_MUN": "São Felipe",
+  "cod_Mun_Sudene": 2929107
+ },
+ {
+  "CD_MUN": 2929206,
+  "NM_MUN": "São Francisco do Conde",
+  "cod_Mun_Sudene": 2929206
+ },
+ {
+  "CD_MUN": 2929255,
+  "NM_MUN": "São Gabriel",
+  "cod_Mun_Sudene": 2929255
+ },
+ {
+  "CD_MUN": 2929305,
+  "NM_MUN": "São Gonçalo dos Campos",
+  "cod_Mun_Sudene": 2929305
+ },
+ {
+  "CD_MUN": 2929354,
+  "NM_MUN": "São José da Vitória",
+  "cod_Mun_Sudene": 2929354
+ },
+ {
+  "CD_MUN": 2929370,
+  "NM_MUN": "São José do Jacuípe",
+  "cod_Mun_Sudene": 2929370
+ },
+ {
+  "CD_MUN": 2929404,
+  "NM_MUN": "São Miguel das Matas",
+  "cod_Mun_Sudene": 2929404
+ },
+ {
+  "CD_MUN": 2929503,
+  "NM_MUN": "São Sebastião do Passé",
+  "cod_Mun_Sudene": 2929503
+ },
+ {
+  "CD_MUN": 2929602,
+  "NM_MUN": "Sapeaçu",
+  "cod_Mun_Sudene": 2929602
+ },
+ {
+  "CD_MUN": 2929701,
+  "NM_MUN": "Sátiro Dias",
+  "cod_Mun_Sudene": 2929701
+ },
+ {
+  "CD_MUN": 2929750,
+  "NM_MUN": "Saubara",
+  "cod_Mun_Sudene": 2929750
+ },
+ {
+  "CD_MUN": 2929800,
+  "NM_MUN": "Saúde",
+  "cod_Mun_Sudene": 2929800
+ },
+ {
+  "CD_MUN": 2929909,
+  "NM_MUN": "Seabra",
+  "cod_Mun_Sudene": 2929909
+ },
+ {
+  "CD_MUN": 2930006,
+  "NM_MUN": "Sebastião Laranjeiras",
+  "cod_Mun_Sudene": 2930006
+ },
+ {
+  "CD_MUN": 2930105,
+  "NM_MUN": "Senhor do Bonfim",
+  "cod_Mun_Sudene": 2930105
+ },
+ {
+  "CD_MUN": 2930154,
+  "NM_MUN": "Serra do Ramalho",
+  "cod_Mun_Sudene": 2930154
+ },
+ {
+  "CD_MUN": 2930204,
+  "NM_MUN": "Sento Sé",
+  "cod_Mun_Sudene": 2930204
+ },
+ {
+  "CD_MUN": 2930303,
+  "NM_MUN": "Serra Dourada",
+  "cod_Mun_Sudene": 2930303
+ },
+ {
+  "CD_MUN": 2930402,
+  "NM_MUN": "Serra Preta",
+  "cod_Mun_Sudene": 2930402
+ },
+ {
+  "CD_MUN": 2930501,
+  "NM_MUN": "Serrinha",
+  "cod_Mun_Sudene": 2930501
+ },
+ {
+  "CD_MUN": 2930600,
+  "NM_MUN": "Serrolândia",
+  "cod_Mun_Sudene": 2930600
+ },
+ {
+  "CD_MUN": 2930709,
+  "NM_MUN": "Simões Filho",
+  "cod_Mun_Sudene": 2930709
+ },
+ {
+  "CD_MUN": 2930758,
+  "NM_MUN": "Sítio do Mato",
+  "cod_Mun_Sudene": 2930758
+ },
+ {
+  "CD_MUN": 2930766,
+  "NM_MUN": "Sítio do Quinto",
+  "cod_Mun_Sudene": 2930766
+ },
+ {
+  "CD_MUN": 2930774,
+  "NM_MUN": "Sobradinho",
+  "cod_Mun_Sudene": 2930774
+ },
+ {
+  "CD_MUN": 2930808,
+  "NM_MUN": "Souto Soares",
+  "cod_Mun_Sudene": 2930808
+ },
+ {
+  "CD_MUN": 2930907,
+  "NM_MUN": "Tabocas do Brejo Velho",
+  "cod_Mun_Sudene": 2930907
+ },
+ {
+  "CD_MUN": 2931004,
+  "NM_MUN": "Tanhaçu",
+  "cod_Mun_Sudene": 2931004
+ },
+ {
+  "CD_MUN": 2931053,
+  "NM_MUN": "Tanque Novo",
+  "cod_Mun_Sudene": 2931053
+ },
+ {
+  "CD_MUN": 2931103,
+  "NM_MUN": "Tanquinho",
+  "cod_Mun_Sudene": 2931103
+ },
+ {
+  "CD_MUN": 2931202,
+  "NM_MUN": "Taperoá",
+  "cod_Mun_Sudene": 2931202
+ },
+ {
+  "CD_MUN": 2931301,
+  "NM_MUN": "Tapiramutá",
+  "cod_Mun_Sudene": 2931301
+ },
+ {
+  "CD_MUN": 2931350,
+  "NM_MUN": "Teixeira de Freitas",
+  "cod_Mun_Sudene": 2931350
+ },
+ {
+  "CD_MUN": 2931400,
+  "NM_MUN": "Teodoro Sampaio",
+  "cod_Mun_Sudene": 2931400
+ },
+ {
+  "CD_MUN": 2931509,
+  "NM_MUN": "Teofilândia",
+  "cod_Mun_Sudene": 2931509
+ },
+ {
+  "CD_MUN": 2931608,
+  "NM_MUN": "Teolândia",
+  "cod_Mun_Sudene": 2931608
+ },
+ {
+  "CD_MUN": 2931707,
+  "NM_MUN": "Terra Nova",
+  "cod_Mun_Sudene": 2931707
+ },
+ {
+  "CD_MUN": 2931806,
+  "NM_MUN": "Tremedal",
+  "cod_Mun_Sudene": 2931806
+ },
+ {
+  "CD_MUN": 2931905,
+  "NM_MUN": "Tucano",
+  "cod_Mun_Sudene": 2931905
+ },
+ {
+  "CD_MUN": 2932002,
+  "NM_MUN": "Uauá",
+  "cod_Mun_Sudene": 2932002
+ },
+ {
+  "CD_MUN": 2932101,
+  "NM_MUN": "Ubaíra",
+  "cod_Mun_Sudene": 2932101
+ },
+ {
+  "CD_MUN": 2932200,
+  "NM_MUN": "Ubaitaba",
+  "cod_Mun_Sudene": 2932200
+ },
+ {
+  "CD_MUN": 2932309,
+  "NM_MUN": "Ubatã",
+  "cod_Mun_Sudene": 2932309
+ },
+ {
+  "CD_MUN": 2932408,
+  "NM_MUN": "Uibaí",
+  "cod_Mun_Sudene": 2932408
+ },
+ {
+  "CD_MUN": 2932457,
+  "NM_MUN": "Umburanas",
+  "cod_Mun_Sudene": 2932457
+ },
+ {
+  "CD_MUN": 2932507,
+  "NM_MUN": "Una",
+  "cod_Mun_Sudene": 2932507
+ },
+ {
+  "CD_MUN": 2932606,
+  "NM_MUN": "Urandi",
+  "cod_Mun_Sudene": 2932606
+ },
+ {
+  "CD_MUN": 2932705,
+  "NM_MUN": "Uruçuca",
+  "cod_Mun_Sudene": 2932705
+ },
+ {
+  "CD_MUN": 2932804,
+  "NM_MUN": "Utinga",
+  "cod_Mun_Sudene": 2932804
+ },
+ {
+  "CD_MUN": 2932903,
+  "NM_MUN": "Valença",
+  "cod_Mun_Sudene": 2932903
+ },
+ {
+  "CD_MUN": 2933000,
+  "NM_MUN": "Valente",
+  "cod_Mun_Sudene": 2933000
+ },
+ {
+  "CD_MUN": 2933059,
+  "NM_MUN": "Várzea da Roça",
+  "cod_Mun_Sudene": 2933059
+ },
+ {
+  "CD_MUN": 2933109,
+  "NM_MUN": "Várzea do Poço",
+  "cod_Mun_Sudene": 2933109
+ },
+ {
+  "CD_MUN": 2933158,
+  "NM_MUN": "Várzea Nova",
+  "cod_Mun_Sudene": 2933158
+ },
+ {
+  "CD_MUN": 2933174,
+  "NM_MUN": "Varzedo",
+  "cod_Mun_Sudene": 2933174
+ },
+ {
+  "CD_MUN": 2933208,
+  "NM_MUN": "Vera Cruz",
+  "cod_Mun_Sudene": 2933208
+ },
+ {
+  "CD_MUN": 2933257,
+  "NM_MUN": "Vereda",
+  "cod_Mun_Sudene": 2933257
+ },
+ {
+  "CD_MUN": 2933307,
+  "NM_MUN": "Vitória da Conquista",
+  "cod_Mun_Sudene": 2933307
+ },
+ {
+  "CD_MUN": 2933406,
+  "NM_MUN": "Wagner",
+  "cod_Mun_Sudene": 2933406
+ },
+ {
+  "CD_MUN": 2933455,
+  "NM_MUN": "Wanderley",
+  "cod_Mun_Sudene": 2933455
+ },
+ {
+  "CD_MUN": 2933505,
+  "NM_MUN": "Wenceslau Guimarães",
+  "cod_Mun_Sudene": 2933505
+ },
+ {
+  "CD_MUN": 2933604,
+  "NM_MUN": "Xique-Xique",
+  "cod_Mun_Sudene": 2933604
+ },
+ {
+  "CD_MUN": 3100500,
+  "NM_MUN": "Açucena",
+  "cod_Mun_Sudene": 3100500
+ },
+ {
+  "CD_MUN": 3100609,
+  "NM_MUN": "Água Boa",
+  "cod_Mun_Sudene": 3100609
+ },
+ {
+  "CD_MUN": 3100906,
+  "NM_MUN": "Águas Formosas",
+  "cod_Mun_Sudene": 3100906
+ },
+ {
+  "CD_MUN": 3101003,
+  "NM_MUN": "Águas Vermelhas",
+  "cod_Mun_Sudene": 3101003
+ },
+ {
+  "CD_MUN": 3101102,
+  "NM_MUN": "Aimorés",
+  "cod_Mun_Sudene": 3101102
+ },
+ {
+  "CD_MUN": 3101706,
+  "NM_MUN": "Almenara",
+  "cod_Mun_Sudene": 3101706
+ },
+ {
+  "CD_MUN": 3101805,
+  "NM_MUN": "Alpercata",
+  "cod_Mun_Sudene": 3101805
+ },
+ {
+  "CD_MUN": 3102209,
+  "NM_MUN": "Alvarenga",
+  "cod_Mun_Sudene": 3102209
+ },
+ {
+  "CD_MUN": 3102704,
+  "NM_MUN": "Cachoeira de Pajeú",
+  "cod_Mun_Sudene": 3102704
+ },
+ {
+  "CD_MUN": 3102852,
+  "NM_MUN": "Angelândia",
+  "cod_Mun_Sudene": 3102852
+ },
+ {
+  "CD_MUN": 3103405,
+  "NM_MUN": "Araçuaí",
+  "cod_Mun_Sudene": 3103405
+ },
+ {
+  "CD_MUN": 3104452,
+  "NM_MUN": "Aricanduva",
+  "cod_Mun_Sudene": 3104452
+ },
+ {
+  "CD_MUN": 3104502,
+  "NM_MUN": "Arinos",
+  "cod_Mun_Sudene": 3104502
+ },
+ {
+  "CD_MUN": 3104700,
+  "NM_MUN": "Ataléia",
+  "cod_Mun_Sudene": 3104700
+ },
+ {
+  "CD_MUN": 3105202,
+  "NM_MUN": "Bandeira",
+  "cod_Mun_Sudene": 3105202
+ },
+ {
+  "CD_MUN": 3106507,
+  "NM_MUN": "Berilo",
+  "cod_Mun_Sudene": 3106507
+ },
+ {
+  "CD_MUN": 3106606,
+  "NM_MUN": "Bertópolis",
+  "cod_Mun_Sudene": 3106606
+ },
+ {
+  "CD_MUN": 3106655,
+  "NM_MUN": "Berizal",
+  "cod_Mun_Sudene": 3106655
+ },
+ {
+  "CD_MUN": 3107307,
+  "NM_MUN": "Bocaiúva",
+  "cod_Mun_Sudene": 3107307
+ },
+ {
+  "CD_MUN": 3108206,
+  "NM_MUN": "Bonfinópolis de Minas",
+  "cod_Mun_Sudene": 3108206
+ },
+ {
+  "CD_MUN": 3108255,
+  "NM_MUN": "Bonito de Minas",
+  "cod_Mun_Sudene": 3108255
+ },
+ {
+  "CD_MUN": 3108503,
+  "NM_MUN": "Botumirim",
+  "cod_Mun_Sudene": 3108503
+ },
+ {
+  "CD_MUN": 3108602,
+  "NM_MUN": "Brasília de Minas",
+  "cod_Mun_Sudene": 3108602
+ },
+ {
+  "CD_MUN": 3108800,
+  "NM_MUN": "Braúnas",
+  "cod_Mun_Sudene": 3108800
+ },
+ {
+  "CD_MUN": 3109402,
+  "NM_MUN": "Buritizeiro",
+  "cod_Mun_Sudene": 3109402
+ },
+ {
+  "CD_MUN": 3110806,
+  "NM_MUN": "Campanário",
+  "cod_Mun_Sudene": 3110806
+ },
+ {
+  "CD_MUN": 3111150,
+  "NM_MUN": "Campo Azul",
+  "cod_Mun_Sudene": 3111150
+ },
+ {
+  "CD_MUN": 3112059,
+  "NM_MUN": "Cantagalo",
+  "cod_Mun_Sudene": 3112059
+ },
+ {
+  "CD_MUN": 3112307,
+  "NM_MUN": "Capelinha",
+  "cod_Mun_Sudene": 3112307
+ },
+ {
+  "CD_MUN": 3112653,
+  "NM_MUN": "Capitão Andrade",
+  "cod_Mun_Sudene": 3112653
+ },
+ {
+  "CD_MUN": 3112703,
+  "NM_MUN": "Capitão Enéas",
+  "cod_Mun_Sudene": 3112703
+ },
+ {
+  "CD_MUN": 3113008,
+  "NM_MUN": "Caraí",
+  "cod_Mun_Sudene": 3113008
+ },
+ {
+  "CD_MUN": 3113503,
+  "NM_MUN": "Carbonita",
+  "cod_Mun_Sudene": 3113503
+ },
+ {
+  "CD_MUN": 3113701,
+  "NM_MUN": "Carlos Chagas",
+  "cod_Mun_Sudene": 3113701
+ },
+ {
+  "CD_MUN": 3113800,
+  "NM_MUN": "Carmésia",
+  "cod_Mun_Sudene": 3113800
+ },
+ {
+  "CD_MUN": 3115458,
+  "NM_MUN": "Catuji",
+  "cod_Mun_Sudene": 3115458
+ },
+ {
+  "CD_MUN": 3115474,
+  "NM_MUN": "Catuti",
+  "cod_Mun_Sudene": 3115474
+ },
+ {
+  "CD_MUN": 3115706,
+  "NM_MUN": "Central de Minas",
+  "cod_Mun_Sudene": 3115706
+ },
+ {
+  "CD_MUN": 3116100,
+  "NM_MUN": "Chapada do Norte",
+  "cod_Mun_Sudene": 3116100
+ },
+ {
+  "CD_MUN": 3116159,
+  "NM_MUN": "Chapada Gaúcha",
+  "cod_Mun_Sudene": 3116159
+ },
+ {
+  "CD_MUN": 3116506,
+  "NM_MUN": "Claro dos Poções",
+  "cod_Mun_Sudene": 3116506
+ },
+ {
+  "CD_MUN": 3116803,
+  "NM_MUN": "Coluna",
+  "cod_Mun_Sudene": 3116803
+ },
+ {
+  "CD_MUN": 3117009,
+  "NM_MUN": "Comercinho",
+  "cod_Mun_Sudene": 3117009
+ },
+ {
+  "CD_MUN": 3117836,
+  "NM_MUN": "Cônego Marinho",
+  "cod_Mun_Sudene": 3117836
+ },
+ {
+  "CD_MUN": 3118403,
+  "NM_MUN": "Conselheiro Pena",
+  "cod_Mun_Sudene": 3118403
+ },
+ {
+  "CD_MUN": 3118809,
+  "NM_MUN": "Coração de Jesus",
+  "cod_Mun_Sudene": 3118809
+ },
+ {
+  "CD_MUN": 3119203,
+  "NM_MUN": "Coroaci",
+  "cod_Mun_Sudene": 3119203
+ },
+ {
+  "CD_MUN": 3119500,
+  "NM_MUN": "Coronel Murta",
+  "cod_Mun_Sudene": 3119500
+ },
+ {
+  "CD_MUN": 3120102,
+  "NM_MUN": "Couto de Magalhães de Minas",
+  "cod_Mun_Sudene": 3120102
+ },
+ {
+  "CD_MUN": 3120151,
+  "NM_MUN": "Crisólita",
+  "cod_Mun_Sudene": 3120151
+ },
+ {
+  "CD_MUN": 3120300,
+  "NM_MUN": "Cristália",
+  "cod_Mun_Sudene": 3120300
+ },
+ {
+  "CD_MUN": 3120839,
+  "NM_MUN": "Cuparaque",
+  "cod_Mun_Sudene": 3120839
+ },
+ {
+  "CD_MUN": 3120870,
+  "NM_MUN": "Curral de Dentro",
+  "cod_Mun_Sudene": 3120870
+ },
+ {
+  "CD_MUN": 3121001,
+  "NM_MUN": "Datas",
+  "cod_Mun_Sudene": 3121001
+ },
+ {
+  "CD_MUN": 3121605,
+  "NM_MUN": "Diamantina",
+  "cod_Mun_Sudene": 3121605
+ },
+ {
+  "CD_MUN": 3122108,
+  "NM_MUN": "Divino das Laranjeiras",
+  "cod_Mun_Sudene": 3122108
+ },
+ {
+  "CD_MUN": 3122207,
+  "NM_MUN": "Divinolândia de Minas",
+  "cod_Mun_Sudene": 3122207
+ },
+ {
+  "CD_MUN": 3122355,
+  "NM_MUN": "Divisa Alegre",
+  "cod_Mun_Sudene": 3122355
+ },
+ {
+  "CD_MUN": 3122454,
+  "NM_MUN": "Divisópolis",
+  "cod_Mun_Sudene": 3122454
+ },
+ {
+  "CD_MUN": 3122470,
+  "NM_MUN": "Dom Bosco",
+  "cod_Mun_Sudene": 3122470
+ },
+ {
+  "CD_MUN": 3123106,
+  "NM_MUN": "Dores de Guanhães",
+  "cod_Mun_Sudene": 3123106
+ },
+ {
+  "CD_MUN": 3123700,
+  "NM_MUN": "Engenheiro Caldas",
+  "cod_Mun_Sudene": 3123700
+ },
+ {
+  "CD_MUN": 3123809,
+  "NM_MUN": "Engenheiro Navarro",
+  "cod_Mun_Sudene": 3123809
+ },
+ {
+  "CD_MUN": 3124302,
+  "NM_MUN": "Espinosa",
+  "cod_Mun_Sudene": 3124302
+ },
+ {
+  "CD_MUN": 3125408,
+  "NM_MUN": "Felício dos Santos",
+  "cod_Mun_Sudene": 3125408
+ },
+ {
+  "CD_MUN": 3125507,
+  "NM_MUN": "São Gonçalo do Rio Preto",
+  "cod_Mun_Sudene": 3125507
+ },
+ {
+  "CD_MUN": 3125606,
+  "NM_MUN": "Felisburgo",
+  "cod_Mun_Sudene": 3125606
+ },
+ {
+  "CD_MUN": 3125804,
+  "NM_MUN": "Fernandes Tourinho",
+  "cod_Mun_Sudene": 3125804
+ },
+ {
+  "CD_MUN": 3126208,
+  "NM_MUN": "Formoso",
+  "cod_Mun_Sudene": 3126208
+ },
+ {
+  "CD_MUN": 3126505,
+  "NM_MUN": "Francisco Badaró",
+  "cod_Mun_Sudene": 3126505
+ },
+ {
+  "CD_MUN": 3126604,
+  "NM_MUN": "Francisco Dumont",
+  "cod_Mun_Sudene": 3126604
+ },
+ {
+  "CD_MUN": 3126703,
+  "NM_MUN": "Francisco Sá",
+  "cod_Mun_Sudene": 3126703
+ },
+ {
+  "CD_MUN": 3126752,
+  "NM_MUN": "Franciscópolis",
+  "cod_Mun_Sudene": 3126752
+ },
+ {
+  "CD_MUN": 3126802,
+  "NM_MUN": "Frei Gaspar",
+  "cod_Mun_Sudene": 3126802
+ },
+ {
+  "CD_MUN": 3126901,
+  "NM_MUN": "Frei Inocêncio",
+  "cod_Mun_Sudene": 3126901
+ },
+ {
+  "CD_MUN": 3126950,
+  "NM_MUN": "Frei Lagonegro",
+  "cod_Mun_Sudene": 3126950
+ },
+ {
+  "CD_MUN": 3127057,
+  "NM_MUN": "Fronteira dos Vales",
+  "cod_Mun_Sudene": 3127057
+ },
+ {
+  "CD_MUN": 3127073,
+  "NM_MUN": "Fruta de Leite",
+  "cod_Mun_Sudene": 3127073
+ },
+ {
+  "CD_MUN": 3127305,
+  "NM_MUN": "Galiléia",
+  "cod_Mun_Sudene": 3127305
+ },
+ {
+  "CD_MUN": 3127339,
+  "NM_MUN": "Gameleiras",
+  "cod_Mun_Sudene": 3127339
+ },
+ {
+  "CD_MUN": 3127354,
+  "NM_MUN": "Glaucilândia",
+  "cod_Mun_Sudene": 3127354
+ },
+ {
+  "CD_MUN": 3127370,
+  "NM_MUN": "Goiabeira",
+  "cod_Mun_Sudene": 3127370
+ },
+ {
+  "CD_MUN": 3127503,
+  "NM_MUN": "Gonzaga",
+  "cod_Mun_Sudene": 3127503
+ },
+ {
+  "CD_MUN": 3127701,
+  "NM_MUN": "Governador Valadares",
+  "cod_Mun_Sudene": 3127701
+ },
+ {
+  "CD_MUN": 3127800,
+  "NM_MUN": "Grão Mogol",
+  "cod_Mun_Sudene": 3127800
+ },
+ {
+  "CD_MUN": 3128006,
+  "NM_MUN": "Guanhães",
+  "cod_Mun_Sudene": 3128006
+ },
+ {
+  "CD_MUN": 3128253,
+  "NM_MUN": "Guaraciama",
+  "cod_Mun_Sudene": 3128253
+ },
+ {
+  "CD_MUN": 3129608,
+  "NM_MUN": "Ibiaí",
+  "cod_Mun_Sudene": 3129608
+ },
+ {
+  "CD_MUN": 3129657,
+  "NM_MUN": "Ibiracatu",
+  "cod_Mun_Sudene": 3129657
+ },
+ {
+  "CD_MUN": 3130051,
+  "NM_MUN": "Icaraí de Minas",
+  "cod_Mun_Sudene": 3130051
+ },
+ {
+  "CD_MUN": 3130556,
+  "NM_MUN": "Imbé de Minas",
+  "cod_Mun_Sudene": 3130556
+ },
+ {
+  "CD_MUN": 3130655,
+  "NM_MUN": "Indaiabira",
+  "cod_Mun_Sudene": 3130655
+ },
+ {
+  "CD_MUN": 3130903,
+  "NM_MUN": "Inhapim",
+  "cod_Mun_Sudene": 3130903
+ },
+ {
+  "CD_MUN": 3131802,
+  "NM_MUN": "Itabirinha",
+  "cod_Mun_Sudene": 3131802
+ },
+ {
+  "CD_MUN": 3132008,
+  "NM_MUN": "Itacambira",
+  "cod_Mun_Sudene": 3132008
+ },
+ {
+  "CD_MUN": 3132107,
+  "NM_MUN": "Itacarambi",
+  "cod_Mun_Sudene": 3132107
+ },
+ {
+  "CD_MUN": 3132305,
+  "NM_MUN": "Itaipé",
+  "cod_Mun_Sudene": 3132305
+ },
+ {
+  "CD_MUN": 3132503,
+  "NM_MUN": "Itamarandiba",
+  "cod_Mun_Sudene": 3132503
+ },
+ {
+  "CD_MUN": 3132701,
+  "NM_MUN": "Itambacuri",
+  "cod_Mun_Sudene": 3132701
+ },
+ {
+  "CD_MUN": 3133204,
+  "NM_MUN": "Itanhomi",
+  "cod_Mun_Sudene": 3133204
+ },
+ {
+  "CD_MUN": 3133303,
+  "NM_MUN": "Itaobim",
+  "cod_Mun_Sudene": 3133303
+ },
+ {
+  "CD_MUN": 3134004,
+  "NM_MUN": "Itinga",
+  "cod_Mun_Sudene": 3134004
+ },
+ {
+  "CD_MUN": 3134103,
+  "NM_MUN": "Itueta",
+  "cod_Mun_Sudene": 3134103
+ },
+ {
+  "CD_MUN": 3134707,
+  "NM_MUN": "Jacinto",
+  "cod_Mun_Sudene": 3134707
+ },
+ {
+  "CD_MUN": 3135050,
+  "NM_MUN": "Jaíba",
+  "cod_Mun_Sudene": 3135050
+ },
+ {
+  "CD_MUN": 3135076,
+  "NM_MUN": "Jampruca",
+  "cod_Mun_Sudene": 3135076
+ },
+ {
+  "CD_MUN": 3135100,
+  "NM_MUN": "Janaúba",
+  "cod_Mun_Sudene": 3135100
+ },
+ {
+  "CD_MUN": 3135209,
+  "NM_MUN": "Januária",
+  "cod_Mun_Sudene": 3135209
+ },
+ {
+  "CD_MUN": 3135357,
+  "NM_MUN": "Japonvar",
+  "cod_Mun_Sudene": 3135357
+ },
+ {
+  "CD_MUN": 3135456,
+  "NM_MUN": "Jenipapo de Minas",
+  "cod_Mun_Sudene": 3135456
+ },
+ {
+  "CD_MUN": 3135605,
+  "NM_MUN": "Jequitaí",
+  "cod_Mun_Sudene": 3135605
+ },
+ {
+  "CD_MUN": 3135803,
+  "NM_MUN": "Jequitinhonha",
+  "cod_Mun_Sudene": 3135803
+ },
+ {
+  "CD_MUN": 3136009,
+  "NM_MUN": "Joaíma",
+  "cod_Mun_Sudene": 3136009
+ },
+ {
+  "CD_MUN": 3136504,
+  "NM_MUN": "Jordânia",
+  "cod_Mun_Sudene": 3136504
+ },
+ {
+  "CD_MUN": 3136520,
+  "NM_MUN": "José Gonçalves de Minas",
+  "cod_Mun_Sudene": 3136520
+ },
+ {
+  "CD_MUN": 3136553,
+  "NM_MUN": "José Raydan",
+  "cod_Mun_Sudene": 3136553
+ },
+ {
+  "CD_MUN": 3136579,
+  "NM_MUN": "Josenópolis",
+  "cod_Mun_Sudene": 3136579
+ },
+ {
+  "CD_MUN": 3136801,
+  "NM_MUN": "Juramento",
+  "cod_Mun_Sudene": 3136801
+ },
+ {
+  "CD_MUN": 3136959,
+  "NM_MUN": "Juvenília",
+  "cod_Mun_Sudene": 3136959
+ },
+ {
+  "CD_MUN": 3137007,
+  "NM_MUN": "Ladainha",
+  "cod_Mun_Sudene": 3137007
+ },
+ {
+  "CD_MUN": 3137304,
+  "NM_MUN": "Lagoa dos Patos",
+  "cod_Mun_Sudene": 3137304
+ },
+ {
+  "CD_MUN": 3138104,
+  "NM_MUN": "Lassance",
+  "cod_Mun_Sudene": 3138104
+ },
+ {
+  "CD_MUN": 3138351,
+  "NM_MUN": "Leme do Prado",
+  "cod_Mun_Sudene": 3138351
+ },
+ {
+  "CD_MUN": 3138658,
+  "NM_MUN": "Lontra",
+  "cod_Mun_Sudene": 3138658
+ },
+ {
+  "CD_MUN": 3138682,
+  "NM_MUN": "Luislândia",
+  "cod_Mun_Sudene": 3138682
+ },
+ {
+  "CD_MUN": 3138906,
+  "NM_MUN": "Machacalis",
+  "cod_Mun_Sudene": 3138906
+ },
+ {
+  "CD_MUN": 3139201,
+  "NM_MUN": "Malacacheta",
+  "cod_Mun_Sudene": 3139201
+ },
+ {
+  "CD_MUN": 3139250,
+  "NM_MUN": "Mamonas",
+  "cod_Mun_Sudene": 3139250
+ },
+ {
+  "CD_MUN": 3139300,
+  "NM_MUN": "Manga",
+  "cod_Mun_Sudene": 3139300
+ },
+ {
+  "CD_MUN": 3139607,
+  "NM_MUN": "Mantena",
+  "cod_Mun_Sudene": 3139607
+ },
+ {
+  "CD_MUN": 3140100,
+  "NM_MUN": "Marilac",
+  "cod_Mun_Sudene": 3140100
+ },
+ {
+  "CD_MUN": 3140555,
+  "NM_MUN": "Mata Verde",
+  "cod_Mun_Sudene": 3140555
+ },
+ {
+  "CD_MUN": 3140605,
+  "NM_MUN": "Materlândia",
+  "cod_Mun_Sudene": 3140605
+ },
+ {
+  "CD_MUN": 3140852,
+  "NM_MUN": "Matias Cardoso",
+  "cod_Mun_Sudene": 3140852
+ },
+ {
+  "CD_MUN": 3141009,
+  "NM_MUN": "Mato Verde",
+  "cod_Mun_Sudene": 3141009
+ },
+ {
+  "CD_MUN": 3141405,
+  "NM_MUN": "Medina",
+  "cod_Mun_Sudene": 3141405
+ },
+ {
+  "CD_MUN": 3141504,
+  "NM_MUN": "Mendes Pimentel",
+  "cod_Mun_Sudene": 3141504
+ },
+ {
+  "CD_MUN": 3141801,
+  "NM_MUN": "Minas Novas",
+  "cod_Mun_Sudene": 3141801
+ },
+ {
+  "CD_MUN": 3142007,
+  "NM_MUN": "Mirabela",
+  "cod_Mun_Sudene": 3142007
+ },
+ {
+  "CD_MUN": 3142254,
+  "NM_MUN": "Miravânia",
+  "cod_Mun_Sudene": 3142254
+ },
+ {
+  "CD_MUN": 3142700,
+  "NM_MUN": "Montalvânia",
+  "cod_Mun_Sudene": 3142700
+ },
+ {
+  "CD_MUN": 3142908,
+  "NM_MUN": "Monte Azul",
+  "cod_Mun_Sudene": 3142908
+ },
+ {
+  "CD_MUN": 3143153,
+  "NM_MUN": "Monte Formoso",
+  "cod_Mun_Sudene": 3143153
+ },
+ {
+  "CD_MUN": 3143302,
+  "NM_MUN": "Montes Claros",
+  "cod_Mun_Sudene": 3143302
+ },
+ {
+  "CD_MUN": 3143450,
+  "NM_MUN": "Montezuma",
+  "cod_Mun_Sudene": 3143450
+ },
+ {
+  "CD_MUN": 3144003,
+  "NM_MUN": "Mutum",
+  "cod_Mun_Sudene": 3144003
+ },
+ {
+  "CD_MUN": 3144201,
+  "NM_MUN": "Nacip Raydan",
+  "cod_Mun_Sudene": 3144201
+ },
+ {
+  "CD_MUN": 3144300,
+  "NM_MUN": "Nanuque",
+  "cod_Mun_Sudene": 3144300
+ },
+ {
+  "CD_MUN": 3144359,
+  "NM_MUN": "Naque",
+  "cod_Mun_Sudene": 3144359
+ },
+ {
+  "CD_MUN": 3144375,
+  "NM_MUN": "Natalândia",
+  "cod_Mun_Sudene": 3144375
+ },
+ {
+  "CD_MUN": 3144656,
+  "NM_MUN": "Ninheira",
+  "cod_Mun_Sudene": 3144656
+ },
+ {
+  "CD_MUN": 3144672,
+  "NM_MUN": "Nova Belém",
+  "cod_Mun_Sudene": 3144672
+ },
+ {
+  "CD_MUN": 3144904,
+  "NM_MUN": "Nova Módica",
+  "cod_Mun_Sudene": 3144904
+ },
+ {
+  "CD_MUN": 3145059,
+  "NM_MUN": "Nova Porteirinha",
+  "cod_Mun_Sudene": 3145059
+ },
+ {
+  "CD_MUN": 3145307,
+  "NM_MUN": "Novo Cruzeiro",
+  "cod_Mun_Sudene": 3145307
+ },
+ {
+  "CD_MUN": 3145356,
+  "NM_MUN": "Novo Oriente de Minas",
+  "cod_Mun_Sudene": 3145356
+ },
+ {
+  "CD_MUN": 3145372,
+  "NM_MUN": "Novorizonte",
+  "cod_Mun_Sudene": 3145372
+ },
+ {
+  "CD_MUN": 3145455,
+  "NM_MUN": "Olhos-d'Água",
+  "cod_Mun_Sudene": 3145455
+ },
+ {
+  "CD_MUN": 3146206,
+  "NM_MUN": "Ouro Verde de Minas",
+  "cod_Mun_Sudene": 3146206
+ },
+ {
+  "CD_MUN": 3146255,
+  "NM_MUN": "Padre Carvalho",
+  "cod_Mun_Sudene": 3146255
+ },
+ {
+  "CD_MUN": 3146305,
+  "NM_MUN": "Padre Paraíso",
+  "cod_Mun_Sudene": 3146305
+ },
+ {
+  "CD_MUN": 3146552,
+  "NM_MUN": "Pai Pedro",
+  "cod_Mun_Sudene": 3146552
+ },
+ {
+  "CD_MUN": 3146750,
+  "NM_MUN": "Palmópolis",
+  "cod_Mun_Sudene": 3146750
+ },
+ {
+  "CD_MUN": 3147956,
+  "NM_MUN": "Patis",
+  "cod_Mun_Sudene": 3147956
+ },
+ {
+  "CD_MUN": 3148400,
+  "NM_MUN": "Paulistas",
+  "cod_Mun_Sudene": 3148400
+ },
+ {
+  "CD_MUN": 3148509,
+  "NM_MUN": "Pavão",
+  "cod_Mun_Sudene": 3148509
+ },
+ {
+  "CD_MUN": 3148608,
+  "NM_MUN": "Peçanha",
+  "cod_Mun_Sudene": 3148608
+ },
+ {
+  "CD_MUN": 3148707,
+  "NM_MUN": "Pedra Azul",
+  "cod_Mun_Sudene": 3148707
+ },
+ {
+  "CD_MUN": 3149150,
+  "NM_MUN": "Pedras de Maria da Cruz",
+  "cod_Mun_Sudene": 3149150
+ },
+ {
+  "CD_MUN": 3149952,
+  "NM_MUN": "Periquito",
+  "cod_Mun_Sudene": 3149952
+ },
+ {
+  "CD_MUN": 3150000,
+  "NM_MUN": "Pescador",
+  "cod_Mun_Sudene": 3150000
+ },
+ {
+  "CD_MUN": 3150158,
+  "NM_MUN": "Piedade de Caratinga",
+  "cod_Mun_Sudene": 3150158
+ },
+ {
+  "CD_MUN": 3150570,
+  "NM_MUN": "Pintópolis",
+  "cod_Mun_Sudene": 3150570
+ },
+ {
+  "CD_MUN": 3151206,
+  "NM_MUN": "Pirapora",
+  "cod_Mun_Sudene": 3151206
+ },
+ {
+  "CD_MUN": 3152131,
+  "NM_MUN": "Ponto Chique",
+  "cod_Mun_Sudene": 3152131
+ },
+ {
+  "CD_MUN": 3152170,
+  "NM_MUN": "Ponto dos Volantes",
+  "cod_Mun_Sudene": 3152170
+ },
+ {
+  "CD_MUN": 3152204,
+  "NM_MUN": "Porteirinha",
+  "cod_Mun_Sudene": 3152204
+ },
+ {
+  "CD_MUN": 3152402,
+  "NM_MUN": "Poté",
+  "cod_Mun_Sudene": 3152402
+ },
+ {
+  "CD_MUN": 3154309,
+  "NM_MUN": "Resplendor",
+  "cod_Mun_Sudene": 3154309
+ },
+ {
+  "CD_MUN": 3154457,
+  "NM_MUN": "Riachinho",
+  "cod_Mun_Sudene": 3154457
+ },
+ {
+  "CD_MUN": 3154507,
+  "NM_MUN": "Riacho dos Machados",
+  "cod_Mun_Sudene": 3154507
+ },
+ {
+  "CD_MUN": 3155108,
+  "NM_MUN": "Rio do Prado",
+  "cod_Mun_Sudene": 3155108
+ },
+ {
+  "CD_MUN": 3155603,
+  "NM_MUN": "Rio Pardo de Minas",
+  "cod_Mun_Sudene": 3155603
+ },
+ {
+  "CD_MUN": 3156007,
+  "NM_MUN": "Rio Vermelho",
+  "cod_Mun_Sudene": 3156007
+ },
+ {
+  "CD_MUN": 3156502,
+  "NM_MUN": "Rubelita",
+  "cod_Mun_Sudene": 3156502
+ },
+ {
+  "CD_MUN": 3156601,
+  "NM_MUN": "Rubim",
+  "cod_Mun_Sudene": 3156601
+ },
+ {
+  "CD_MUN": 3156809,
+  "NM_MUN": "Sabinópolis",
+  "cod_Mun_Sudene": 3156809
+ },
+ {
+  "CD_MUN": 3157005,
+  "NM_MUN": "Salinas",
+  "cod_Mun_Sudene": 3157005
+ },
+ {
+  "CD_MUN": 3157104,
+  "NM_MUN": "Salto da Divisa",
+  "cod_Mun_Sudene": 3157104
+ },
+ {
+  "CD_MUN": 3157252,
+  "NM_MUN": "Santa Bárbara do Leste",
+  "cod_Mun_Sudene": 3157252
+ },
+ {
+  "CD_MUN": 3157377,
+  "NM_MUN": "Santa Cruz de Salinas",
+  "cod_Mun_Sudene": 3157377
+ },
+ {
+  "CD_MUN": 3157500,
+  "NM_MUN": "Santa Efigênia de Minas",
+  "cod_Mun_Sudene": 3157500
+ },
+ {
+  "CD_MUN": 3157609,
+  "NM_MUN": "Santa Fé de Minas",
+  "cod_Mun_Sudene": 3157609
+ },
+ {
+  "CD_MUN": 3157658,
+  "NM_MUN": "Santa Helena de Minas",
+  "cod_Mun_Sudene": 3157658
+ },
+ {
+  "CD_MUN": 3158102,
+  "NM_MUN": "Santa Maria do Salto",
+  "cod_Mun_Sudene": 3158102
+ },
+ {
+  "CD_MUN": 3158201,
+  "NM_MUN": "Santa Maria do Suaçuí",
+  "cod_Mun_Sudene": 3158201
+ },
+ {
+  "CD_MUN": 3159357,
+  "NM_MUN": "Santa Rita de Minas",
+  "cod_Mun_Sudene": 3159357
+ },
+ {
+  "CD_MUN": 3159506,
+  "NM_MUN": "Santa Rita do Itueto",
+  "cod_Mun_Sudene": 3159506
+ },
+ {
+  "CD_MUN": 3160207,
+  "NM_MUN": "Santo Antônio do Itambé",
+  "cod_Mun_Sudene": 3160207
+ },
+ {
+  "CD_MUN": 3160306,
+  "NM_MUN": "Santo Antônio do Jacinto",
+  "cod_Mun_Sudene": 3160306
+ },
+ {
+  "CD_MUN": 3160454,
+  "NM_MUN": "Santo Antônio do Retiro",
+  "cod_Mun_Sudene": 3160454
+ },
+ {
+  "CD_MUN": 3160959,
+  "NM_MUN": "São Domingos das Dores",
+  "cod_Mun_Sudene": 3160959
+ },
+ {
+  "CD_MUN": 3161056,
+  "NM_MUN": "São Félix de Minas",
+  "cod_Mun_Sudene": 3161056
+ },
+ {
+  "CD_MUN": 3161106,
+  "NM_MUN": "São Francisco",
+  "cod_Mun_Sudene": 3161106
+ },
+ {
+  "CD_MUN": 3161601,
+  "NM_MUN": "São Geraldo da Piedade",
+  "cod_Mun_Sudene": 3161601
+ },
+ {
+  "CD_MUN": 3161650,
+  "NM_MUN": "São Geraldo do Baixio",
+  "cod_Mun_Sudene": 3161650
+ },
+ {
+  "CD_MUN": 3162252,
+  "NM_MUN": "São João da Lagoa",
+  "cod_Mun_Sudene": 3162252
+ },
+ {
+  "CD_MUN": 3162401,
+  "NM_MUN": "São João da Ponte",
+  "cod_Mun_Sudene": 3162401
+ },
+ {
+  "CD_MUN": 3162450,
+  "NM_MUN": "São João das Missões",
+  "cod_Mun_Sudene": 3162450
+ },
+ {
+  "CD_MUN": 3162575,
+  "NM_MUN": "São João do Manteninha",
+  "cod_Mun_Sudene": 3162575
+ },
+ {
+  "CD_MUN": 3162658,
+  "NM_MUN": "São João do Pacuí",
+  "cod_Mun_Sudene": 3162658
+ },
+ {
+  "CD_MUN": 3162708,
+  "NM_MUN": "São João do Paraíso",
+  "cod_Mun_Sudene": 3162708
+ },
+ {
+  "CD_MUN": 3162807,
+  "NM_MUN": "São João Evangelista",
+  "cod_Mun_Sudene": 3162807
+ },
+ {
+  "CD_MUN": 3163003,
+  "NM_MUN": "São José da Safira",
+  "cod_Mun_Sudene": 3163003
+ },
+ {
+  "CD_MUN": 3163300,
+  "NM_MUN": "São José do Divino",
+  "cod_Mun_Sudene": 3163300
+ },
+ {
+  "CD_MUN": 3163508,
+  "NM_MUN": "São José do Jacuri",
+  "cod_Mun_Sudene": 3163508
+ },
+ {
+  "CD_MUN": 3164100,
+  "NM_MUN": "São Pedro do Suaçuí",
+  "cod_Mun_Sudene": 3164100
+ },
+ {
+  "CD_MUN": 3164209,
+  "NM_MUN": "São Romão",
+  "cod_Mun_Sudene": 3164209
+ },
+ {
+  "CD_MUN": 3164472,
+  "NM_MUN": "São Sebastião do Anta",
+  "cod_Mun_Sudene": 3164472
+ },
+ {
+  "CD_MUN": 3164506,
+  "NM_MUN": "São Sebastião do Maranhão",
+  "cod_Mun_Sudene": 3164506
+ },
+ {
+  "CD_MUN": 3165503,
+  "NM_MUN": "Sardoá",
+  "cod_Mun_Sudene": 3165503
+ },
+ {
+  "CD_MUN": 3165552,
+  "NM_MUN": "Setubinha",
+  "cod_Mun_Sudene": 3165552
+ },
+ {
+  "CD_MUN": 3165909,
+  "NM_MUN": "Senador Modestino Gonçalves",
+  "cod_Mun_Sudene": 3165909
+ },
+ {
+  "CD_MUN": 3166105,
+  "NM_MUN": "Senhora do Porto",
+  "cod_Mun_Sudene": 3166105
+ },
+ {
+  "CD_MUN": 3166501,
+  "NM_MUN": "Serra Azul de Minas",
+  "cod_Mun_Sudene": 3166501
+ },
+ {
+  "CD_MUN": 3166709,
+  "NM_MUN": "Serra dos Aimorés",
+  "cod_Mun_Sudene": 3166709
+ },
+ {
+  "CD_MUN": 3166956,
+  "NM_MUN": "Serranópolis de Minas",
+  "cod_Mun_Sudene": 3166956
+ },
+ {
+  "CD_MUN": 3167103,
+  "NM_MUN": "Serro",
+  "cod_Mun_Sudene": 3167103
+ },
+ {
+  "CD_MUN": 3167707,
+  "NM_MUN": "Sobrália",
+  "cod_Mun_Sudene": 3167707
+ },
+ {
+  "CD_MUN": 3168002,
+  "NM_MUN": "Taiobeiras",
+  "cod_Mun_Sudene": 3168002
+ },
+ {
+  "CD_MUN": 3168051,
+  "NM_MUN": "Taparuba",
+  "cod_Mun_Sudene": 3168051
+ },
+ {
+  "CD_MUN": 3168408,
+  "NM_MUN": "Tarumirim",
+  "cod_Mun_Sudene": 3168408
+ },
+ {
+  "CD_MUN": 3168606,
+  "NM_MUN": "Teófilo Otoni",
+  "cod_Mun_Sudene": 3168606
+ },
+ {
+  "CD_MUN": 3169505,
+  "NM_MUN": "Tumiritinga",
+  "cod_Mun_Sudene": 3169505
+ },
+ {
+  "CD_MUN": 3169703,
+  "NM_MUN": "Turmalina",
+  "cod_Mun_Sudene": 3169703
+ },
+ {
+  "CD_MUN": 3170008,
+  "NM_MUN": "Ubaí",
+  "cod_Mun_Sudene": 3170008
+ },
+ {
+  "CD_MUN": 3170057,
+  "NM_MUN": "Ubaporanga",
+  "cod_Mun_Sudene": 3170057
+ },
+ {
+  "CD_MUN": 3170305,
+  "NM_MUN": "Umburatiba",
+  "cod_Mun_Sudene": 3170305
+ },
+ {
+  "CD_MUN": 3170479,
+  "NM_MUN": "Uruana de Minas",
+  "cod_Mun_Sudene": 3170479
+ },
+ {
+  "CD_MUN": 3170529,
+  "NM_MUN": "Urucuia",
+  "cod_Mun_Sudene": 3170529
+ },
+ {
+  "CD_MUN": 3170651,
+  "NM_MUN": "Vargem Grande do Rio Pardo",
+  "cod_Mun_Sudene": 3170651
+ },
+ {
+  "CD_MUN": 3170800,
+  "NM_MUN": "Várzea da Palma",
+  "cod_Mun_Sudene": 3170800
+ },
+ {
+  "CD_MUN": 3170909,
+  "NM_MUN": "Varzelândia",
+  "cod_Mun_Sudene": 3170909
+ },
+ {
+  "CD_MUN": 3171030,
+  "NM_MUN": "Verdelândia",
+  "cod_Mun_Sudene": 3171030
+ },
+ {
+  "CD_MUN": 3171071,
+  "NM_MUN": "Veredinha",
+  "cod_Mun_Sudene": 3171071
+ },
+ {
+  "CD_MUN": 3171501,
+  "NM_MUN": "Mathias Lobato",
+  "cod_Mun_Sudene": 3171501
+ },
+ {
+  "CD_MUN": 3171600,
+  "NM_MUN": "Virgem da Lapa",
+  "cod_Mun_Sudene": 3171600
+ },
+ {
+  "CD_MUN": 3171808,
+  "NM_MUN": "Virginópolis",
+  "cod_Mun_Sudene": 3171808
+ },
+ {
+  "CD_MUN": 3171907,
+  "NM_MUN": "Virgolândia",
+  "cod_Mun_Sudene": 3171907
+ },
+ {
+  "CD_MUN": 3200136,
+  "NM_MUN": "Águia Branca",
+  "cod_Mun_Sudene": 3200136
+ },
+ {
+  "CD_MUN": 3200169,
+  "NM_MUN": "Água Doce do Norte",
+  "cod_Mun_Sudene": 3200169
+ },
+ {
+  "CD_MUN": 3200359,
+  "NM_MUN": "Alto Rio Novo",
+  "cod_Mun_Sudene": 3200359
+ },
+ {
+  "CD_MUN": 3200607,
+  "NM_MUN": "Aracruz",
+  "cod_Mun_Sudene": 3200607
+ },
+ {
+  "CD_MUN": 3200805,
+  "NM_MUN": "Baixo Guandu",
+  "cod_Mun_Sudene": 3200805
+ },
+ {
+  "CD_MUN": 3200904,
+  "NM_MUN": "Barra de São Francisco",
+  "cod_Mun_Sudene": 3200904
+ },
+ {
+  "CD_MUN": 3201001,
+  "NM_MUN": "Boa Esperança",
+  "cod_Mun_Sudene": 3201001
+ },
+ {
+  "CD_MUN": 3201506,
+  "NM_MUN": "Colatina",
+  "cod_Mun_Sudene": 3201506
+ },
+ {
+  "CD_MUN": 3201605,
+  "NM_MUN": "Conceição da Barra",
+  "cod_Mun_Sudene": 3201605
+ },
+ {
+  "CD_MUN": 3202108,
+  "NM_MUN": "Ecoporanga",
+  "cod_Mun_Sudene": 3202108
+ },
+ {
+  "CD_MUN": 3202256,
+  "NM_MUN": "Governador Lindenberg",
+  "cod_Mun_Sudene": 3202256
+ },
+ {
+  "CD_MUN": 3202702,
+  "NM_MUN": "Itaguaçu",
+  "cod_Mun_Sudene": 3202702
+ },
+ {
+  "CD_MUN": 3202900,
+  "NM_MUN": "Itarana",
+  "cod_Mun_Sudene": 3202900
+ },
+ {
+  "CD_MUN": 3203056,
+  "NM_MUN": "Jaguaré",
+  "cod_Mun_Sudene": 3203056
+ },
+ {
+  "CD_MUN": 3203205,
+  "NM_MUN": "Linhares",
+  "cod_Mun_Sudene": 3203205
+ },
+ {
+  "CD_MUN": 3203304,
+  "NM_MUN": "Mantenópolis",
+  "cod_Mun_Sudene": 3203304
+ },
+ {
+  "CD_MUN": 3203353,
+  "NM_MUN": "Marilândia",
+  "cod_Mun_Sudene": 3203353
+ },
+ {
+  "CD_MUN": 3203502,
+  "NM_MUN": "Montanha",
+  "cod_Mun_Sudene": 3203502
+ },
+ {
+  "CD_MUN": 3203601,
+  "NM_MUN": "Mucurici",
+  "cod_Mun_Sudene": 3203601
+ },
+ {
+  "CD_MUN": 3203908,
+  "NM_MUN": "Nova Venécia",
+  "cod_Mun_Sudene": 3203908
+ },
+ {
+  "CD_MUN": 3204005,
+  "NM_MUN": "Pancas",
+  "cod_Mun_Sudene": 3204005
+ },
+ {
+  "CD_MUN": 3204054,
+  "NM_MUN": "Pedro Canário",
+  "cod_Mun_Sudene": 3204054
+ },
+ {
+  "CD_MUN": 3204104,
+  "NM_MUN": "Pinheiros",
+  "cod_Mun_Sudene": 3204104
+ },
+ {
+  "CD_MUN": 3204252,
+  "NM_MUN": "Ponto Belo",
+  "cod_Mun_Sudene": 3204252
+ },
+ {
+  "CD_MUN": 3204351,
+  "NM_MUN": "Rio Bananal",
+  "cod_Mun_Sudene": 3204351
+ },
+ {
+  "CD_MUN": 3204658,
+  "NM_MUN": "São Domingos do Norte",
+  "cod_Mun_Sudene": 3204658
+ },
+ {
+  "CD_MUN": 3204708,
+  "NM_MUN": "São Gabriel da Palha",
+  "cod_Mun_Sudene": 3204708
+ },
+ {
+  "CD_MUN": 3204906,
+  "NM_MUN": "São Mateus",
+  "cod_Mun_Sudene": 3204906
+ },
+ {
+  "CD_MUN": 3205010,
+  "NM_MUN": "Sooretama",
+  "cod_Mun_Sudene": 3205010
+ },
+ {
+  "CD_MUN": 3205150,
+  "NM_MUN": "Vila Pavão",
+  "cod_Mun_Sudene": 3205150
+ },
+ {
+  "CD_MUN": 3205176,
+  "NM_MUN": "Vila Valério",
+  "cod_Mun_Sudene": 3205176
+ }
+]
